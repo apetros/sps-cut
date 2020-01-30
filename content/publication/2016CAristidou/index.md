@@ -1,7 +1,7 @@
 +++
 title = "Accelerating the Computation of Critical Eigenvalues with Parallel Computing Techniques"
 date = "2016-06-01"
-authors = ["P. Aristidou","[G. Hug-Glanzmann](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["[P. Aristidou]({{< ref "authors/petros-aristidou/_index.md" >}})","[G. Hug-Glanzmann](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of 2016 PSCC_"

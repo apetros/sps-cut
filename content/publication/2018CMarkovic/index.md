@@ -1,7 +1,7 @@
 +++
 title = "Stability Analysis of Converter Control Modes in Low-Inertia Power Systems"
 date = "2018-10-01"
-authors = ["[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","J. Vorwerk","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","J. Vorwerk","[P. Aristidou]({{< ref "authors/petros-aristidou/_index.md" >}})","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of the 2018 ISGT Europe conf._"

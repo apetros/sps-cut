@@ -1,7 +1,7 @@
 +++
 title = "Time-domain simulation of large electric power systems using domain-decomposition and parallel processing methods"
 date = "2015-06-01"
-authors = ["P. Aristidou"]
+authors = ["[P. Aristidou]({{< ref "authors/petros-aristidou/_index.md" >}})"]
 tags = []
 publication_types = ["7"]
 publication = "_PhD thesis at Université de Liège_"

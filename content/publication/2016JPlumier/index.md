@@ -1,7 +1,7 @@
 +++
 title = "Co-Simulation of Electromagnetic Transients and Phasor Models: A Relaxation Approach"
 date = "2016-10-01"
-authors = ["[F. Plumier](https://scholar.google.ch/citations?user=2tyCECYAAAAJ)","P. Aristidou","[C. Geuzaine](https://scholar.google.com/citations?hl=en&user=D8Wumi0AAAAJ)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["[F. Plumier](https://scholar.google.ch/citations?user=2tyCECYAAAAJ)","[P. Aristidou]({{< ref "authors/petros-aristidou/_index.md" >}})","[C. Geuzaine](https://scholar.google.com/citations?hl=en&user=D8Wumi0AAAAJ)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
 tags = ["emtp","phasor measurement","pm solvers","pm-emt iterations","thevenin impedances","electromagnetic transients","phasor-mode solvers","relaxation approach","boundary conditions","computational modeling","convergence","couplings","impedance","interpolation","mathematical model","co-simulation","electromagnetic transients","hardware in the loop","hybrid simulation","phasor-mode simulation"]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Power Delivery_"

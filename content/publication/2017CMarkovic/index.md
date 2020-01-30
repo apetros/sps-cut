@@ -1,7 +1,7 @@
 +++
 title = "Virtual Induction Machine Strategy for Converters in Power Systems with Low Rotational Inertia"
 date = "2017-08-01"
-authors = ["[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","[P. Aristidou]({{< ref "authors/petros-aristidou/_index.md" >}})","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of 2017 IREP Conf., Espinho_"

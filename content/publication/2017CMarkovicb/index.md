@@ -1,7 +1,7 @@
 +++
 title = "Stability Performance of Power Electronic Devices with Time Delays"
 date = "2017-06-01"
-authors = ["[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","[P. Aristidou]({{< ref "authors/petros-aristidou/_index.md" >}})","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of IEEE PES Powertech Conf., Manchester_"

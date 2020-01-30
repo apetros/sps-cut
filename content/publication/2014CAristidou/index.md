@@ -1,7 +1,7 @@
 +++
 title = "Distributed Model-free Control of Photovoltaic Units for Mitigating Overvoltages in Low-Voltage Networks"
 date = "2014-06-01"
-authors = ["P. Aristidou","[F. Olivier](https://scholar.google.com/citations?user=_pubM3wAAAAJ)","[D. Ernst](https://scholar.google.com/citations?hl=en&user=91ZxYSsAAAAJ)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["[P. Aristidou]({{< ref "authors/petros-aristidou/_index.md" >}})","[F. Olivier](https://scholar.google.com/citations?user=_pubM3wAAAAJ)","[D. Ernst](https://scholar.google.com/citations?hl=en&user=91ZxYSsAAAAJ)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of CIRED Workshop, Rome_"
