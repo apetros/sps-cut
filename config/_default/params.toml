@@ -24,6 +24,8 @@ font = ""
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
 font_size = "L"
 
+logo = "logo.png"
+
 ############################
 ## Basic Info
 ############################
