@@ -13,13 +13,6 @@ A few words about me.
 image = ""
 caption = ""
 
-[advanced]
- # Custom CSS. 
- css_style = "timeline.css"
- 
- # CSS class.
- css_class = ""
-
 +++
 I got my Diploma (5-year degree) from the [Department of Electrical & Computer Engineering](https://www.ece.ntua.gr/en) at the <a href="http://www.ece.ntua.gr" target="_blank">National Technical University of Athens</a> in 2010. I majored in power and energy and minored in computer systems. During my final year, I worked in the group of Prof. Nikos Hadjiargyriou on Game theoretic analysis of Microgrids.
 
