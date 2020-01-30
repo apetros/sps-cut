@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = "[Full List >>](/publication)"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -27,7 +27,7 @@ subtitle = "[Full List >>](/publication)"
   [content.filters]
     tag = ""
     category = ""
-    publication_type = "2"
+    publication_type = ""
     exclude_featured = false
   
 [design]
