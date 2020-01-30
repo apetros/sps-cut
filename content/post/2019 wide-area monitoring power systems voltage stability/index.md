@@ -1,18 +1,20 @@
 ---
-title: Platform for testing wide-area monitoring methods in electric power systems
-subtitle: 
-summary: A small example of using PyRAMSES for testing a voltage stability detection algorithm
-authors:
-- p.-aristidou
-tags: ['pyramses','WAMC','voltage stability']
-categories: []
-date: "2019-10-16T00:00:00Z"
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "Platform for testing wide-area monitoring methods in electric power systems"
+subtitle: ""
+summary: "A small example of using PyRAMSES for testing a voltage stability detection algorithm"
+authors: ["Petros Aristidou"]
+tags: []
+categories: ['pyramses','WAMC','voltage stability']
+date: 2019-09-30T14:26:29+02:00
+lastmod: 2019-09-30T14:26:29+02:00
 featured: false
 draft: false
-math: true
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
   focal_point: ""
@@ -21,13 +23,10 @@ image:
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references 
-#   `content/project/deep-learning/index.md`.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: ['pyramses']
 ---
-
-# Platform for testing wide-area monitoring methods in electric power systems
 
 In real-time operation, electric power systems are continually evolving with scheduled and unscheduled events disturbing their operation. A cascade of hierarchical monitoring and control methods (automatic and manual) are put in place to survey the system status and react accordingly. The most promising, but at the same time most demanding in terms of infrastructure, methods are based on wide-area monitoring and control (WAMC).
 

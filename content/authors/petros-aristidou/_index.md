@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Petros Aristidou
+name: "Petros Aristidou"
 
-# Username (this should match the folder name)
+# Username (this should match the folder name and the name on publications)
 authors:
-- p-aristidou
+- Name "Petros Aristidou"
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,6 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
+# List each interest with a dash
 interests:
 - Power and energy system informatics
 - Control and operation of hybrid dynamical systems
@@ -36,7 +37,7 @@ education:
 
 
 # Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
@@ -65,7 +66,7 @@ social:
 email: "petros.aristidou@cut.ac.cy"
   
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Principal Investigator
 ---
