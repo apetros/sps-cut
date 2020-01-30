@@ -73,4 +73,4 @@ user_groups:
 
 I am a Lecturer at the [Cyprus University of Technology](https://cut.ac.cy). I work on making future electric power systems sustainable, secure, and resilient. My research brings together mathematical tools from the areas of numerical analysis and optimisation, with high performance computational tools and machine learning techniques, to tackle modern power system problems.
 
-For more information, check my [short bio]({{< ref "/short-bio.md" >}}).
+For more information, check my [short bio]({{< ref "/short-bio.md">}}).
