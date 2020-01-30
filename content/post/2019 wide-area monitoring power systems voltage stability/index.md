@@ -4,7 +4,7 @@
 title: "Platform for testing wide-area monitoring methods in electric power systems"
 subtitle: ""
 summary: "A small example of using PyRAMSES for testing a voltage stability detection algorithm"
-authors: ["Petros Aristidou"]
+authors: ["P. Aristidou"]
 tags: []
 categories: ['pyramses','WAMC','voltage stability']
 date: 2019-09-30T14:26:29+02:00
