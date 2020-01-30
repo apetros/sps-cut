@@ -1,7 +1,7 @@
 +++
 title = "Enhancement of Transmission System Voltage Stability through Local Control of Distribution Networks"
 date = "2018-01-01"
-authors = ["[G. Valverde](http://scholar.google.co.uk/citations?user=Uy6MCt4AAAAJ)","[P. Aristidou]({{< ref "authors/petros-aristidou/_index.md" >}})","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["[G. Valverde](http://scholar.google.co.uk/citations?user=Uy6MCt4AAAAJ)","[P. Aristidou]({{< ref 'authors/petros-aristidou/_index.md' >}})","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
 tags = []
 publication_types = ["6"]
 publication = "_Dynamic Vulnerability Assessment and Intelligent Control for Sustainable Power Systems_"

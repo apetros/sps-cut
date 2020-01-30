@@ -1,7 +1,7 @@
 +++
 title = "TDNetGen: An Open-Source, Parametrizable, Large-Scale, Transmission, and Distribution Test System"
 date = "2019-03-01"
-authors = ["N. Pilatte","[P. Aristidou]({{< ref "authors/petros-aristidou/_index.md" >}})","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["N. Pilatte","[P. Aristidou]({{< ref 'authors/petros-aristidou/_index.md' >}})","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = ["mathematics computing","power distribution protection","power engineering computing","power grids","power transmission protection","renewable energy sources","tdnetgen","distribution test system","open-source matlab toolbox","combined transmission","distribution network models","multiple distribution systems","ancillary services","active distribution grids","planning","emergency control","protection schemes","combined market aspects","generated test-system models","final system","parametrizable system","voltage levels","open-source system","large-scale system","transmission system","load modeling","power system stability","open source software","stability analysis","generators","computational modeling","planning","matpower","open-source","test systems","transmission and distribution"]
 publication_types = ["2"]
 publication = "_IEEE Systems Journal_"

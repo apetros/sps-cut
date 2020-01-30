@@ -1,7 +1,7 @@
 +++
 title = "Microgrid Modelling and Analysis Using Game Theory Methods"
 date = "2011-01-01"
-authors = ["[P. Aristidou]({{< ref "authors/petros-aristidou/_index.md" >}})","[A. Dimeas](https://scholar.google.com/citations?user=jUEN2soAAAAJ)","[N. Hatziargyriou](https://scholar.google.ch/citations?user=TL9yCsQAAAAJ)"]
+authors = ["[P. Aristidou]({{< ref 'authors/petros-aristidou/_index.md' >}})","[A. Dimeas](https://scholar.google.com/citations?user=jUEN2soAAAAJ)","[N. Hatziargyriou](https://scholar.google.ch/citations?user=TL9yCsQAAAAJ)"]
 tags = []
 publication_types = ["6"]
 publication = "_Energy-Efficient Computing and Networking_"

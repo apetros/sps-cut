@@ -1,7 +1,7 @@
 +++
 title = "Optimized local control schemes for active distribution grids using machine learning techniques"
 date = "2018-08-01"
-authors = ["F. Bellizio","[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","[P. Aristidou]({{< ref "authors/petros-aristidou/_index.md" >}})","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["F. Bellizio","[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","[P. Aristidou]({{< ref 'authors/petros-aristidou/_index.md' >}})","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of the 2018 IEEE PES General Meeting_"
