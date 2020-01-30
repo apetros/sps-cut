@@ -5,7 +5,7 @@ summary: This is a supporting website for the module EEN320 at the Cyprus Univer
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Power systems I
 date: "2020-1-1T00:00:00Z"
 lastmod: "2020-1-5T00:00:00Z"
 draft: false  # Is this a draft? true/false
