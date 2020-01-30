@@ -13,3 +13,5 @@ header:
   caption: ""
   image: ""
 ---
+
+Most of the publications are available in pre-print. If there is any you cannot find, please let me know and I'll send.
