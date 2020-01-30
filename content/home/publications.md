@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "[Full List >>](/publication)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -31,9 +31,6 @@ subtitle = ""
     exclude_featured = false
   
 [design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
-
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
