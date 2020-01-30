@@ -26,7 +26,7 @@ subtitle = "Some of our current and past projects."
   #   tag = "*"
   
   [[content.filter_button]]
-    name = "Projects"
+    name = "Current projects"
     tag = "funded"
 
   [[content.filter_button]]
