@@ -8,6 +8,10 @@ weight = 2  # Order that this section will appear in.
 title = "About us"
 subtitle = "... and what we do"
 
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
 +++
 SPS is led by [Dr Petros Aristidou]({{< ref "authors/p-aristidou/_index.md" >}}) and is part of the [Department of Electrical Engineering and Computer Engineering and Informatics](https://www.cut.ac.cy/faculties/fet/eecei/?languageId=1) at the Cyprus University of Technology.
 
