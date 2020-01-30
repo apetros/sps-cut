@@ -1,7 +1,7 @@
 +++
 title = "Active Distribution Grids offering Ancillary Services in Islanded and Grid-connected Mode"
 date = "2019-01-01"
-authors = ["[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","J. Gallmann","M. G. Vaya","[P. Aristidou]({{< ref 'authors/petros-aristidou/_index.md' >}})","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","J. Gallmann","M. G. Vaya","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = ["optimization","frequency control","microgrids","uncertainty","reliability","generators","resilience","reviewactive distribution networks","centralized control","distributed energy resources","frequency control","islanded operation","microgrid","optimal power flow","resilience."]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Smart Grid_"

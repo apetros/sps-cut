@@ -1,7 +1,7 @@
 +++
 title = "LQR-Based Adaptive Virtual Synchronous Machine for Power Systems With High Inverter Penetration"
 date = "2019-07-01"
-authors = ["[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","Z. Chu","[P. Aristidou]({{< ref 'authors/petros-aristidou/_index.md' >}})","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","Z. Chu","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = ["frequency control","damping","generators","synchronous machines","adaptation models","mathematical model","frequency conversion","linear-quadratic regulator (lqr)","virtual synchronous machine (vsm)","voltage source converter (vsc)","swing equation","adaptive control"]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Sustainable Energy_"

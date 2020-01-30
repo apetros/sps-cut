@@ -1,7 +1,7 @@
 +++
 title = "Delay-Robust Distributed Secondary Frequency Control: A Case Study"
 date = "2019-06-01"
-authors = ["S. Alghamdi","N. Smith","[J. Schiffer](https://scholar.google.com/citations?hl=en&user=Zk26WrgAAAAJ)","[P. Aristidou]({{< ref 'authors/petros-aristidou/_index.md' >}})"]
+authors = ["S. Alghamdi","N. Smith","[J. Schiffer](https://scholar.google.com/citations?hl=en&user=Zk26WrgAAAAJ)","P. Aristidou"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of the IEEE PES PowerTech Conf., Milano_"

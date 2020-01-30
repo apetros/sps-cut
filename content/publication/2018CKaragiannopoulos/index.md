@@ -1,7 +1,7 @@
 +++
 title = "A Centralised Control Method for Tackling Unbalances in Active Distribution Grids"
 date = "2018-06-01"
-authors = ["[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","[P. Aristidou]({{< ref 'authors/petros-aristidou/_index.md' >}})","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of the 2018 PSCC_"

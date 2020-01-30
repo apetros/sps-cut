@@ -1,7 +1,7 @@
 +++
 title = "Microgrid Modeling and Analysis using Game Theory Methods (in Greek)"
 date = "2010-01-01"
-authors = ["[P. Aristidou]({{< ref "authors/petros-aristidou/_index.md" >}})"]
+authors = ["P. Aristidou"]
 tags = []
 publication_types = ["7"]
 publication = "_National Technical University of Athens_"

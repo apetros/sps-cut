@@ -1,7 +1,7 @@
 +++
 title = "Stabilising control strategy for cyber-physical power systems"
 date = "2019-09-01"
-authors = ["E. Ekomwenrenren","H. Alharbi","T. Elgorashi","[J. Elmirghani](https://scholar.google.com/citations?hl=en&user=jc_S5bIAAAAJ)","[P. Aristidou]({{< ref 'authors/petros-aristidou/_index.md' >}})"]
+authors = ["E. Ekomwenrenren","H. Alharbi","T. Elgorashi","[J. Elmirghani](https://scholar.google.com/citations?hl=en&user=jc_S5bIAAAAJ)","P. Aristidou"]
 tags = ["power system control","delays","power system measurement","power system stability","power system security","control system synthesis","damping","cyber-physical nature","electric power systems","advanced communication infrastructure","wide-area controllers","remote monitor","power system stability problems","local controllers","wide-area damping controllers","cyber-physical power system","rule-based control strategy","traditional local stabilising controllers"]
 publication_types = ["2"]
 publication = "_IET Cyber-Physical Systems: Theory Applications_"
