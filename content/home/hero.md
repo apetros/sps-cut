@@ -51,6 +51,3 @@ hero_media = ""
 #  label = '<a id="academic-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release <!-- V --></a>'
 +++
 
-<br>
-<br>
-<br>
