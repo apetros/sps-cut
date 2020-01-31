@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Selected Projects"
-subtitle = "Some of our current and past projects."
+subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
@@ -30,7 +30,7 @@ subtitle = "Some of our current and past projects."
     tag = "funded"
 
   [[content.filter_button]]
-    name = "Software"
+    name = "Software tools"
     tag = "software" 
 
 [design]
@@ -42,7 +42,7 @@ subtitle = "Some of our current and past projects."
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
