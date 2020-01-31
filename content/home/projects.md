@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Selected Projects"
-subtitle = ""
+subtitle = "Some of our ongoing and past projects"
 
 [content]
   # Page type to display. E.g. project.
@@ -21,9 +21,9 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
+  # [[content.filter_button]]
+  # name = "All"
+  # tag = "*"
   
   [[content.filter_button]]
     name = "Current projects"
@@ -35,7 +35,7 @@ subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
   # Toggle between the various page layout types.
   #   1 = List
