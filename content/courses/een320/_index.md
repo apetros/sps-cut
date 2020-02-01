@@ -54,6 +54,6 @@ On completion of this module, students should be able to:
 
 | Assessment type | % of grade |
 |-----------------|------------|
-| In-semester tests (4x5%)   | 20          |
+| In-semester tests | 20          |
 | Lab report  | 20         |
 | Final exam      | 60         |
