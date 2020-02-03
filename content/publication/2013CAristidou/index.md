@@ -1,7 +1,7 @@
 +++
 title = "Exploiting Localization for Faster Power System Dynamic Simulations"
 date = "2013-06-01"
-authors = ["P. Aristidou","[D. Fabozzi](https://scholar.google.ch/citations?user=2wog_JcAAAAJ)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","[D. Fabozzi](https://scholar.google.ch/citations?user=2wog_JcAAAAJ)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of IEEE PES PowerTech Conf., Grenoble_"

@@ -1,7 +1,7 @@
 +++
 title = "Interval-Based Adaptive Inertia and Damping Control of a Virtual Synchronous Machine"
 date = "2019-06-01"
-authors = ["[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","N. Fruh","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","N. Fruh","[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of the IEEE PES PowerTech Conf., Milano_"

@@ -1,7 +1,7 @@
 +++
 title = "Power system stability enhancement through the optimal, passivity-based, placement of SVCs"
 date = "2018-06-01"
-authors = ["C. Spanias","P. Aristidou","M. Michaelides","I. Lestas"]
+authors = ["C. Spanias","[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","M. Michaelides","I. Lestas"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of the 2018 PSCC_"

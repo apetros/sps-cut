@@ -1,7 +1,7 @@
 +++
 title = "A relaxation scheme to combine Phasor-Mode and Electromagnetic Transients Simulations"
 date = "2014-08-01"
-authors = ["[F. Plumier](https://scholar.google.ch/citations?user=2tyCECYAAAAJ)","P. Aristidou","[C. Geuzaine](https://scholar.google.com/citations?hl=en&user=D8Wumi0AAAAJ)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["[F. Plumier](https://scholar.google.ch/citations?user=2tyCECYAAAAJ)","[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","[C. Geuzaine](https://scholar.google.com/citations?hl=en&user=D8Wumi0AAAAJ)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of the 18th PSCC, Wroclaw_"

@@ -1,7 +1,7 @@
 +++
 title = "Contribution to Bulk System Control and Stability by Distributed Energy Resources connected at Distribution Network"
 date = "2017-01-01"
-authors = ["[N. Hatziargyriou](https://scholar.google.ch/citations?user=TL9yCsQAAAAJ)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)","J. Milanovic","P. Pourbeik","[C. Vournas](https://scholar.google.com/citations?user=TF8e0_AAAAAJ)","O. Vlachokyriakou","P. Kotsampopoulos","M. Hong","R. Ramos","J. Boemer","P. Aristidou","V. Singhvi","J. dos Santos","L. Colombari"]
+authors = ["[N. Hatziargyriou](https://scholar.google.ch/citations?user=TL9yCsQAAAAJ)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)","J. Milanovic","P. Pourbeik","[C. Vournas](https://scholar.google.com/citations?user=TF8e0_AAAAAJ)","O. Vlachokyriakou","P. Kotsampopoulos","M. Hong","R. Ramos","J. Boemer","[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","V. Singhvi","J. dos Santos","L. Colombari"]
 tags = []
 publication_types = ["4"]
 publication = "_IEEE Power & Energy Society_"
