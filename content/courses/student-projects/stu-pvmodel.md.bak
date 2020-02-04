@@ -1,0 +1,61 @@
++++
+# Date this page was created.
+date = "2017-09-01"
+
+# Project title.
+title = "[L3/MSc] Development and validation of a dynamic PV model"
+
+# Project summary to display on homepage.
+summary = "Do we really know how good are our RES models? Can you deliver a high fidelity, validated, PV model?"
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["smart-grids","modelling", "student-projects","L3", "MSc"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
+
+
+## Background
+
+Modern [Smart Grids](https://en.wikipedia.org/wiki/Smart_grid) rely on advanced computational tools to analyse the security of the system and provide valuable information to the network operators. However, the results are only as good as the models used to represent the Smart Grid components in these computational tools. As sustainable energy resources are increasing in number and capacity, it becomes more and more important to develop accurate and validated models to represent these units in the computational tools used to analyse the security of Smart Grids. These models are usually represented using block-diagrams or systems of differential-algebraic equations[^kundur].
+
+
+## Objectives
+
+In this project, you have to develop and validate a dynamic model of the well-known WECC Photovoltaic generator model[^WECCPV] to be used in dynamic simulations for assessing the security of Smart Grids and the impact of renewable generators.
+
+## Deliverables
+
+- A complete literature review including a comparison between different existing PV dynamic models.
+- A PV generator model implemented in RAMSES[^RAMSES] and validated against measurements from WECC[^WECCVAL].
+- A PV generator model implemented in MATLAB simulink and validated against measurements from WECC[^WECCPV2] using the Smart Grid Laboratory.
+- All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC]. The final code (along with all other supplementary files) should be published on [Zenodo](http://www.zenodo.org/) and the DOI included in the final report[^ZenDOI].
+
+## Student profile
+
+- Good analytical skills.
+- Background in renewable energy sources.
+
+[^WECCPV]: [WECC PV Power Plant Dynamic Modeling Guide](https://www.wecc.biz/Reliability/WECC%20Solar%20Plant%20Dynamic%20Modeling%20Guidelines.pdf)
+[^WECCPV2]: [Implementation and Validation of WECC Generic Photovoltaic System Models in DIgSILENT PowerFactory](https://www.uni-kassel.de/eecs/fileadmin/datas/fb16/Fachgebiete/energiemanagement/Mitarbeitende/GLammert_WECCgenericPVsystem_20151109_FINAL_copyright.pdf)
+[^WECCVAL]: [Renewable Energy Model Validation (REMV) Version 2.0](https://www.epri.com/#/pages/product/000000003002003352/)
+[^kundur]: Kundur, P., Balu, N. J., & Lauby, M. G. (1994). Power system stability and control. New York: McGraw-Hill.
+[^RAMSES]: [RAMSES: RApid Multithreaded Simulation of Electric power Systems](http://www.montefiore.ulg.ac.be/~vct/software.html)
+[^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
+[^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
+
+Please, before asking any questions, please check the [FAQ]({{< ref "stu-faq.md" >}}).

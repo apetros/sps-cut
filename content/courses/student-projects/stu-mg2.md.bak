@@ -1,0 +1,59 @@
++++
+# Date this page was created.
+date = "2018-11-15"
+
+# Project title.
+title = "Experiment validation of a Microgrid model"
+
+# Project summary to display on homepage.
+summary = "Develop and test frequency control in a Smart Grid Lab"
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["smart-grids","modelling", "student-projects","low-inertia"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
+
+## Background
+
+Modern Smart Grids rely on advanced computational tools to analyze the security of the system and provide valuable information to the network operators. However, the results are only as good as the models used to represent the Smart Grid components in these computational tools. As sustainable energy resources are increasing in number and capacity, it becomes more and more important to develop accurate and validated models to represent these units in the computational tools used to analyze the ancillary services of Smart Grids.
+
+
+## Objectives
+
+In this project, you have to develop two models of distributed energy resources (Photovoltaic and battery) and then test them in the state-of-the-art hardware in the loop Smart Grid Lab. Finally, you will test the abilities of these units to provide frequency control, through a distributed, p2p, control scheme.
+ 
+
+## Deliverables
+
+- A complete literature review on frequency control in MG.
+- Develop in Matlab/Simulink the individual models of two generators to be used on each unit in the Smart Grids Lap and test them.
+- Develop a peer-to-peer frequency control scenario.
+- All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC]. The final code (along with all other supplementary files) should be published in [Zenodo](http://www.zenodo.org/) and the DOI included in the final report[^ZenDOI].
+
+## Student profile
+
+- Good analytical skills.
+- Good programming skills (Matlab/Simulink)
+- Background in renewable energy sources.
+
+[^low-inertia]: [Impact of Low Rotational Inertia on Power System Stability and Operation](https://arxiv.org/pdf/1312.6435.pdf)
+[^kundur]: Kundur, P., Balu, N. J., & Lauby, M. G. (1994). Power system stability and control. New York: McGraw-Hill.
+[^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
+[^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
+
+Please, before asking any questions, please check the [FAQ]({{< ref "stu-faq.md" >}}).

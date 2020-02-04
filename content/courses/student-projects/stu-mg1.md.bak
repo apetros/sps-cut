@@ -1,0 +1,61 @@
++++
+# Date this page was created.
+date = "2018-09-01"
+
+# Project title.
+title = "Development of a dynamic Microgrid model"
+
+# Project summary to display on homepage.
+summary = "Modelling and analysis of a dynamic Microgrid model for frequency studies."
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["smart-grids","modelling", "student-projects"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
+
+## Background
+
+Modern [Smart Grids](https://en.wikipedia.org/wiki/Smart_grid) rely on advanced computational tools to analyse the security of the system and provide valuable information to the network operators. Thus, it is necessary to develop appropriate dynamic models of the electricity grids to be used in the computations. The luck of accurate and validated dynamic models can endanger the security of the system.
+
+## Objectives
+
+In this project, you have to develop a dynamic model of the well-known CIGRE benchmark MV network to be used with the dynamic simulator RAMSES[^RAMSES] for assessing the delay-robust of distributed frequency control.
+
+![CIGRE benchmark MV network](../MG-net.png)
+
+## Deliverables
+
+- A complete literature review on MG including MG definition and dynamics.
+- A dynamic model of the MG system suitable for simulations with RAMSES.
+- A frequency test case scenario using RAMSES.
+- All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC]. The final code (along with all other supplementary files) should be published on [Zenodo](http://www.zenodo.org/) and the DOI included in the final report[^ZenDOI].
+
+## Student profile
+
+- Good analytical skills.
+- Good programming skills.
+- Experience with modelling and simulation of power systems.
+- Background in renewable energy sources.
+
+
+[^kundur]: Kundur, P., Balu, N. J., & Lauby, M. G. (1994). Power system stability and control. New York: McGraw-Hill.
+[^RAMSES]: [RAMSES: RApid Multithreaded Simulation of Electric power Systems](http://www.montefiore.ulg.ac.be/~vct/software.html)
+[^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
+[^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
+
+Please, before asking any questions, please check the [FAQ]({{< ref "stu-faq.md" >}}).

@@ -1,0 +1,61 @@
++++
+# Date this page was created.
+date = "2018-09-01"
+
+# Project title.
+title = "Modelling and Comparison of Different HVDC Converter Technologies"
+
+# Project summary to display on homepage.
+summary = "Modelling and analysis of HVDC technologies."
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["smart-grids","modelling", "student-projects"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
+
+
+## Background
+
+With the rise in sustainable energy sources and decommissioning of conventional power plants for a low-carbon future, large-scale power systems are faced with many hurdles. High-Voltage Direct Current (HVDC) is a method of potentially easing these expected issues as this is an efficient way for bulk power transmission over long distances hence ideal for interconnections and offshore renewable integration.
+
+The power electronics used in this application are a key component and are responsible for HVDC’s high controllability and available ancillary services. This therefore means future systems with HVDC require advanced modelling approaches which are necessary to analyse their behaviour and provide valuable information to engineers for assessment. Dynamic converter models are however, very complex and although there are many readily available power system analysis software packages, there may be some vital discrepancies between each of them. This therefore calls for a comparison of the dynamic behaviour of each of these technologies in packages such as DIgSILENT PowerFactory, PSS/E and RAMSES[^RAMSES].
+
+## Objectives
+
+In this project, you will have to develop an understanding of LCC, VSC and MMC HVDC converter technologies, their dynamic behaviour and basic control. From this a reliable point-to-point test system will be developed in DIgSILENT PowerFactory, PSS/E and RAMSES to assess their behaviour and compared for any discrepancies.
+
+## Deliverables
+
+- Literature review of different dynamic HVDC converter models with basic control.
+- Small point-to-point test system in different power system software packages.
+- Results presenting any differences between the analysis tools.
+- All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC].
+
+## Student profile
+
+- Good analytical skills.
+- Good programming skills.
+- Experience with modelling and simulation of power systems.
+
+
+[^kundur]: Kundur, P., Balu, N. J., & Lauby, M. G. (1994). Power system stability and control. New York: McGraw-Hill.
+[^RAMSES]: [RAMSES: RApid Multithreaded Simulation of Electric power Systems](http://www.montefiore.ulg.ac.be/~vct/software.html)
+[^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
+[^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
+
+Please, before asking any questions, please check the [FAQ]({{< ref "stu-faq.md" >}}).

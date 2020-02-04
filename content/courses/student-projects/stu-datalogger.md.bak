@@ -1,0 +1,48 @@
++++
+# Date this page was created.
+date = "2017-09-01"
+
+# Project title.
+title = "Development of a low-cost data logger for energy monitoring"
+
+# Project summary to display on homepage.
+summary = "Increasing Smart Grid awareness through remote sensing."
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["smart-grids","ICT", "student-projects"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
+
+
+## Background
+
+Less that 20% of the population in rural areas in sub-Saharan countries has electricity. This has a direct impact to the quality of life, economy, health, and education. One of the big challenges in designing new electrification projects is the lack of information about the behaviour and energy consumption of existing consumers in these areas. This information, if available, could assist in reducing the risk and the cost of future electrification projects.
+
+## Objectives
+
+In this project, you have to design and implement an ultra-low-cost energy and [power quality](https://openpowerquality.org/docs/intro-power-quality.html) data logging device. The device will connect to existing households in developing countries and provide time-stamped (GPS) data.
+
+
+## Deliverables
+
+- A complete literature and market review of ultra-low-cost energy and power quality data logging devices.
+- A prototype model of an ultra-low-cost energy and power quality data logging device.
+- All hardware designs and code developed should be documented and published on [GitHub](https://github.com/) under an MIT License.
+
+
+Please, before asking any questions, please check the [FAQ]({{< ref "stu-faq.md" >}}).

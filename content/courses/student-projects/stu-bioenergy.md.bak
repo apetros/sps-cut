@@ -1,0 +1,57 @@
++++
+# Date this page was created.
+date = "2017-09-01"
+
+# Project title.
+title = "Development of planning models for electricity generation from biomass"
+
+# Project summary to display on homepage.
+summary = "Electricity generation from biomass for increased resilience and sustainability in modern Smart Grids."
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["smart-grids","bioenergy", "student-projects"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
+
+
+## Background
+
+[Electricity generation from biomass](https://en.wikipedia.org/wiki/Bioenergy#Electricity_generation_from_biomass) will play a major role in developing a truly sustainable and resilient [Smart Grids](https://en.wikipedia.org/wiki/Smart_grid). By diversifying the generator mixture in power systems, we decrease the impact that any single type of generator has on the overall performance and the risk associated with the variations of the primary source (fossil fuels, wind, solar, biomass, etc.). However, before incorporating bioenergy generators to the grid, we need to investigate their electrical characteristics during normal operation and transients.
+
+{{< figure src="/img/projects/biobattery.jpg" title="Uses of bioenergy co-generation" >}}Figure Source: [^bio]
+
+## Objectives
+
+In this project, you have to investigate the different types of electricity generation from biomass and develop appropriate models to be used in the planning phase of modern Smart Grids. You will have to investigate their generation performance, availability, start up and shut down times, delay between switching fuel, etc.
+
+## Deliverables
+
+- A complete literature review including a comparison between different existing technologies of electricity generation from biomass.
+- Implement and test in a simulation software of your choice at least two different bioenergy generators.
+- All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC]. The final code (along with all other supplementary files) should be published on [Zenodo](http://www.zenodo.org/) and the DOI included in the final report[^ZenDOI].
+
+## Student profile
+
+- Good analytical skills.
+- Background in renewable energy sources.
+
+[^bio]: [Modular Biobattery Plant Turns Sewage Sludge Into Energy](http://www.industrytap.com/modular-biobattery-plant-turns-sewage-sludge-energy/27596)
+[^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
+[^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
+
+Please, before asking any questions, please check the [FAQ]({{< ref "stu-faq.md" >}}).

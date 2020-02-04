@@ -1,0 +1,51 @@
++++
+# Date this page was created.
+date = "2018-09-01"
+
+# Project title.
+title = "Graph-theoretic analysis of Smart Grids"
+
+# Project summary to display on homepage.
+summary = "Unleash the power of data science to support the development of Smart Grids."
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["smart-grids","machine-learning", "student-projects"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
+
+
+## Background and Objectives
+
+Like all networked systems, electric power grids can be modelled with [graph theory](https://en.wikipedia.org/wiki/Graph_theory). This representation allows to extract valuable information from the system and its dynamic performance. In this project, you have to develop the tools to convert the responses coming from power system dynamic simulation software into a dynamic graph stream and visualize it.
+
+## Deliverables
+
+- A complete literature review concerning graph theory analysis in electric power systems.
+- An interface in Python that can convert the results from a power system dynamic simulation to a dynamic graph stream.
+- A graph visualisation tool that will produce graph representations from power system topologies.
+- All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC]. The final code (along with all other supplementary files) should be published on [Zenodo](http://www.zenodo.org/) and the DOI included in the final report[^ZenDOI].
+
+## Student profile
+
+- Good analytical skills.
+- Good programming skills (Python -- or willingness to learn fast).
+
+[^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
+[^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
+
+Please, before asking any questions, please check the [FAQ]({{< ref "stu-faq.md" >}}).

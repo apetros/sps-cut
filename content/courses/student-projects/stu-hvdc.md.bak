@@ -1,0 +1,58 @@
++++
+# Date this page was created.
+date = "2018-09-01"
+
+# Project title.
+title = "Extensive Dynamic Studies of a Future Representative Great British Power Network"
+
+# Project summary to display on homepage.
+summary = "Modelling and analysis of Smart Grids"
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["smart-grids","modelling", "student-projects"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
+
+## Background
+
+Modern power networks are under a great deal of modification due to the rise in renewable energy sources (RES) in recent years for a low-carbon future. These RES are interfaced with large scale power systems though power electronics and therefore do not contribute to the systems inertia which introduces new issues linked to the stability and security of future systems. These issues promote the use of large scale power system modelling tools to assess their dynamic behaviour and responses to disturbances for information to operators.
+However, since these changes are happening over a short amount of time, there is a need for a common GB test system model for stability studies to be used across various institutes to ensure all research on this matter is consistent with each other. Such models are however very complex and extensive testing and comparison with other existing work is required to see if this aim has the potential to be met. RAMSES[^RAMSES] will be used to carry out tests on a readily available GB system model that requires some changes to meet a new future scenario update and newly available data.
+
+## Objectives
+
+In this project, you will carry out extensive dynamic simulations of its behaviour for a range of disturbances. This can then be compared with other existing results to verify its behaviour.
+
+## Deliverables
+
+- Literature review of typical stability issues in large scale systems.
+- Contribute to an update of a large-scale Representative GB Power Network for future stability studies.
+- Test model for various disturbances and analyse dynamic behaviour for comparison and verification.
+- All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC].
+
+## Student profile
+
+- Good analytical skills.
+- Experience with modelling and simulation of power systems.
+
+
+[^kundur]: Kundur, P., Balu, N. J., & Lauby, M. G. (1994). Power system stability and control. New York: McGraw-Hill.
+[^RAMSES]: [RAMSES: RApid Multithreaded Simulation of Electric power Systems](http://www.montefiore.ulg.ac.be/~vct/software.html)
+[^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
+[^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
+
+Please, before asking any questions, please check the [FAQ]({{< ref "stu-faq.md" >}}).

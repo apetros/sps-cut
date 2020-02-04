@@ -1,0 +1,61 @@
++++
+# Date this page was created.
+date = "2017-09-01"
+
+# Project title.
+title = "[L3/MSc] Load forecasting with Machine Learning techniques"
+
+# Project summary to display on homepage.
+summary = "Unleash the power of data science to support the development of Smart Grids."
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["smart-grids","machine-learning", "student-projects"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
+
+
+## Background
+
+Modern [Smart Grids](https://en.wikipedia.org/wiki/Smart_grid) rely on advanced computational tools to provide valuable information to the network operators. For example, Load Forecasting[^ELF][^SGSem] methods are used to predict the consumption of the customers in advance, to make sure there is adequate capacity. This allows power companies to reduce the financial risk and optimize the operation of their system[^MATLAB]. Several tools have been proposed over the years, but the most promising of them use [Machine-learning](https://en.wikipedia.org/wiki/Machine_learning) techniques.
+
+Figure Source: [^Curvefit]{{< figure src="/img/projects/Regression_pic_assymetrique.gif" title="Fitting of a noisy curve by an asymmetrical peak model" >}}
+
+## Objectives
+
+In this project, you have to develop and validate a load forecasting tool in Python or R (the two most popular languages in the area) to predict the consumption in Smart Grids as accurately as possible. You will leverage the power of machine-learning techniques to interpret large databases with historical data.
+
+## Deliverables
+
+- A complete literature review including a comparison between different methods currently used for load forecasting (with emphasis on machine-learning methods).
+- A tool for load forecasting in Smart Grids using machine-learning techniques (at least two different techniques need to be implemented and compared). You shall use Python or R for this tool.
+- All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC]. The final code (along with all other supplementary files) should be published on [Zenodo](http://www.zenodo.org/) and the DOI included in the final report[^ZenDOI].
+
+## Student profile
+
+- Good analytical skills.
+- Good programming skills (Python, R -- or willingness to learn fast).
+- Background in machine-learning techniques will be considered a plus.
+
+[^Curvefit]: [Curve fitting](https://en.wikipedia.org/wiki/Curve_fitting)
+[^ELF]: [Electric load forecasting: fundamentals and best practices](https://www.otexts.org/elf)
+[^MATLAB]: [Develop and deploy algorithms for accurate electricity load forecasting](https://uk.mathworks.com/discovery/load-forecasting.html)
+[^SGSem]: [LOAD FORECASTING: Smart Grid Seminar](http://cseweb.ucsd.edu/~trosing/lectures/load_forecast.pdf)
+[^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
+[^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
+
+Please, before asking any questions, please check the [FAQ]({{< ref "stu-faq.md" >}}).

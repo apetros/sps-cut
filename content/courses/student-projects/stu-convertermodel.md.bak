@@ -1,0 +1,62 @@
++++
+# Date this page was created.
+date = "2017-11-20"
+draft = true
+
+# Project title.
+title = "Development and validation of a dynamic converter model"
+
+# Project summary to display on homepage.
+summary = "Can you deliver a high performance converter model for large-scale simulations of low-inertia systems?"
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = ""
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["smart-grids","modelling", "student-projects","low-inertia"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
+
+
+## Background
+
+Modern [Smart Grids](https://en.wikipedia.org/wiki/Smart_grid) rely on advanced computational tools to analyze the security of the system and provide valuable information to the network operators. As sustainable energy resources are increasing in number and capacity, traditional synchronous generators are being decommissioned and replaced by converter-based generators thus decreasing the system inertia and causing several problems[^low-inertia]. Thus, it becomes more and more important to develop accurate and detailed models to represent these units in the computational tools used to analyze the security of power systems. 
+
+These models are complex and computationally intensive. While general-purpose simulation software (like MATLAB/Simulink) are appropriate to model and simulate small systems, they fail to deliver the required performance when large-scale networks with tens or hundreds of converter-based generators must be included. It is thus important to use domain-specific software (such as RAMSES[^RAMSES]) that allow simulating large-scale systems on common multicore machines with real-time performance.
+
+
+## Objectives
+
+In this project, you have to develop a dynamic model of a transmission-level converter-based generator to be used in dynamic simulations for assessing the security and control of Smart Grids under low-inertia conditions. The model should be suitable for large-scale studies, including tens to hundreds of converters.
+
+## Deliverables
+
+- A full dynamic converter model, including the controls in RAMSES.
+- A test case scenario using the converter-based generators on the Nordic system.
+- All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC]. The final code (along with all other supplementary files) should be published in [Zenodo](http://www.zenodo.org/) and the DOI included in the final report[^ZenDOI].
+
+## Student profile
+
+- Good analytical skills.
+- Good programming skills.
+- Experience with modelling and simulation of power systems.
+
+[^low-inertia]: [Impact of Low Rotational Inertia on Power System Stability and Operation](https://arxiv.org/pdf/1312.6435.pdf)
+[^kundur]: Kundur, P., Balu, N. J., & Lauby, M. G. (1994). Power system stability and control. New York: McGraw-Hill.
+[^RAMSES]: [RAMSES: RApid Multithreaded Simulation of Electric power Systems](http://www.montefiore.ulg.ac.be/~vct/software.html)
+[^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
+[^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
+
+Please, before asking any questions, please check the [FAQ]({{< ref "stu-faq.md" >}}).
