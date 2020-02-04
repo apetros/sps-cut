@@ -1,33 +1,18 @@
-+++
-# Date this page was created.
-date = "2017-09-01"
+---
+title: Development of a low-cost MicroPMU (µPMU)
+linktitle: micropmu
+toc: true
+type: docs
+date: "2019-11-17T00:00:00Z"
+draft: false
+menu:
+  student-projects:
+    parent: Overview
+    weight: 14
 
-# Project title.
-title = "Development of a low-cost MicroPMU (µPMU)"
-
-# Project summary to display on homepage.
-summary = "Increasing Smart Grid on-line awareness through remote sensing."
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["smart-grids","ICT", "student-projects"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = ""
-
-# Does the project detail page use math formatting?
-math = false
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-
-+++
-
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 14
+---
 
 ## Background
 
@@ -67,4 +52,4 @@ Additionally, you should provide a plan to create miniaturised version of the µ
 [^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
 [^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
 
-Please, before asking any questions, please check the [FAQ]({{< ref "stu-faq.md" >}}).
+Please, before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).
