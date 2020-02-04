@@ -22,4 +22,6 @@ menu:
 ---
 
 
-This website is supportive for the 4th year project at the Electrical Engineering department at CUT. You can see the available projects on the left. Constact me if you have any questions and make sure you read the [FAQ]({{< relref "faq.md">}}).
+This website is supportive for the 4th year project at the Electrical Engineering department at CUT. You can see the available projects on the left.
+
+Contact me if you have any questions and make sure you read the [FAQ]({{< relref "faq.md">}}).
