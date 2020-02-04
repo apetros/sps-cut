@@ -22,6 +22,4 @@ menu:
 ---
 
 
-This website is supportive for the 4th year project at the Electrical Engineering department at CUT. Some basic information:
-
-- The projects usually run from summer to summer over the 4th year.
+This website is supportive for the 4th year project at the Electrical Engineering department at CUT. You can see the available projects on the left. Constact me if you have any questions and make sure you read the [FAQ]({{< relref "faq.md">}}).
