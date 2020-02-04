@@ -50,6 +50,5 @@ Additionally, you should provide a plan to create miniaturised version of the µ
 [^PMU5]: Yuanjun Guo, Kang Li, Zhile Yang, Jing Deng, David M. Laverty, [A novel radial basis function neural network principal component analysis scheme for PMU-based wide-area power system monitoring](https://doi.org/10.1016/j.epsr.2015.06.002), In Electric Power Systems Research, Volume 127, 2015, Pages 197-205, ISSN 0378-7796
 [^Digikey]: [Low-Cost Microcontroller-Based Phasor Measurement Units Improve Smart Grid Reliability](https://www.digikey.com/en/articles/techzone/2014/jan/low-cost-microcontroller-based-phasor-measurement-units-improve-smart-grid-reliability)
 [^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
-[^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
 
 Please, before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).
