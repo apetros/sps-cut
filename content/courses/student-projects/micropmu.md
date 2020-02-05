@@ -26,7 +26,7 @@ Unfortunately, the high cost of PMUs has limited their use only in the high-volt
 
 ## Objectives
 
-In this project, you have to join your skills as a group to develop a low-cost µPMU. This will involve understanding the critical functionality of µPMUs in the future sustainable energy systems, designing a complete µPMU based on the methodology of [^Digikey], sourcing the appropriate material, and building a complete low-voltage prototype.
+In this project, you have to develop a low-cost µPMU. This will involve understanding the critical functionality of µPMUs in the future sustainable energy systems, designing a complete µPMU based on the methodology of [^Digikey], sourcing the appropriate material, and building a complete low-voltage prototype.
 
 {{< figure src="/img/projects/mPMU-schem.jpg" title="Simplified Phasor Measurement Unit block diagram" >}}
 
