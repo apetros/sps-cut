@@ -24,4 +24,12 @@ menu:
 
 This website is supportive for the 4th year project at the Electrical Engineering department at CUT. You can see the available projects on the left.
 
+## Prerequisites
+
+The projects of the group revolve around sustanable power systems. The usual prerequisites to are:
+
+- [Power systems I]({{< relref "../een320/_index.md">}}) or equivalent knowledge
+- Good programming skills (Python, C, Matlab, etc.)
+- Strong analytical skills
+
 Contact me if you have any questions and make sure you read the [FAQ]({{< relref "faq.md">}}).

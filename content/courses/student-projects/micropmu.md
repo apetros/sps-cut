@@ -3,7 +3,7 @@ title: Development of a low-cost MicroPMU (µPMU)
 linktitle: MicroPMU
 toc: true
 type: docs
-date: "2019-11-17T00:00:00Z"
+date: "2020-02-05T00:00:00Z"
 draft: false
 menu:
   student-projects:
