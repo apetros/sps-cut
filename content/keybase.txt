@@ -1,0 +1,88 @@
+==================================================================
+https://keybase.io/apetros
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://paristidou.info
+  * I am apetros (https://keybase.io/apetros) on keybase.
+  * I have a public key with fingerprint 903C E5A9 4DBA 9946 5930  D634 B492 79DB AFE8 D624
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a26182b08f1d9052217454a2b48915319ee07ca67c755e3b7011403d108272780a",
+      "fingerprint": "903ce5a94dba99465930d634b49279dbafe8d624",
+      "host": "keybase.io",
+      "key_id": "b49279dbafe8d624",
+      "kid": "0101c0aabd34a2a906be68b8aab7b1724f1434a93ef31e6c9a7032e4883c6f59bc390a",
+      "uid": "09804735b26a7e8e4961ece86f163119",
+      "username": "apetros"
+    },
+    "merkle_root": {
+      "ctime": 1530529038,
+      "hash_meta": "6cc212fe957c6462f15277287eb7c13d169819a5a0ec398a323ebd81d9b57d44",
+      "seqno": 3186357
+    },
+    "revoke": {
+      "sig_ids": [
+        "0f567dfa73f1dd351da258830f568438c5b296ed7559cc317a016c941884abf90f"
+      ]
+    },
+    "service": {
+      "hostname": "paristidou.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1530529096,
+  "expire_in": 157680000,
+  "prev": "ae5e601f1d998192f1f2dc603bbbd81b5eb6fa189c020c99370c77196545d317",
+  "seqno": 24,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMQCAnicbZN7bBVFFMZvixXbKKAUA2JqWQQVS5mZfczOpZZAUaBgDEqUR+F2dncW
+1pa7l91tbXlpgAYolbS8BBJCwqtQkQpCtWIsLRVIgWuaggQQqkBtFUIRECnB4myF
+mBj3n8me+c6Z7/zOTP1T3QIJMftXFZ6vbPvhxZjjdQV5gWnBuLHzBM02CoXgPCGH
+dS0s12CuF8qxDCEoAIgARQpUkQZUExoEyAhBLMkSRZqkEiiLkDAGsE4VrGNZZqKG
+AYQSEA0IVIQRVgEVUgTTCs9kTsSxwh4vS4CoM5kSydAoIZIiExEYiihpEkGY8KDJ
+VENBEk+cZbt+BjenUZelWjaP8Z9Ql73/0T/yDaAOKNUMkTulBCgaU1RN5RGsQYwk
+E0p8h4jMFCFTdEIxEBGTVFXUFVMmmi6SLt95/5QjKpCwKGtIoZipTCIKZDpTFRMq
+IoTEF7rMCdPZjKtphHmO7QoLUoTZzMnJZSHHtj2fre5ZvoJT4xw5BJX3R91ZodnM
+ozxR0XUEkcmIjHVFUpAJZYQxUjHTsA45UYWokFCZAsb9qVREItMMlY9Fk7Eh+e27
+bE7YFoIiVBVRxtyBw/LtHOYf7lozOTVXCE4TgCkr2DApFvlMDVGGBkUy792Pq5Ko
+6rxTojCDD5TouggxBZBDkqCqSlQzCTCF6Qv8w5x8S+8q7o/pYfsR6liuZxl2XqoV
+Nv15RRzbs3U7l2/O8ryIG/TReIURX/0B00IP64Q0K2zwe8Iz8pnjWnaYo+LK/1Aj
+SorACiKWw0KWr5CxogL++eewfJ8/k5kCoH9dfV4co4kMXQGipvm0NJlpikmhSnSA
+gE6IiIGOMSSKLMkGb/ZfjEjiPulMXpPDC1Mvz2HCgrrarMcCMQmBx+Ni/QcUSIjv
+9ehZ7S/p+SDj1sLsC4GEa1XXYz8f2T5u5JqmtFEDHnx3Z0dFy5YDbUNHnE3Y6I0+
+lqTtdhaT1s31bbpzrrN9x9qCfc/1Se9TCUt+6b8sK3nAxNvRF5bQpPd6PHCv7spO
+cat/r9w+7CKd/0ltRiprSgs9P3xuc7Th3U83vV96Kq0M3996Pv2afRkVn3lpRNnG
+jzZXV2XeeKd6Uc9u5yYKE3JuVvcSRg9eOL6gAx49HdsPNfe//XVNy9CsDVk/kX1p
+J6PJmT8fP7unftkl++Pvy9d+EVt4M1o19a2ydT1i36g4OGdC/OkpIbNEO5hcszxl
+Oa6orLk8cUPm4ZK95d2TtsotUzprvCO/bV869+6JTbeTmxo777vHxJV1J4eM3Zue
+FD+wfeylqfHnxremNyyKQcVNX0XebnrlSkXtqL5/wOy48XoDAeuKn42/MTppeFLH
+0qIVf755uZrh3Z2TXl5cteX0HdEovLIl+mFhZfcZMypiVl0dVL565PYx/Y4aw3bf
+yHyyM2NDc+u2Re25qxYXj+nYdqFuZ3Nm9MuhGb8OCgwMn3p1daBt9Y+fPfMtKUq8
+91rq/G8aDycOzGlwJ2d0DE5sPN6262RW6/Ra7+mF5SCUN6C+6OyaUrWmt168JLsl
+2Kvg9XtX1++suhN3eE30RO2Ru0b8mRXrJx9KLMpft/LWX5PODFne+z45BBvrpu8t
+rbwOD/S9uPWJS8PGBQbt+Rudmgrb
+=SD/A
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/apetros
+
+==================================================================
