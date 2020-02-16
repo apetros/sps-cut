@@ -25,7 +25,6 @@ weight: 1
 |7| The synchronous machine (simplified model) |  11.2 |  8 |  4 | |
 |8| Current and future trends in power system operation - the path to the smart grid | - | - | - | |
 
-[Booklet with exercises](https://www.dropbox.com/s/0fq1hj5imo7xavq/all_exercises.pdf?dl=0)
 
 ## Reference books
 
