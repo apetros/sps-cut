@@ -24,6 +24,6 @@ To scan your solutions to pdf, you can use the university copy machines or your 
 
 ## Assignment 1
 
-- Deadline: Monday, 24/02/2020, 12:00
-- Exercises: Solve all exercises of Chapter 1. Submit exercises 1.5.4 and 1.5.6
-- Submission link: 
+- *Deadline*: Monday, 24/02/2020, 12:00 noon
+- *Exercises*: Solve all exercises of Chapter 1. Submit exercises 1.5.4 and 1.5.6
+- [Submission link](https://www.dropbox.com/request/1PcandsoynyAhOxPeasT)
