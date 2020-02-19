@@ -2,7 +2,7 @@
 title: VPP-EMS
 summary: Optimal Dispatch of Virtual Power Plant using Cyber-Physical Controller for Real-Time EMS
 tags:
-- funded
+- current_projects
 date: "2018-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
