@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Research"
-subtitle = "Some of our ongoing and past researc projects and tools"
+subtitle = "Some of our ongoing and past research projects and tools"
 
 [content]
   # Page type to display. E.g. project.
