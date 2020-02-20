@@ -2,7 +2,8 @@
 title: PyRAMSES
 summary: RApid Multiprocessor Simulation of Electric power Systems
 tags:
-- software
+- Software tools
+- Dynamics
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

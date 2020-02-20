@@ -27,19 +27,19 @@ subtitle = "Some of our ongoing and past research projects and tools"
   
   [[content.filter_button]]
     name = "Current projects"
-    tag = "current_projects"
+    tag = "Current projects"
 
   [[content.filter_button]]
     name = "Software tools"
-    tag = "software" 
+    tag = "Software tools" 
   
   [[content.filter_button]]
     name = "System data"
-    tag = "data"
+    tag = "System data"
   
   [[content.filter_button]]
     name = "Past projects"
-    tag = "past_projects"
+    tag = "Past projects"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

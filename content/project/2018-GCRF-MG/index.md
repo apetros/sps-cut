@@ -2,7 +2,8 @@
 title: CRESM-HYRES
 summary: Creating Resilient Sustainable Micro-Grids through Hybrid Renewable Energy Systems
 tags:
-- current_projects
+- Current projects
+- Microgrids
 date: "2018-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

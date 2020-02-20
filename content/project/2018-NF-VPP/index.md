@@ -2,7 +2,9 @@
 title: VPP-EMS
 summary: Optimal Dispatch of Virtual Power Plant using Cyber-Physical Controller for Real-Time EMS
 tags:
-- current_projects
+- Past projects
+- VPP
+- Microgrids
 date: "2018-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
