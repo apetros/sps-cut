@@ -6,6 +6,8 @@ tags:
 - Education
 date: "2019-04-27T00:00:00Z"
 
+profile: false  # Show author profile?
+
 # Optional external URL for project (replaces project detail page).
 external_link: 
 
