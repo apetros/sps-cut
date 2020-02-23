@@ -27,3 +27,10 @@ To scan your solutions to pdf, you can use the university copy machines (this is
 - *Deadline*: Monday, 24/02/2020, 12:00 noon
 - *Exercises*: Solve all exercises of Chapter 1. Submit exercises 1.5.4 and 1.5.6
 - [Submission link](https://www.dropbox.com/request/1PcandsoynyAhOxPeasT)
+
+## Assignment 2
+
+- *Deadline*: Tuesday, 03/03/2020, 12:00 noon
+- *Exercises*: Solve exercises 2.1.1-2.1.3, 3.1.1. Submit exercises 2.1.2 and 3.1.1.
+- [Submission link](https://www.dropbox.com/request/JnpKxoSFYOm6UV0J06b2)
+
