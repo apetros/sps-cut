@@ -11,7 +11,7 @@ menu:
     weight: 12
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 13
+weight: 12
 ---
 
 ## Background
@@ -32,6 +32,7 @@ In this project, you are called upon to bring one such power flow solver to the 
 
 - Good analytical skills (Newton-type solution methods).
 - Good programming skills (Python or Julia or willingness to learn fast).
+- Background in electric power systems (minimum [Power Systems I]({{< ref "/courses/een320/_index.md">}})).
 
 [^RAMSES]: [RAMSES: RApid Multithreaded Simulation of Electric power Systems](http://www.montefiore.ulg.ac.be/~vct/software.html)
 [^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)

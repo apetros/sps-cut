@@ -36,6 +36,12 @@ This project requires excellent *programming* and *analytical* skills. It is in 
 - Develop a method to assess impact of EVs on the power quality of DNs.
 - All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC].
 
+## Student profile
+
+- Good analytical skills (eigenanalysis, linear algebra, system modelling, etc.).
+- Good programming skills (Python or Matlab or willingness to learn fast).
+- Background in electric power systems (minimum [Power Systems I]({{< ref "/courses/een320/_index.md">}})).
+
 [^EV]: [Global EV Outlook 2019](https://www.iea.org/reports/global-ev-outlook-2019)
 [^R1]: [A review of computer tools for modeling electric vehicle energy requirements and their impact on power distribution networks](https://www.sciencedirect.com/science/article/pii/S0306261916304275)
 [^P1]: [Stochastic Analyses of Electric Vehicle Charging Impacts on Distribution Network](https://ieeexplore.ieee.org/document/6678651)
