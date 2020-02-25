@@ -1,32 +1,18 @@
-+++
-# Date this page was created.
-date = "2017-09-01"
+---
+title: A flexible, open source, power-flow solver
+linktitle: PF-solver
+toc: true
+type: docs
+date: "2020-02-05T00:00:00Z"
+draft: false
+menu:
+  student-projects:
+    parent: Overview
+    weight: 12
 
-# Project title.
-title = "A flexible, open source, power-flow solver"
-
-# Project summary to display on homepage.
-summary = "Building computational tools for Smart Grids."
-
-# Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = ""
-
-# Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["smart-grids", "student-projects"]
-
-# Optional external URL for project (replaces project detail page).
-external_link = ""
-
-# Does the project detail page use math formatting?
-math = false
-
-# Optional featured image (relative to `static/img/` folder).
-[header]
-image = ""
-caption = ""
-
-+++
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 13
+---
 
 ## Background
 
@@ -34,12 +20,12 @@ Modern [Smart Grids](https://en.wikipedia.org/wiki/Smart_grid) rely on advanced 
 
 ## Objectives
 
-In this project, you are called upon to bring one such power flow solver to the 21st century. You will need to re-invent the power flow simulator [ARTERE](http://www.montefiore.ulg.ac.be/~vct/software.html) by implementing it in Python, using high performance numerical libraries.
+In this project, you are called upon to bring one such power flow solver to the 21st century. You will need to implement a three-phase parallel power flow simulator (see [ARTERE](http://www.montefiore.ulg.ac.be/~vct/software.html) for example) in Python, using high performance numerical libraries.
 
 ## Deliverables
 
 - A complete literature review including a comparison between different existing power flow solvers.
-- An implementation of ARTERE as a Python module PyARTERE.
+- An implementation of Python power-flow solver with accelerations.
 - All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC].
 
 ## Student profile
@@ -50,4 +36,5 @@ In this project, you are called upon to bring one such power flow solver to the 
 [^RAMSES]: [RAMSES: RApid Multithreaded Simulation of Electric power Systems](http://www.montefiore.ulg.ac.be/~vct/software.html)
 [^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
 
-Please, before asking any questions, please check the [FAQ]({{< ref "stu-faq.md" >}}).
+
+Please, before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).
