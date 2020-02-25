@@ -43,6 +43,13 @@ Additionally, you should provide a plan to create miniaturised version of the µ
 - (Bonus) A plan to create a miniaturised version of the µPMU (techniques to be used, example hardware, initial designs, etc.).
 - All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC].
 
+## Student profile
+
+- Good programming skills (microcontrollers).
+- Good electronics design background.
+- Good signals processing and filtering background.
+- Background in electric power systems (minimum [Power Systems I]({{< ref "/courses/een320/_index.md">}})).
+
 [^PMU1]: [Synchrophasor Technologies and their Deployment in the Recovery Act Smart Grid Programs](https://www.smartgrid.gov/files/Synchrophasor_Report_08_09_2013_DOE_2_version_0.pdf)
 [^PMU2]: [Micro-synchrophasors (µPMUs) for Distribution Systems](http://www.arpae-summit.com/paperclip/exhibitor_docs/15AE/CIEE-UC_Berkeley_Power_Standards_Lab_419.pdf)
 [^PMU3]: [Micro-Synchrophasors for Power Distribution Monitoring, a Technology Review](https://arxiv.org/ftp/arxiv/papers/1605/1605.02813.pdf)
