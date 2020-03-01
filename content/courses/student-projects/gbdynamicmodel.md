@@ -43,4 +43,4 @@ In this project, you have to develop a dynamic model of the GB to be used with t
 [^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
 [^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
 
-Please, before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).
+Before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).

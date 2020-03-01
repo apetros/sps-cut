@@ -1,0 +1,46 @@
+---
+title: Modelling and performance analysis of grid-forming and grid-following Voltage Source Converters (VSCs)
+linktitle: VSCs
+toc: true
+type: docs
+date: "2020-02-05T00:00:00Z"
+draft: false
+menu:
+  student-projects:
+    parent: Overview
+    weight: 10
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 10
+---
+
+## Background
+
+With the rise in sustainable energy sources and decommissioning of conventional power plants for a low-carbon future, large-scale power systems are faced with many hurdles. Voltage Source Converters (VSCs) are use to interface HVDC lines, offshore and on-shore renewable sources.
+
+The power electronics used in this application are a key component and are responsible for the VSCs high controllability and available ancillary services. This therefore means future systems will require advanced modelling approaches which are necessary to analyse their behaviour and provide valuable information to engineers for assessment. Dynamic converter models are however, very complex and although there are many readily available power system analysis software packages, there may be some vital discrepancies between each of them. This therefore calls for a comparison of the dynamic behaviour of each of these technologies in packages such as DIgSILENT PowerFactory, PSS/E and RAMSES[^RAMSES].
+
+## Objectives
+
+In this project, you will have to develop an understanding of grid-forming and grid-following VSC converter technologies, their dynamic behaviour and basic control. You will then develop a selection of models in RAMSES to assess their behaviour and represent modern converter-dominated systems.
+
+## Deliverables
+
+- Literature review of different dynamic VSC models with basic control.
+- Implementation of at least two models in RAMSES.
+- Performance analysis using a converter dominated power system.
+- All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC].
+
+## Student profile
+
+- Good analytical skills (eigenanalysis, linear algebra, system modelling, etc.).
+- Good programming skills.
+- Background in electric power systems (minimum [Power Systems I]({{< ref "/courses/een320/_index.md">}})).
+
+
+[^kundur]: Kundur, P., Balu, N. J., & Lauby, M. G. (1994). Power system stability and control. New York: McGraw-Hill.
+[^RAMSES]: [RAMSES: RApid Multithreaded Simulation of Electric power Systems](http://www.montefiore.ulg.ac.be/~vct/software.html)
+[^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
+[^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
+
+Before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).

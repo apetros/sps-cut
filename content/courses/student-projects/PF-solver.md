@@ -38,4 +38,4 @@ In this project, you are called upon to bring one such power flow solver to the 
 [^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
 
 
-Please, before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).
+Before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).

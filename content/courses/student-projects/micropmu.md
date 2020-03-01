@@ -58,4 +58,4 @@ Additionally, you should provide a plan to create miniaturised version of the µ
 [^Digikey]: [Low-Cost Microcontroller-Based Phasor Measurement Units Improve Smart Grid Reliability](https://www.digikey.com/en/articles/techzone/2014/jan/low-cost-microcontroller-based-phasor-measurement-units-improve-smart-grid-reliability)
 [^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
 
-Please, before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).
+Before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).
