@@ -34,3 +34,8 @@ To scan your solutions to pdf, you can use the university copy machines (this is
 - *Exercises*: Solve exercises 2.1.1-2.1.3, 3.1.1. Submit exercises 2.1.2 and 3.1.1.
 - [Submission link](https://www.dropbox.com/request/JnpKxoSFYOm6UV0J06b2)
 
+## Assignment 3
+
+- *Deadline*: Monday, 09/03/2020, 08:30 morning
+- *Exercises*: Solve exercises 2.1.4, 3.1.2, 3.1.4, 4.1.2. Submit exercises 3.1.4 and 4.1.2.
+- [Submission link](https://www.dropbox.com/request/q5ScoKKULc082a0zmjo5)
