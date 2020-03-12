@@ -148,6 +148,7 @@ reading_time = true
 # Display next/previous section pager? (true/false)
 section_pager = false
 docs_section_pager = false  # Display pager in Docs layout (e.g. tutorials)?
+docs_menu_sort = 'weight'
 
 # Enable in-built social sharing buttons? (true/false)
 sharing = true
