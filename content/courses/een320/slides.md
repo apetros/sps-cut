@@ -8,10 +8,10 @@ draft: false
 menu:
   een320:
     parent: Learning resources
-    weight: 1
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 | No | Title | Book 1 Chap |Book 2 Chap |Book 3  Chap | Notes |
@@ -34,4 +34,3 @@ weight: 1
 
 - Book 1 (available at the library) and the lecture notes are the fficial study material.
 - Book 2 or 3 are alternative in Greek.
-- [Basic power system terminology in Greek](https://www.overleaf.com/read/tpkxzjbccmsf)

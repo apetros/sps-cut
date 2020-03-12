@@ -8,10 +8,10 @@ draft: false
 menu:
   een320:
     parent: Assessment
-    weight: 2
+    weight: 4
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 4
 ---
 
 The exercises are *not* mandatory and do not normally contribute to your final score. The exercises will only contribute *positively* to your final grade if you have a marginal score.

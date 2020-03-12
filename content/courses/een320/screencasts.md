@@ -8,10 +8,10 @@ draft: false
 menu:
   een320:
     parent: Learning resources
-    weight: 2
+    weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 3
 ---
 
 This section will host the screencasts used for the course during the university shutdown.

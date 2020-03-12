@@ -8,10 +8,10 @@ draft: false
 menu:
   een320:
     parent: Assessment
-    weight: 4
+    weight: 6
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 4
+weight: 6
 ---
 
 All exams are with closed books and no notes. Please check the [example sheet](https://www.dropbox.com/s/artgiiab7enn90w/example_paper_formula_sheet.pdf?dl=0) for the rules and formula sheet.
