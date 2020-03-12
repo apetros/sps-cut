@@ -18,11 +18,11 @@ weight: 10
 
 With the rise in sustainable energy sources and decommissioning of conventional power plants for a low-carbon future, large-scale power systems are faced with many hurdles. Voltage Source Converters (VSCs) are use to interface HVDC lines, offshore and on-shore renewable sources.
 
-The power electronics used in this application are a key component and are responsible for the VSCs high controllability and available ancillary services. This therefore means future systems will require advanced modelling approaches which are necessary to analyse their behaviour and provide valuable information to engineers for assessment. Dynamic converter models are however, very complex and although there are many readily available power system analysis software packages, there may be some vital discrepancies between each of them. This therefore calls for a comparison of the dynamic behaviour of each of these technologies in packages such as DIgSILENT PowerFactory, PSS/E and RAMSES[^RAMSES].
+The power electronics used in this application are a key component and are responsible for the VSCs high controllability and available ancillary services. This therefore means future systems will require advanced modelling approaches which are necessary to analyse their behaviour and provide valuable information to engineers for assessment. Dynamic converter models are however, very complex and although there are many readily available power system analysis software packages, there may be some vital discrepancies between each of them.
 
 ## Objectives
 
-In this project, you will have to develop an understanding of grid-forming and grid-following VSC converter technologies, their dynamic behaviour and basic control. You will then develop a selection of models in RAMSES to assess their behaviour and represent modern converter-dominated systems.
+In this project, you will have to develop an understanding of grid-forming and grid-following VSC converter technologies, their dynamic behaviour and basic control. You will then develop a selection of models in RAMSES[^RAMSES] to assess their behaviour and represent modern converter-dominated systems.
 
 ## Deliverables
 
@@ -41,6 +41,5 @@ In this project, you will have to develop an understanding of grid-forming and g
 [^kundur]: Kundur, P., Balu, N. J., & Lauby, M. G. (1994). Power system stability and control. New York: McGraw-Hill.
 [^RAMSES]: [RAMSES: RApid Multithreaded Simulation of Electric power Systems](http://www.montefiore.ulg.ac.be/~vct/software.html)
 [^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
-[^ZenDOI]: [Zenodo help](http://help.zenodo.org/)
 
 Before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).

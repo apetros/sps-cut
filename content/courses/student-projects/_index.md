@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Student projects
-summary: This is a supporting website for the 4th year student projects at the Cyprus University of Technology
+summary: This is a supporting website for student projects at EECEI at the Cyprus University of Technology
 weight: 1
 
 # Page metadata.
@@ -22,7 +22,7 @@ menu:
 ---
 
 
-This website is supportive for the 4th year project at the Electrical Engineering department at CUT. You can see the available projects on the left.
+This website provides information for the available projects in the area of Systainable Power Systems at the EECEI department at CUT. You can see the available projects on the left.
 
 ## Prerequisites
 
