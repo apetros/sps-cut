@@ -8,7 +8,7 @@ draft: false
 menu:
   een320:
     parent: Learning resources
-    weight: 20
+    weight: -1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 2
