@@ -8,7 +8,7 @@ draft: false
 menu:
   een320:
     parent: Assessment
-    weight: 6
+    weight: 60
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 6
