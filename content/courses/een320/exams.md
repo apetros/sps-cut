@@ -14,13 +14,15 @@ menu:
 weight: 6
 ---
 
-All exams are with closed books and no notes. Please check the [example sheet](https://www.dropbox.com/s/artgiiab7enn90w/example_paper_formula_sheet.pdf?dl=0) for the rules and formula sheet.
+All exams are with closed books and no notes. Please check the [example sheet](https://alucutac-my.sharepoint.com/:b:/g/personal/petros_aristidou_cut_ac_cy/ERJnJpeEzXBJuWb5KwT-dh0BKOWH7IHVUELhbbK-fe7oOQ?e=q05RSv) for the rules and formula sheet.
 
 ## Mid-term
 
 - *Date*: Wednesday, 11/03/2020, 10:30-12:30
 - *Location*: ΧΩΔ
-- *Material*: Part 1-4 
+- *Material*: Part 1-4
+- *Results*: TBA
+- *Solutions*: See [screencast section]({{< relref "screencasts.md" >}})
 
 ## Final
 
