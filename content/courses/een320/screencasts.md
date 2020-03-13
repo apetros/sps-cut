@@ -18,8 +18,5 @@ This section will host the screencasts used for the course during the university
 
 ## Monday, 16 March 2020
 
-<video width="320" height="240" controls>
-  <source src="https://alucutac-my.sharepoint.com/:v:/g/personal/petros_aristidou_cut_ac_cy/EfNDj-oSW-RIsyEc8LSVJ_UBNG8XkwQErBNlNTR2f8t6Ig" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+
 
