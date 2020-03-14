@@ -14,10 +14,4 @@ menu:
 weight: 3
 ---
 
-This section will host the screencasts used for the course during the university shutdown.
-
-## Monday, 16 March 2020
-
-<iframe width="640" height="360" src="https://web.microsoftstream.com/video/537421a6-9db6-47d2-9095-5711e1d5c6d8?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none;"></iframe>
-
-
+This section will host some of the screencasts of the course during the university shutdown **in case the Microsoft Teams is down**.

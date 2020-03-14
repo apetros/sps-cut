@@ -24,6 +24,8 @@ menu:
 
 This course intends to provide you with a fundamental understanding of the key equipment and their functionality in electric power systems.
 
+You should register to the [Microsoft Teams](https://teams.microsoft.com/l/team/19%3ae6aee6ea4e34493892e6169e3ec8b28e%40thread.tacv2/conversations?groupId=9b19c04b-4397-490d-8a7b-6376e3c1d0a7&tenantId=8f7698bc-b1b4-439f-b259-0213401d1cfb) of the course since a lot of the teaching happens there.
+
 ## Time and place
 
 - Monday 08:30-10:30, 3rd floor lab (Εργαστήριο Δικτύων και Επιστήμης Δεδομένων)
