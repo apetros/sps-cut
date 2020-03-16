@@ -14,4 +14,4 @@ menu:
 weight: 3
 ---
 
-This section will host some of the screencasts of the course during the university shutdown **in case the Microsoft Teams is down**.
+In this [Youtube channel](https://www.youtube.com/playlist?list=PLpmwr4EPmhRosddwOVsHYFkHE6XBoY79q) you will find the screencasts of the course during the university shutdown. This is the backup **in case the Microsoft Teams is down**.
