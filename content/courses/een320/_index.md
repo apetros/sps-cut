@@ -28,6 +28,8 @@ You should register to the [Microsoft Teams](https://teams.microsoft.com/l/team/
 
 ## Time and place
 
+**Anymore courses are run online**
+
 - Monday 08:30-10:30, 3rd floor lab (Εργαστήριο Δικτύων και Επιστήμης Δεδομένων)
 - Wednesday 10:30-12:30, ΧΩΔ
 
