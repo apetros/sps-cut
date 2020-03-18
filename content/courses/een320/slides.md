@@ -23,7 +23,7 @@ weight: 2
 |5| The transmission line |  4+5 | - |  6+7 | [slides](https://alucutac-my.sharepoint.com/:b:/g/personal/petros_aristidou_cut_ac_cy/Ecyub3Y2QHhJskYhliIr8sYBjPQItzr58mVrX0Buihq8Lg)| 
 |6| Fundamentals of power system operation |  12 |  10 |  9 | [slides](https://alucutac-my.sharepoint.com/:b:/g/personal/petros_aristidou_cut_ac_cy/EVqdhywggcZFtDSFn0HADLQB9cu6F71m-o2lYDzMkyJmpQ)|
 |7| The synchronous machine (simplified model) |  11.2 |  8 |  4 | |
-|8| Current and future trends in power system operation - the path to the smart grid | - | - | - | |
+|8| Current and future trends in power system operation - the path to the smart grid | - | - | - | | 
 
 
 ## Reference books
