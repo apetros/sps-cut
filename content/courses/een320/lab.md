@@ -7,11 +7,14 @@ date: "2019-11-17T00:00:00Z"
 draft: false
 menu:
   een320:
-    parent: 2. Assessment
+    parent: Assessment
     weight: 50
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 5
 ---
 
-Under construction.
+- [Announcement and instructions](EEN320_lab.pdf)
+- [Data](EEN320_lab.zip)
+- *Deadline to deliver report*: 03 of May, 2020
+- *Location*: Through Microsoft Teams

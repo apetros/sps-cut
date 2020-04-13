@@ -30,9 +30,6 @@ You should register to the [Microsoft Teams](https://teams.microsoft.com/l/team/
 
 **Anymore courses are run online**
 
-- Monday 08:30-10:30, 3rd floor lab (Εργαστήριο Δικτύων και Επιστήμης Δεδομένων)
-- Wednesday 10:30-12:30, ΧΩΔ
-
 ## Learning outcome
 
 On completion of this module, students should be able to:
@@ -51,13 +48,13 @@ On completion of this module, students should be able to:
 4. The per-unit system
 5. The transmission line
 6. Fundamentals of power system operation
-7. The synchronous machine (simplified model)
+7. Introduction to rotating machines
 8. Current and future trends in power system operation - the path to the smart grid 
 
 ## Assessment
 
 | Assessment type | % of grade |
 |-----------------|------------|
-| In-semester tests | 20          |
-| Lab report  | 20         |
-| Final exam      | 60         |
+| In-semester test | 20          |
+| Lab report  | 30         |
+| Final exam      | 50         |
