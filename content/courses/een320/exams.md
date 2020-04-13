@@ -14,7 +14,7 @@ menu:
 weight: 6
 ---
 
-All exams are with closed books and no notes. Please check the [example sheet](https://alucutac-my.sharepoint.com/:b:/g/personal/petros_aristidou_cut_ac_cy/ERJnJpeEzXBJuWb5KwT-dh0BMB3ugGYBbV7Kr7TaAqF4oQ?e=nVnv7L) for the rules and formula sheet.
+All exams are with closed books and no notes. Please check the [example sheet](example_paper_formula_sheet.pdf) for the rules and formula sheet.
 
 ## Mid-term
 
@@ -22,7 +22,7 @@ All exams are with closed books and no notes. Please check the [example sheet](h
 - *Location*: ΧΩΔ
 - *Material*: Part 1-4
 - *Results*: TBA
-- *Solutions*: See [screencast section]({{< relref "screencasts.md" >}})
+- *Solutions*: See [screencast](https://www.youtube.com/playlist?list=PLpmwr4EPmhRosddwOVsHYFkHE6XBoY79q)
 
 ## Final
 
