@@ -1,5 +1,5 @@
 ---
-title: CRESM-HYRES
+title: CRESUM-HYRES
 summary: Creating Resilient Sustainable Micro-Grids through Hybrid Renewable Energy Systems
 tags:
 - Current projects
