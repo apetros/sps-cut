@@ -44,20 +44,3 @@
 #    name = "CV"
 #    url = "files/cv.pdf"
 #    weight = 70
-
-# Documentation menu.
-
-[[menu.courses.een320]]
-  name = "Overview"
-  weight = 5
-  url = "/courses/een320"
-
-[[menu.courses.een320]]
-  name = "Learning resources"
-  weight = 10
-  url = "/courses/een320/slides"
-  
-[[menu.courses.een320]]
-  name = "Assesment"
-  weight = 15
-  url = "/courses/een320/exercises"
