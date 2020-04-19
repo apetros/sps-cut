@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "New paper [blah](hdjdh)"
+title: [New paper blah](hdjdh)
 subtitle: ""
 summary: ""
 authors: ["P. Aristidou"]
