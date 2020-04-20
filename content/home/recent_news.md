@@ -50,6 +50,4 @@ subtitle = "[All news>>](/news)"
  css_class = ""
 +++
 
-- New blah blah
-- blah blue
-
+{{ readFile "/content/newslist.dat"  markdown="true" }}

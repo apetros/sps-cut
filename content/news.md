@@ -15,7 +15,4 @@ caption = ""
 
 +++
 
-
-- New blah blah
-- blah blue
-
+{{ readFile "/content/newslist.dat"  markdown="true" }}
