@@ -24,3 +24,18 @@
   for = "index.xml"
   [headers.values]
     Content-Type = "application/rss+xml"
+
+[[redirects]]
+  from = "/authors/p.-aristidou"
+  to = "/authors/p-aristidou"
+  status = 302
+
+[[redirects]]
+  from = "/apetros"
+  to = "/authors/p-aristidou"
+  status = 302
+
+[[redirects]]
+  from = "/git"
+  to = "https://github.com/SPS-L"
+  status = 302
