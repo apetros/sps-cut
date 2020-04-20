@@ -2,7 +2,7 @@
 title = "Stochastic Unit Commitment in Low-Inertia Grids"
 date = "2020-04-01"
 authors = ["M. Paturet","[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","S. Delikaraoglou","E. Vrettos","[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
-tags = ["unit commitment"," low-inertia grid"," frequency constraints"," wind uncertainty"," voltage source converter."]
+tags = ["unit commitment"," low-inertia grid"," frequency constraints"," wind uncertainty"," voltage source converter"]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Power Systems_"
 publication_short = ""

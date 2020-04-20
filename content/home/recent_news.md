@@ -50,5 +50,4 @@ subtitle = "[All news>>](/news)"
  css_class = ""
 +++
 
-[13/04/20] New paper on [Stochastic Unit Commitment in Low-Inertia Grids](/publication/2020jpaturet/) plushished on IEEE Transactions on Power Systems.
-[31/12/19] New paper on [ A Robust Coordinated Expansion Planning Model For Wind Farm-Integrated Power Systems With Flexibility Sources Using Affine Policies](/publication/2020jdehghan/) plushished on IEEE Systems Journal.
+{{< readfromfile "/content/newslist.dat" 4 >}} 
