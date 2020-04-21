@@ -41,6 +41,6 @@
   status = 302
 
 [[redirects]]
-  from = "/data_plot"
-  to = "https://nbviewer.jupyter.org/github/SPS-L/Cyprus-load-data-analysis-2020/blob/master/data_plot_TSOC.ipynb"
+  from = "/covid_load_data"
+  to = "https://nbviewer.jupyter.org/github/SPS-L/Cyprus-load-data-analysis-2020/blob/master/data_analysis.ipynb"
   status = 302
