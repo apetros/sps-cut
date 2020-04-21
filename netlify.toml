@@ -39,3 +39,8 @@
   from = "/git"
   to = "https://github.com/SPS-L"
   status = 302
+
+[[redirects]]
+  from = "/data_plot"
+  to = "https://nbviewer.jupyter.org/github/SPS-L/Cyprus-load-data-analysis-2020/blob/master/data_plot_TSOC.ipynb"
+  status = 302
