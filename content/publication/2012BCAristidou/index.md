@@ -1,7 +1,7 @@
 +++
 title = "A Schur Complement Method for DAE Systems in Power System Dynamic Simulations"
 date = "2012-01-01"
-authors = ["[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","[D. Fabozzi](https://scholar.google.ch/citations?user=2wog_JcAAAAJ)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["P. Aristidou","[D. Fabozzi](https://scholar.google.ch/citations?user=2wog_JcAAAAJ)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
 tags = []
 publication_types = ["6"]
 publication = "_Domain Decomposition Methods in Science and Engineering XXI_"

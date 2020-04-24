@@ -1,7 +1,7 @@
 +++
 title = "Co-optimisation of Planning and Operation for Active Distribution Grids"
 date = "2017-06-01"
-authors = ["[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of IEEE PES Powertech Conf., Manchester_"

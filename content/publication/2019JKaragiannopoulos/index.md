@@ -1,7 +1,7 @@
 +++
 title = "Data-Driven Local Control Design for Active Distribution Grids Using Off-Line Optimal Power Flow and Machine Learning Techniques"
 date = "2019-11-01"
-authors = ["[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = ["control design","machine learning","monitoring","security","reactive power","uncertainty","real-time systems","data-driven control design","decentralized control","active distribution networks","opf","backward forward sweep power flow","machine learning","distributed energy resources"]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Smart Grid_"

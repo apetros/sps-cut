@@ -1,7 +1,7 @@
 +++
 title = "Power System Dynamic Simulations Using a Parallel Two-Level Schur-Complement Decomposition"
 date = "2016-09-01"
-authors = ["[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","S. Lebeau","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["P. Aristidou","S. Lebeau","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
 tags = ["distribution networks","parallel algorithms","parallel programming","power system simulation","shared memory systems","transmission networks","distribution networks","global convergence rate","multicore machines","parallel algorithm","parallel computing","parallel two-level schur-complement decomposition","power system dynamic simulations","shared-memory parallel programming model","sub-domain interface variables","transmission networks","two-level partitioning","acceleration","computational modeling","heuristic algorithms","mathematical model","power system dynamics","satellites","domain decomposition methods","openmp","schur-complement","power system dynamic simulation","shared-memory"]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Power Systems_"

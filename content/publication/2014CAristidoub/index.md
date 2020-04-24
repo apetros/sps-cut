@@ -1,7 +1,7 @@
 +++
 title = "Parallel Computing and Localization Techniques for Faster Power System Dynamic Simulations"
 date = "2014-03-01"
-authors = ["[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["P. Aristidou","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of Cigre Belgium Conf., Brussels_"

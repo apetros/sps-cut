@@ -1,7 +1,7 @@
 +++
 title = "Online Estimation of Power System Inertia Using Dynamic Regressor Extension and Mixing"
 date = "2019-11-01"
-authors = ["[J. Schiffer](https://scholar.google.com/citations?hl=en&user=Zk26WrgAAAAJ)","[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","[R. Ortega](https://scholar.google.com/citations?hl=en&user=1jf5n5wAAAAJ)"]
+authors = ["[J. Schiffer](https://scholar.google.com/citations?hl=en&user=Zk26WrgAAAAJ)","P. Aristidou","[R. Ortega](https://scholar.google.com/citations?hl=en&user=1jf5n5wAAAAJ)"]
 tags = ["power system dynamics","generators","estimation","real-time systems","power system stability","monitoring","heuristic algorithms","power system inertia","power system dynamics","power system stability","low-inertia systems","parameter estimation"]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Power Systems_"

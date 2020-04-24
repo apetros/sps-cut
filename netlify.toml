@@ -26,13 +26,8 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-  from = "/authors/p.-aristidou"
-  to = "/authors/p-aristidou"
-  status = 302
-
-[[redirects]]
   from = "/apetros"
-  to = "/authors/p-aristidou"
+  to = "/authors/p.-aristidou"
   status = 302
 
 [[redirects]]
@@ -41,6 +36,6 @@
   status = 302
 
 [[redirects]]
-  from = "/covid_load_data"
+  from = "/covid_load"
   to = "https://nbviewer.jupyter.org/github/SPS-L/Cyprus-load-data-analysis-2020/blob/master/data_analysis.ipynb"
   status = 302

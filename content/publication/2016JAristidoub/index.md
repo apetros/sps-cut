@@ -1,7 +1,7 @@
 +++
 title = "Prospects of a new dynamic simulation software for real-time applications on the Hydro-Quebec system"
 date = "2016-02-01"
-authors = ["[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","S. Lebeau","L. Loud","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["P. Aristidou","S. Lebeau","L. Loud","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
 tags = []
 publication_types = ["2"]
 publication = "_CIGRE Science & Engineering_"

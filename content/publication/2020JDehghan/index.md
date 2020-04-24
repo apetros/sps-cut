@@ -1,7 +1,7 @@
 +++
 title = "A Robust Coordinated Expansion Planning Model For Wind Farm-Integrated Power Systems With Flexibility Sources Using Affine Policies"
 date = "2020-01-01"
-authors = ["S. Dehghan","N. Amjady","[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)"]
+authors = ["S. Dehghan","N. Amjady","P. Aristidou"]
 tags = ["dynamic thermal rating (dtr)","energy storage (es)","planning","robust optimization","switching","wind power"]
 publication_types = ["2"]
 publication = "_IEEE Systems Journal_"

@@ -53,7 +53,6 @@ def month_string_to_number(string):
 # You can add the name of a co-author and their website and it will create a link on the publications website
 def get_author_link(string):
     web = {
-        'P. Aristidou':'https://sps.cut.ac.cy/authors/p-aristidou',
         'R. Ortega':'https://scholar.google.com/citations?hl=en&user=1jf5n5wAAAAJ',
         'J. Elmirghani':'https://scholar.google.com/citations?hl=en&user=jc_S5bIAAAAJ',
         'J. Schiffer':'https://scholar.google.com/citations?hl=en&user=Zk26WrgAAAAJ',
@@ -91,6 +90,7 @@ def main(argv):
     inputfile = ''
     try:
         opts, args = getopt.getopt(argv, "hi:", ["ifile="])
+        print(args)
     except getopt.GetoptError:
         print('parse_bib.py -i <inputfile>')
         sys.exit(2)

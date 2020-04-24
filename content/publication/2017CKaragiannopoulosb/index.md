@@ -1,7 +1,7 @@
 +++
 title = "Operational Planning of Active Distribution Grids under Uncertainty"
 date = "2017-08-01"
-authors = ["[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","[L. Roald](https://scholar.google.com/citations?user=Z-lh8_AAAAAJ)","[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","[L. Roald](https://scholar.google.com/citations?user=Z-lh8_AAAAAJ)","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of 2017 IREP Conf., Espinho_"

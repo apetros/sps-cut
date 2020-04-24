@@ -1,7 +1,7 @@
 +++
 title = "A Parallel Processing Approach to Dynamic Simulations of Combined Transmission and Distribution Systems"
 date = "2015-11-01"
-authors = ["[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["P. Aristidou","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
 tags = []
 publication_types = ["2"]
 publication = "_International Journal of Electrical Power & Energy Systems_"

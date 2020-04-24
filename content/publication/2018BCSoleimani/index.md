@@ -1,7 +1,7 @@
 +++
 title = "Operation of distribution systems within secure limits using real-time Model Predictive Control"
 date = "2018-01-01"
-authors = ["H. Soleimani","[G. Valverde](http://scholar.google.co.uk/citations?user=Uy6MCt4AAAAJ)","[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","M. Glavic","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["H. Soleimani","[G. Valverde](http://scholar.google.co.uk/citations?user=Uy6MCt4AAAAJ)","P. Aristidou","M. Glavic","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
 tags = []
 publication_types = ["6"]
 publication = "_Dynamic Vulnerability Assessment and Intelligent Control for Sustainable Power Systems_"

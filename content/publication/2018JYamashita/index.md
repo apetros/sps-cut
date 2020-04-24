@@ -1,7 +1,7 @@
 +++
 title = "Industrial Recommendation of Modeling of Inverter-Based Generators for Power System Dynamic Studies With Focus on Photovoltaic"
 date = "2018-03-01"
-authors = ["K. Yamashita","H. Renner","S. Martinez Villanueva","[G. Lammert](https://ieeexplore.ieee.org/author/37085378659)","[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","J. Carvalho Martins","L. Zhu","L. David Pabon Ospina","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["K. Yamashita","H. Renner","S. Martinez Villanueva","[G. Lammert](https://ieeexplore.ieee.org/author/37085378659)","P. Aristidou","J. Carvalho Martins","L. Zhu","L. David Pabon Ospina","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
 tags = ["invertors","numerical analysis","photovoltaic power systems","power system dynamic studies","ibg model","numerical model","dynamic simulation results","industrial recommendation","inverter-based generators","photovoltaic","cigre c4-c6.35-cired joint working group","jwg","power system stability","voltage control","power system dynamics","stability analysis","inverters","numerical models","electronic mail","capabilities","controls","dynamic models","generic models","inverter based generator","modeling","photovoltaic (pv)","protections","root mean square (rms) models","stability"]
 publication_types = ["2"]
 publication = "_IEEE Power and Energy Technology Systems Journal_"

@@ -1,7 +1,7 @@
 +++
 title = "Droop vs. Virtual Inertia: Comparison from the Perspective of Converter Operation Mode"
 date = "2018-06-01"
-authors = ["R. Ofir","[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["R. Ofir","[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of the 2018 Energycon conf._"

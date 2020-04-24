@@ -1,7 +1,7 @@
 +++
 title = "Dynamic Simulations of Combined Transmission and Distribution Systems using Decomposition and Localization"
 date = "2013-06-01"
-authors = ["[P. Aristidou](https://sps.cut.ac.cy/authors/p-aristidou)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["P. Aristidou","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of IEEE PES PowerTech Conf., Grenoble_"
