@@ -25,11 +25,3 @@ highlight = true
 image = ""
 caption = ""
 +++
-
-<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
-
-
-<div class='altmetric-embed' data-badge-type='medium-donut' data-badge-details='right' data-doi='10.1109/TSG.2015.2410171'></div>
-
-
-
