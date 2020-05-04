@@ -5,6 +5,7 @@ draft = false
 tags = []
 title = "Short Bio"
 math = true
+enableEmoji = true
 summary = """
 A few words about me.
 """
