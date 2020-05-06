@@ -2,9 +2,9 @@
 title: Data-driven Power System Methods
 summary: Research in the area of machine learning for power system applications
 tags:
-- Current projects
 - machine-learning
 - data-driven
+- themes
 date: "2020-04-01T00:00:00Z"
 
 profile: false  # Show author profile?

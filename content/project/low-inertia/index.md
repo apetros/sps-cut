@@ -2,8 +2,8 @@
 title: Low-inertia Grids
 summary: Research in the area of low-inertia grids
 tags:
-- Current projects
 - low-inertia
+- themes
 date: "2020-04-01T00:00:00Z"
 
 profile: false  # Show author profile?

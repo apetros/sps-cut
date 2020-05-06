@@ -24,6 +24,10 @@ subtitle = "Some of our ongoing and past research projects and tools"
   # [[content.filter_button]]
   # name = "All"
   # tag = "*"
+
+    [[content.filter_button]]
+    name = "Themes"
+    tag = "themes"
   
   [[content.filter_button]]
     name = "Current projects"
@@ -33,9 +37,9 @@ subtitle = "Some of our ongoing and past research projects and tools"
     name = "Software tools"
     tag = "Software tools" 
   
-  [[content.filter_button]]
-    name = "System data"
-    tag = "System data"
+  # [[content.filter_button]]
+  #  name = "System data"
+  #  tag = "System data"
   
   [[content.filter_button]]
     name = "Past projects"
