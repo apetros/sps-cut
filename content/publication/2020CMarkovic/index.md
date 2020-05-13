@@ -2,7 +2,7 @@
 title = "Impact of Inverter-Based Generation on Islanding Detection Schemes in Distribution Networks"
 date = "2020-05-12"
 authors = ["[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","D. Chrysostomou","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
-tags = ["non-detection zone"," loss of mains"," analytical approximation"," grid-forming, grid-following"]
+tags = ["non-detection zone","loss of mains","analytical approximation","grid-forming", "grid-following","PSCC2020"]
 publication_types = ["1"]
 publication = "_Proc. of the 2020 PSCC, Porto_"
 publication_short = ""
