@@ -1,6 +1,6 @@
 +++
 title = "Wide-Area Oscillation Damping in Low-Inertia Grids under Time-Varying Communication Delays"
-date = "2020-06-01"
+date = "2020-05-12"
 authors = ["S. Alghamdi","[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","O. Stanojev","[J. Schiffer](https://scholar.google.com/citations?hl=en&user=Zk26WrgAAAAJ)","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)","P. Aristidou"]
 tags = ["low-inertia systems"," oscillation damping"," time-varying communication delay"," wide-area control"]
 publication_types = ["1"]
