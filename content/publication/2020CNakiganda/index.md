@@ -1,6 +1,6 @@
 +++
 title = "Enhancing Microgrid Resilience and Survivability under Static and Dynamic Islanding Constraints"
-date = "2020-10-01"
+date = "2020-08-01"
 authors = ["A. Nakiganda","S. Dehghan","P. Aristidou"]
 tags = ["microgrid unintentional islanding"," frequency response"," operational planning"," resilience"]
 publication_types = ["1"]

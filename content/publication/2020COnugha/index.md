@@ -1,6 +1,6 @@
 +++
 title = "Rethinking Consumer-Centric Markets Under Uncertainty: A Robust Approach to Community-Based Energy Trades"
-date = "2020-08-01"
+date = "2020-05-12"
 authors = ["I. Onugha","S. Dehghan","P. Aristidou"]
 tags = ["community-based markets"," peer-to-peer (p2p) markets"," taguchi orthogonal array testing (toat)"," uncertainty"]
 publication_types = ["1"]
