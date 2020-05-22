@@ -245,7 +245,7 @@ else:
 ![png](output_15_0.png)
 
 
-To check if the decrease was due to a weather impact, we can use the Heating Degree Days. HDDs show by many degrees and for how long the temperature dropped below a specific threshold throughout the day. Thus, HDDs can be used to facilitate energy consumption comparisons between different years. From Fig. 3a, we can see that in week 15 we had precisely the same weekly HDDs. Thus the decrease cannot be assigned to the temperature differences.
+To check if the decrease was due to a weather impact, we can use the Heating Degree Days. HDDs show by many degrees and for how long the temperature dropped below a specific threshold throughout the day. Thus, HDDs can be used to facilitate energy consumption comparisons between different years. From Fig. 3a, we can see that in weeks 15 and 18 we had higher weekly HDD this year compared to 2019 (which would mean higher heating-related energy consumption). Thus, the decrease cannot be assigned to the temperature differences.
 
 
 ```python
