@@ -263,7 +263,7 @@ else:
 ![png](output_17_0.png)
 
 
-Since I had the load data and the HDDs, I decided to plot the correlation between them. Fig. 3b shows the *weekly HDDs* VS *weekly mean load* during the 8 weeks of interest in 2019. With this minimal dataset, it shows a nice linear correlation. Of course, to have something conclusive a full study needs to be made using multi-year data and taking into consideration other socio-economic factors. For this reason, above, I decided not to adjust the load profiles but compare weeks with same HDDs.
+Since I had the load data and the HDDs, I decided to plot the correlation between them. Fig. 3b shows the *weekly HDDs* VS *weekly mean load* during the 8 weeks of interest in 2019. With this minimal dataset, it shows a nice linear correlation. Of course, to have something conclusive a full study needs to be made using multi-year data and taking into consideration other socio-economic factors. For this reason, above, I decided not to adjust the load profiles.
 
 
 ```python
