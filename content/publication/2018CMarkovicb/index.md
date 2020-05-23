@@ -1,7 +1,7 @@
 +++
 title = "Fast Frequency Control Scheme through Adaptive Virtual Inertia Emulation"
 date = "2018-01-01"
-authors = ["[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","Z. Chu","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["U. Markovic","Z. Chu","P. Aristidou","G. Hug"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of the 2018 ISGT Asia conf._"

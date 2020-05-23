@@ -1,8 +1,8 @@
 +++
 title = "A Combined High-, Medium-, and Low-Voltage Test System for Stability Studies with DERs"
-date = "2020-05-12"
-authors = ["F. Escobar","J. Garc'ia","J. M. V'iquez","[G. Valverde](http://scholar.google.co.uk/citations?user=Uy6MCt4AAAAJ)","P. Aristidou"]
-tags = ["distributed energy resources","modelling","power system dynamics","simulation","synthetic network","test system","PSCC2020"]
+date = "2020-06-01"
+authors = ["F. Escobar","J. Garc'ia","J. M. V'iquez","G. Valverde","P. Aristidou"]
+tags = ["distributed energy resources"," modelling"," power system dynamics"," simulation"," synthetic network"," test system"," pscc2020"]
 publication_types = ["1"]
 publication = "_Proc. of the 2020 PSCC, Porto_"
 publication_short = ""

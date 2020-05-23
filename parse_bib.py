@@ -84,7 +84,8 @@ def get_author_link(string):
     except:
         print("Author's "+string+" website is missing.")
 
-    return out
+    #return out
+    return ''
 
 def main(argv):
     inputfile = ''
@@ -109,8 +110,10 @@ if __name__ == "__main__":
     try:
         with open(inputfile, encoding="utf8") as bibtex_file:
             bibtex_str = bibtex_file.read()
+            # print(bibtex_str)
     except EnvironmentError:  # parent of IOError, OSError *and* WindowsError where available
         print('File '+inputfile+' not found or some other error...')
+        exit(1)
 
     # It takes the type of the bibtex entry and maps to a corresponding category of the academic theme
     # Publication type.

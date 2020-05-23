@@ -1,7 +1,7 @@
 +++
 title = "Data-driven Control Design Schemes in Active Distribution Grids: Capabilities and Challenges"
 date = "2019-06-01"
-authors = ["[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","R. Dobbe","P. Aristidou","D. Callaway","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["S. Karagiannopoulos","R. Dobbe","P. Aristidou","D. Callaway","G. Hug"]
 tags = ["control system synthesis","distributed power generation","learning (artificial intelligence)","optimal control","optimisation","power distribution control","power engineering computing","power generation control","power grids","optimal control","remote monitoring","current distribution networks","data-driven control algorithms","advanced off-line optimization techniques","local control","safety challenges","machine learning methods","communication infrastructure","der capabilities","sub-optimal solution","communication-free","distributed energy resources","system operators","active distribution grids","data-driven control design schemes","distribution network","optimized local controls","reactive power","control design","real-time systems","optimization","voltage measurement","machine learning","monitoring","optimal control","data-driven control design","active distribution networks","opf","machine learning"]
 publication_types = ["1"]
 publication = "_2019 IEEE Milan PowerTech_"

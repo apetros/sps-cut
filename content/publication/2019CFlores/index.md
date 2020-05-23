@@ -1,7 +1,7 @@
 +++
 title = "Robust Converter Control Design under Time-Delay Uncertainty"
 date = "2019-06-01"
-authors = ["D. Flores","[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","N. Fruh","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["D. Flores","U. Markovic","N. Fruh","P. Aristidou","G. Hug"]
 tags = ["closed loop systems","control system synthesis","delays","feedback","linear matrix inequalities","linear systems","power convertors","power system control","robust control","time-varying systems","uncertain systems","robust converter control design","time-delay uncertainty","power systems","converter-based generation","linear fractional transformations","linear parameter-varying systems","output-feedback synthesis methods","control theory","linear matrix inequalities","robust control principles","measurement delays","conventional inner control loop","time-domain simulations","voltage source converters","norm-bounded parametric h∞ controller","delays","uncertainty","delay effects","stability analysis","power system stability","voltage control","voltage measurement","low-inertia systems","time delay","voltage source converter (vsc)","linear fractional transformation (lft)","linear parameter-varying (lpv) system","robust stability","h∞ control"]
 publication_types = ["1"]
 publication = "_Proc. of the IEEE PES PowerTech Conf., Milano_"

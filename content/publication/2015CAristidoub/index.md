@@ -1,7 +1,7 @@
 +++
 title = "Modular Modelling of combined AC and DC systems in Dynamic Simulations"
 date = "2015-07-01"
-authors = ["P. Aristidou","[L. Papangelis](http://scholar.google.ch/citations?user=cZakW7oAAAAJ)","X. Guillaud","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["P. Aristidou","L. Papangelis","X. Guillaud","T. Van Cutsem"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of IEEE PES 2015 PowerTech Conf._"

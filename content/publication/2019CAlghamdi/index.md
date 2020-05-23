@@ -1,7 +1,7 @@
 +++
 title = "Delay-Robust Distributed Secondary Frequency Control: A Case Study"
 date = "2019-06-01"
-authors = ["S. Alghamdi","N. Smith","[J. Schiffer](https://scholar.google.com/citations?hl=en&user=Zk26WrgAAAAJ)","P. Aristidou"]
+authors = ["S. Alghamdi","N. Smith","J. Schiffer","P. Aristidou"]
 tags = ["closed loop systems","control system synthesis","delay systems","distributed control","frequency control","power system control","power system stability","robust control","closed-loop system","communication delays","robust-stability conditions","control design","delay-robust distributed secondary frequency control","low-carbon future","distributed consensus-based algorithms","nordic test system","system operation stability","system operation efficiency","consensus-based distributed secondary frequency controller","frequency control","power system stability","delays","generators","power system dynamics","steady-state","robustness","consensus algorithms","distributed control","secondary frequency control"]
 publication_types = ["1"]
 publication = "_Proc. of the IEEE PES PowerTech Conf., Milano_"

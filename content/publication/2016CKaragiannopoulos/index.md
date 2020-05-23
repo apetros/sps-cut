@@ -1,7 +1,7 @@
 +++
 title = "Optimal planning of distribution grids considering active power curtailment and reactive power control"
 date = "2016-07-01"
-authors = ["[S. Karagiannopoulos](https://scholar.google.com/citations?user=Tcam1KYAAAAJ)","P. Aristidou","[A. Ulbig](https://scholar.google.ch/citations?user=I1eJUa0AAAAJ)","[S. Koch](https://scholar.google.ch/citations?user=RllLoicAAAAJ)","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["S. Karagiannopoulos","P. Aristidou","A. Ulbig","S. Koch","G. Hug"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of 2016 General Meeting_"

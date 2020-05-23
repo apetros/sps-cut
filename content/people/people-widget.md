@@ -14,10 +14,11 @@ subtitle = ""
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = ["Faculty",
-                 "Researchers",
-                 "Grad Students",
+                 "Postdoctoral Researchers",
+                 "PhD Candidates",
+                 "MSc Students",
+                 "Collaborators",
                  "Administration",
-                 "Visitors",
                  "Alumni"]
 
 [design]
@@ -25,7 +26,7 @@ subtitle = ""
   show_social = true
 
   # Show user's interests? (true/false)
-  show_interests = true 
+  show_interests = false 
 
 [design.background]
   # Apply a background color, gradient, or image.

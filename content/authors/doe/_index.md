@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Petros Aristidou
+title: John Doe
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "P. Aristidou"
+- doe
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Lecturer
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://cut.ac.cy"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: xcvxcv
 
 # List each interest with a dash
 interests:
@@ -68,7 +68,7 @@ email: "petros.aristidou@cut.ac.cy"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Faculty
+- MSc Students
 ---
 
 I am a Lecturer at the [Cyprus University of Technology](https://cut.ac.cy). I work on making future electric power systems sustainable, secure, and resilient. My research brings together mathematical tools from the areas of numerical analysis and optimisation, with high performance computational tools and machine learning techniques, to tackle modern power system problems.

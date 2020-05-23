@@ -1,7 +1,7 @@
 +++
 title = "Interval-Based Adaptive Inertia and Damping Control of a Virtual Synchronous Machine"
 date = "2019-06-01"
-authors = ["[U. Markovic](https://scholar.google.ch/citations?user=xCrtgNwAAAAJ)","N. Fruh","P. Aristidou","[G. Hug](https://scholar.google.com/citations?hl=en&user=dBT_MOAAAAAJ)"]
+authors = ["U. Markovic","N. Fruh","P. Aristidou","G. Hug"]
 tags = ["control system synthesis","damping","machine control","power convertors","stability","synchronous generators","synchronous machines","time-domain analysis","interval-based adaptive inertia","damping control","power systems","renewable resources","interval-based approach","damping constants","frequency disturbance","control tuning","stability conditions","converter control scheme","virtual synchronous machine controller","time-domain simulation","frequency control","damping","stability analysis","mathematical model","generators","power system stability","acceleration","virtual synchronous machine (vsm)","voltage source converter (vsc)","swing equation","adaptive control"]
 publication_types = ["1"]
 publication = "_Proc. of the IEEE PES PowerTech Conf., Milano_"

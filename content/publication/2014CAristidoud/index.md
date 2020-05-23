@@ -1,7 +1,7 @@
 +++
 title = "Dynamic Simulations of Combined Transmission and Distribution Systems using Parallel Processing Techniques"
 date = "2014-08-01"
-authors = ["P. Aristidou","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["P. Aristidou","T. Van Cutsem"]
 tags = []
 publication_types = ["1"]
 publication = "_Proc. of the 18th PSCC, Wroclaw_"

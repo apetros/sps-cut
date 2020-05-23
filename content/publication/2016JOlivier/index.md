@@ -1,7 +1,7 @@
 +++
 title = "Active Management of Low-Voltage Networks for Mitigating Overvoltages Due to Photovoltaic Units"
 date = "2016-03-01"
-authors = ["[F. Olivier](https://scholar.google.com/citations?user=_pubM3wAAAAJ)","P. Aristidou","[D. Ernst](https://scholar.google.com/citations?hl=en&user=91ZxYSsAAAAJ)","[T. Van Cutsem](https://scholar.google.com/citations?user=rFDmBaIAAAAJ)"]
+authors = ["F. Olivier","P. Aristidou","D. Ernst","T. Van Cutsem"]
 tags = ["distribution networks","invertors","load flow","overvoltage protection","power system management","reactive power","solar cell arrays","lv distribution network","lv feeder","opf","active power curtailment","distress signal","inverter","low-voltage networks active management","optimal power flow","overvoltage mitigation","photovoltaic panel","photovoltaic unit","reactive power","inverters","photovoltaic systems","reactive power","standards","surges","voltage control","active distribution network (dn) management","low-voltage (lv) photovoltaic (pv) systems","voltage control"]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Smart Grid_"

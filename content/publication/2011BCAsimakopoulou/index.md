@@ -1,7 +1,7 @@
 +++
 title = "A Review of Customer Management Tools: The Energy Industry"
 date = "2011-01-01"
-authors = ["G. Asimakopoulou","Y. Papagrigorakis","A. L. Dimeas","P. Aristidou","[N. Hatziargyriou](https://scholar.google.ch/citations?user=TL9yCsQAAAAJ)"]
+authors = ["G. Asimakopoulou","Y. Papagrigorakis","A. L. Dimeas","P. Aristidou","N. Hatziargyriou"]
 tags = []
 publication_types = ["6"]
 publication = "_Energy-Efficient Computing and Networking_"

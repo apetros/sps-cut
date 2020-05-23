@@ -1,8 +1,8 @@
 +++
 title = "A Data-Driven Two-Stage Distributionally Robust Planning Tool for Sustainable Microgrids"
-date = "2020-05-12"
+date = "2020-08-01"
 authors = ["S. Dehghan","A. Nakiganda","P. Aristidou"]
-tags = ["data-driven"," distributionally robust planning"," microgrids","IEEEGM2020"]
+tags = ["data-driven"," distributionally robust planning"," microgrids"," ieeegm2020"]
 publication_types = ["1"]
 publication = "_Proc. of the 2020 IEEE General Meeting, Montreal_"
 publication_short = ""
