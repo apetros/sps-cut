@@ -68,7 +68,7 @@ email: "petros.aristidou@cut.ac.cy"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Faculty
+- Principal Investigator
 ---
 
 I am a Lecturer at the [Cyprus University of Technology](https://cut.ac.cy). I work on making future electric power systems sustainable, secure, and resilient. My research brings together mathematical tools from the areas of numerical analysis and optimisation, with high performance computational tools and machine learning techniques, to tackle modern power system problems.
