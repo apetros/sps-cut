@@ -3,7 +3,7 @@
 
 title: "Cyprus electricity consumption analysis 2020"
 subtitle: ""
-summary: "An brief analysis of load consumption during the COVID19 lockdown in Cyprus."
+summary: "A brief analysis of load consumption during the COVID19 lockdown in Cyprus."
 authors: ["P. Aristidou"]
 tags: []
 categories: ['blog']
