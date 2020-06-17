@@ -34,3 +34,8 @@
   from = "/git"
   to = "https://github.com/SPS-L"
   status = 302
+
+[[redirects]]
+  from = "/pyramses"
+  to = "https://pyramses.netlify.app"
+  status = 302
