@@ -42,7 +42,7 @@ The candidate will be located at CUT under the supervision of Dr. Petros Aristid
 
 ## About the candidate:
 
-The ideal candidate must have: 
+The position is open for national, EU, and international candidates. The ideal candidate must have: 
 
 - A Masters degree in applied mathematics, electrical engineering, control engineering, computational mathematics, or a related field
 - A strong background in numerical analysis
