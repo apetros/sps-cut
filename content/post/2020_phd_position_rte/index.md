@@ -1,14 +1,14 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Open PhD position on numerical methods for power system simulations"
+title: "PhD position on numerical methods for power system simulations"
 subtitle: ""
 summary: ""
 authors: ["P. Aristidou"]
 tags: []
 categories: ['jobs']
-date: 2020-06-29T20:38:48+03:00
-lastmod: 2020-06-29T20:38:48+03:00
+date: 2020-06-29T00:00:48+03:00
+lastmod: 2020-06-29T00:00:48+03:00
 featured: false
 draft: false
 
