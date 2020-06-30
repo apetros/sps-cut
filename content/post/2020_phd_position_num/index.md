@@ -6,7 +6,7 @@ subtitle: ""
 summary: "The Cyprus University of Technology (CUT), in collaboration with RTE France, is recruiting for a 4-year fully-funded Ph.D. position on the topic of open-source numerical methods for power system simulations."
 authors: ["P. Aristidou"]
 tags: []
-categories: ['jobs']
+categories: ['Open positions']
 date: 2020-06-29T00:00:48+03:00
 lastmod: 2020-06-29T00:00:48+03:00
 featured: false
