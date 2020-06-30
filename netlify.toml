@@ -39,3 +39,8 @@
   from = "/pyramses"
   to = "https://pyramses.netlify.app"
   status = 302
+
+[[redirects]]
+  from = "/post/2020_phd_position_rte/"
+  to = "/post/2020_phd_position_num/"
+  status = 302
