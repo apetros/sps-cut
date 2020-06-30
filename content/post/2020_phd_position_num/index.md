@@ -30,7 +30,7 @@ projects: []
 
 The Cyprus University of Technology (CUT), in collaboration with RTE France, is recruiting for a 4-year fully-funded Ph.D. position on the topic of open-source numerical methods for power system simulations.
 
-## About the project:
+## About the project
 
 Electricity companies rely heavily on time-domain numerical simulations of differential-algebraic equations (representing the electricity grid), to plan future developments, assess new technologies and operational strategies, or check the security of the system. 
 
@@ -40,7 +40,7 @@ The aim of this Ph.D. project is i) to identify the impact of digital controller
 
 The candidate will be located at CUT under the supervision of Dr. {{% mention "p.-aristidou" %}} but is expected to closely collaborate and visit the industrial and academic partners at RTE France (Adrien Guironnet and Patrick Panciatici), the University of Manchester ([Prof. Stefan Guettel](http://guettel.com)), and Technical University of Hamburg ([Prof. Daniel Ruprecht](https://www.mat.tuhh.de/home/druprecht_en)).
 
-## About the candidate:
+## About the candidate
 
 The position is open for national, EU, and international candidates. The ideal candidate must have: 
 
@@ -51,3 +51,9 @@ The position is open for national, EU, and international candidates. The ideal c
 - Prior research experience or specialization in numerical analysis, ideally in numerical methods for time-dependent differential equations, will be considered an advantage
 - Prior knowledge in electric power system modeling will be considered an advantage
 
+## Application process
+
+You can contact Dr. {{% mention "p.-aristidou" %}} for any informal queries. For the official application, look at:
+
+- [Entry requirements](https://www.cut.ac.cy/studies/phd/Entry+requirements/)
+- [Submission of application](https://www.cut.ac.cy/studies/phd/Submission+of+application/)
