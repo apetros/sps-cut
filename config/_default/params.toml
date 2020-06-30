@@ -159,6 +159,9 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 # Link authors to their profile page? (true/false)
 link_authors = true
 
+# Highlight the site author (superuser) in author lists
+highlight_superuser = true
+
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
 plugins_js  = []

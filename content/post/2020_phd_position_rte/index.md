@@ -3,7 +3,7 @@
 
 title: "PhD position on numerical methods for power system simulations"
 subtitle: ""
-summary: ""
+summary: "The Cyprus University of Technology (CUT), in collaboration with RTE France, is recruiting for a 4-year fully-funded Ph.D. position on the topic of open-source numerical methods for power system simulations."
 authors: ["P. Aristidou"]
 tags: []
 categories: ['jobs']
@@ -38,7 +38,7 @@ However, electric power systems are evolving with new Smart Grid technologies, s
 
 The aim of this Ph.D. project is i) to identify the impact of digital controllers and other smart grid technologies on the performance and accuracy of numerical simulations of power systems, ii) to propose new or improve existing numerical methods to resolve the issues identified, and iii) show the performance through an open-source prototype implementation.
 
-The candidate will be located at CUT under the supervision of Dr. Petros Aristidou @p.-aristidou but is expected to closely collaborate and visit the industrial and academic partners at RTE France (Adrien Guironnet and Patrick Panciatici), the University of Manchester ([Prof. Stefan Guettel](http://guettel.com)), and Technical University of Hamburg ([Prof. Daniel Ruprecht](https://www.mat.tuhh.de/home/druprecht_en)).
+The candidate will be located at CUT under the supervision of Dr. {{% mention "p.-aristidou" %}} but is expected to closely collaborate and visit the industrial and academic partners at RTE France (Adrien Guironnet and Patrick Panciatici), the University of Manchester ([Prof. Stefan Guettel](http://guettel.com)), and Technical University of Hamburg ([Prof. Daniel Ruprecht](https://www.mat.tuhh.de/home/druprecht_en)).
 
 ## About the candidate:
 
