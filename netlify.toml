@@ -44,3 +44,8 @@
   from = "/post/2020_phd_position_rte/"
   to = "/post/2020_phd_position_num/"
   status = 302
+
+[[redirects]]
+  from = "/open-positions"
+  to = "/categories/open-positions/"
+  status = 302
