@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Research Group"
-subtitle = "Subtitle"
+subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
@@ -55,3 +55,5 @@ subtitle = "Subtitle"
  # CSS class.
  css_class = ""
 +++
+
+Due to the move of the PI from University of Leeds (UoL) to the Cyprus University of Technology (CUT) in 2020, some members of the group are located at UoL and others at CUT.
