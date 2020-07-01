@@ -25,12 +25,12 @@ Chrysovalantis Spanias received the diploma in Electrical and Computer Engineeri
 interests:
 - Power system stability analysis
 - Stability analysis and control of non-linear dynamical systems
-- Supervisory Control And Data Acquisition (SCADA) systems
+- Supervisory Control And Data Acquisition (SCADA) systems 
 
 education:
   courses:
   - course: PhD in Engineering Sciences
-    institution: University of Liège, Belgium
+    institution: Cyprus University of Technology
     year: expected in 2020
   - course: Diploma in Electrical & Computer Engineering (5-year curriculum)
     institution: National Technical University of Athens, Greece

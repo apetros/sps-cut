@@ -17,7 +17,7 @@ subtitle = ""
                  "Postdoctoral Researchers",
                  "Supervised PhD Candidates",
                  "Research Assistants",
-                 "Research Collaborators",
+                 "Research Associates",
                  "Administration",
                  "Alumni"]
 
