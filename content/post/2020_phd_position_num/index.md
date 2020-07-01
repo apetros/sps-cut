@@ -53,7 +53,8 @@ The position is open for national, EU, and international candidates. The ideal c
 
 ## Application process
 
-You can contact Dr. {{% mention "p.-aristidou" %}} for any informal queries. For the official application, look at:
+Please contact Dr. {{% mention "p.-aristidou" %}} for inquiries. For the official application, look at:
 
 - [Entry requirements](https://www.cut.ac.cy/studies/phd/Entry+requirements/)
 - [Submission of application](https://www.cut.ac.cy/studies/phd/Submission+of+application/)
+- Please also forward the documents by email to {{% mention "p.-aristidou" %}}.
