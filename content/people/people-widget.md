@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 1  # Order that this section will appear.
 
 title = "Research Group"
-subtitle = ""
+subtitle = "Subtitle"
 
 [content]
   # Choose which groups/teams of users to display.
