@@ -25,7 +25,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ['mod sim']
 ---
 
 The Cyprus University of Technology (CUT), in collaboration with RTE France, is recruiting for a 4-year fully-funded Ph.D. position on the topic of open-source numerical methods for power system simulations.
