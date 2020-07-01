@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Supervised PhD Students
+- Supervised PhD Candidates
 ---
 
 I am currently a PhD student at [University of Leeds](https://www.leeds.ac.uk/). My research simultaneously looks into the operational and investment planning and optimisation of microgrid networks and the dynamical nature of their inherent systems to ensure a secure, reliable and resilient performance in different modes operation.
