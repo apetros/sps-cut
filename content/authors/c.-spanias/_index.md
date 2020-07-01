@@ -19,7 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-Chrysovalantis Spanias received the diploma in Electrical and Computer Engineering from the National Technical University of Athens (NTUA) in 2010. During 2010-13 was employed as a Senior Electrical Engineer in the Construction Industry in Cyprus. Since 2013 he is a PhD student at the Department of Electrical Engineering, Computer Engineering and Informatics, Cyprus University of Technology. He currently works for the Distribution System Operator (DSO) of the Electricity Authority of Cyprus (EAC). His main area of research is stability analysis and control of power systems.
 
 # List each interest with a dash
 interests:
@@ -59,5 +58,5 @@ user_groups:
 - Research Associates
 ---
 
-
+Chrysovalantis Spanias received the diploma in Electrical and Computer Engineering from the National Technical University of Athens (NTUA) in 2010. During 2010-13 was employed as a Senior Electrical Engineer in the Construction Industry in Cyprus. Since 2013 he is a PhD student at the Department of Electrical Engineering, Computer Engineering and Informatics, Cyprus University of Technology. He currently works for the Distribution System Operator (DSO) of the Electricity Authority of Cyprus (EAC). His main area of research is stability analysis and control of power systems.
 
