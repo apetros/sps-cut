@@ -5,7 +5,7 @@ title: "Cyprus electricity consumption analysis 2020"
 subtitle: ""
 summary: "A brief analysis of load consumption during the COVID19 lockdown in Cyprus."
 authors: ["P. Aristidou"]
-tags: []
+tags: ['COVID19','data analysis','pandas']
 categories: ['blog']
 date: 2020-05-21T20:38:48+03:00
 lastmod: 2020-05-21T20:38:48+03:00
