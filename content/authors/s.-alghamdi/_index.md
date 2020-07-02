@@ -14,7 +14,7 @@ role:  Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: King Abdulaziz Uuniversity
+- name: King Abdulaziz University
   url: "https://www.kau.edu.sa/home_ENGLISH.aspx"
 
 # Short bio (displayed in user profile at end of posts)
@@ -28,14 +28,14 @@ interests:
 
 education:
   courses:
-  - course: PhD in Engineering Engineering 
+  - course: PhD in Electrical Engineering 
     institution:  University of Leeds, UK
     year: 2020
   - course: MSc in Renewable and Clean Energy 
     institution: University of Dayton, Ohio, USA
     year: 2015
   - course: BSc  in Electrical Engineering (specialized in power system and machines)
-    institution: King Abdulaziz Uuniversity, Jeddah, KSA
+    institution: King Abdulaziz University, Jeddah, KSA
     year: 2011
 
 
@@ -61,6 +61,6 @@ user_groups:
 - Alumni
 ---
 
-I am an Assistant Professorat the [King Abdulaziz Uuniversity](https://www.kau.edu.sa/home_ENGLISH.aspx). My current research interests include distributed control and time-delay systems with application to microgrids and power systems.
+I am an Assistant Professor at the [King Abdulaziz University](https://www.kau.edu.sa/home_ENGLISH.aspx). My current research interests include distributed control and time-delay systems with application to microgrids and power systems.
 
 
