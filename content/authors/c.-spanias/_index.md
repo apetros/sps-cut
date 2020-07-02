@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Engineering Sciences
+  - course: PhD in Electrical Engineering
     institution: Cyprus University of Technology
     year: expected in 2020
   - course: Diploma in Electrical & Computer Engineering (5-year curriculum)
