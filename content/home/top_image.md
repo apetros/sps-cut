@@ -37,14 +37,14 @@ hero_media = ""
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://sourcethemes.com/academic/docs/install/"
+  url = "open-positions/"
   label = "We are recruiting!"
   icon_pack = "fas"
-  icon = "download"
+  icon = "graduation-cap"
   
-[cta_alt]
-  url = "open-positions/"
-  label = "View openings"
+# [cta_alt]
+# url = "open-positions/"
+# label = "View openings"
 
 # Note. An optional note to show underneath the links.
 # [cta_note]
