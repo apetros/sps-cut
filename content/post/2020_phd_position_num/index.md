@@ -56,6 +56,6 @@ The position is open for national, EU, and international candidates. The ideal c
 Please contact Dr. {{% mention "p.-aristidou" %}} for inquiries. For the official application, look at:
 
 - [Entry requirements](https://www.cut.ac.cy/studies/phd/Entry+requirements/)
-- [Submission of application](https://www.cut.ac.cy/studies/phd/Submission+of+application/)
+# - [Submission of application](https://www.cut.ac.cy/studies/phd/Submission+of+application/)
 - The platform will open on the 8th of July and remain open for 2 weeks.
 - Please also forward the documents by email to {{% mention "p.-aristidou" %}}.
