@@ -58,5 +58,5 @@ Please contact Dr. {{% mention "p.-aristidou" %}} for inquiries. For the officia
 
 - Deadline: 20/07/2020
 - [Entry requirements](https://www.cut.ac.cy/studies/phd/Entry+requirements/)
-- [Submit application](https://www.cut.ac.cy/studies/phd/PhD+vacant+positions/Electrical+Engineering%2C+Computer+Engineering+and+Informatics/Numerical+methods+for+power+system+simulations/)
+- [Submit application](https://www.cut.ac.cy/studies/phd/Submission+of+application/)
 - Please also forward the documents by email to {{% mention "p.-aristidou" %}}.
