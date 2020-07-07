@@ -56,6 +56,7 @@ The position is open for national, EU, and international candidates. The ideal c
 
 Please contact Dr. {{% mention "p.-aristidou" %}} for inquiries. For the official application, look at:
 
+- Deadline: 20/07/2020
 - [Entry requirements](https://www.cut.ac.cy/studies/phd/Entry+requirements/)
 - [Submit application](https://www.cut.ac.cy/studies/phd/PhD+vacant+positions/Electrical+Engineering%2C+Computer+Engineering+and+Informatics/Numerical+methods+for+power+system+simulations/)
 - Please also forward the documents by email to {{% mention "p.-aristidou" %}}.
