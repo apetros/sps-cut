@@ -15,9 +15,9 @@ url_pdf = "/publication/2020CDehghan/manuscript.pdf"
 url_code = ""
 url_dataset = ""
 url_poster = ""
-url_slides = ""
+url_slides = "/publication/2020CDehghan/slides.pdf"
 url_source = ""
-url_video = ""
+url_video = "/publication/2020CDehghan/video.mp4"
 math = true
 highlight = true
 [image]
