@@ -2,7 +2,7 @@
 title = "Wide-Area Oscillation Damping in Low-Inertia Grids under Time-Varying Communication Delays"
 date = "2020-06-01"
 authors = ["S. Alghamdi","U. Markovic","O. Stanojev","J. Schiffer","G. Hug","P. Aristidou"]
-tags = ["low-inertia systems"," oscillation damping"," time-varying communication delay"," wide-area control"," pscc2020"]
+tags = ["low-inertia systems","oscillation damping","time-varying communication delay","wide-area control","pscc2020"]
 publication_types = ["1"]
 publication = "_Proc. of the 2020 PSCC, Porto_"
 publication_short = ""

@@ -23,7 +23,7 @@ def RepresentsInt(s):
 
 
 def supetrim(string):
-    return string.replace("\\" , "").replace("{" , "").replace("}" , "").replace("\n"," ")
+    return string.lstrip().replace("\\" , "").replace("{" , "").replace("}" , "").replace("\n"," ")
 
 
 def month_string_to_number(string):
@@ -242,7 +242,8 @@ if __name__ == "__main__":
                 project_str = ''
                 for project in the_projects:
                     project_strip = supetrim(project)
-                    project_str = project_str+ '"'+project_strip.lower()+'",'
+                    project_strip = project_strip.lower().replace(" ","-")
+                    project_str = project_str+ '"'+project_strip+'",'
                 the_file.write(project_str[:-1]+']\n')
             else:
                 the_file.write('projects = []\n')
