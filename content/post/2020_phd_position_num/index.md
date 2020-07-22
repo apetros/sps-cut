@@ -10,7 +10,7 @@ categories: ['Open positions']
 date: 2020-06-29T00:00:48+03:00
 lastmod: 2020-06-29T00:00:48+03:00
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

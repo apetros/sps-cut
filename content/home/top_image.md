@@ -36,11 +36,11 @@ hero_media = ""
 # Call to action links (optional).
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "open-positions/"
-  label = "We are recruiting!"
-  icon_pack = "fas"
-  icon = "graduation-cap"
+#[cta]
+#  url = "open-positions/"
+#  label = "We are recruiting!"
+#  icon_pack = "fas"
+#  icon = "graduation-cap"
   
 # [cta_alt]
 # url = "open-positions/"
