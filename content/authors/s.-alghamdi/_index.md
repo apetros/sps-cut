@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role:  Assistant Professor
+role:  Assistant Professor (King Abdulaziz University)
 
 # Organizations/Affiliations
 organizations:

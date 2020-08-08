@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate student
+role: Undergraduate student (CUT)
 
 # Organizations/Affiliations
 organizations:
