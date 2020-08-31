@@ -49,3 +49,8 @@
   from = "/open-positions"
   to = "/categories/open-positions/"
   status = 302
+
+[[redirects]]
+  from = "/jhub"
+  to = "http://135.181.44.19"
+  status = 302
