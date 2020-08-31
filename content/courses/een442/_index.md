@@ -29,7 +29,7 @@ You should register to Microsoft Teams for the Blended Learning part of the cour
 ## Time and place
 
 - Tuesdays 17:00-21:00 (Amohostos room)
-- Thursday 11:00-12:00 (MS Teams)
+- Thursdays 11:00-12:00 (MS Teams)
 
 ## Learning outcome
 
@@ -57,7 +57,7 @@ differential, digital relays)
 
 ## Course books
 
-- A. Gómez-Expósito, A. J. Conejo, and C. A. Ca˜ nizares, Electric Energy Systems Analysis and Operation, 2nd edition, CRC Press, 2018.
+- A. Gómez-Expósito, A. J. Conejo, and C. A. Canizares, Electric Energy Systems Analysis and Operation, 2nd edition, CRC Press, 2018.
 - D. Glover, M. S. Sarma and T. Overbye, Power System Analysis & Design, 6th edition, Cengage Learning, 2017.
 - Nasser Tleis, Power Systems Modelling and Fault Analysis : Theory and Practice, 2nd edition, Academic Press, 2019.
 
