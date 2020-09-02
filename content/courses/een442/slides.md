@@ -1,10 +1,10 @@
 ---
-title: Slides
-linktitle: Slides
+title: Lecture material
+linktitle: Lecture material
 toc: true
 type: docs
 date: "2019-11-17T00:00:00Z"
-draft: true
+draft: false
 menu:
   een442:
     parent: Learning resources
@@ -16,28 +16,26 @@ weight: 2
 
 | No | Title | Notes |
 |-----------------|------------|------------|
-|1| [Introduction](lecture_part1_handout.pdf) | Book 1 - Chapter 1 |
-|2| [Single-phase and three-phase AC systems](lecture_part2_handout.pdf)| Book 1 - Chapter 2  |
-|3| [The power transformer](lecture_part3_handout.pdf) | Book 1 - Chapter 3, [Wiring configurations](https://www.dropbox.com/s/k7youdu8vji594j/Transformer-wiring-configurations.pdf?dl=0)|
-|4| [The per-unit system](lecture_part4_handout.pdf) |  Book 1 - Chapter 3.5 |
-|5| [The transmission line](lecture_part5_handout.pdf) |  Book 1 - Chapters 4+5  | 
-|6| [Fundamentals of power system operation](lecture_part6_handout.pdf) |  Book 1 - Chapter 12 |
-|7| [Introduction to rotating machines](lecture_part7_presentation.pdf) |  Book 2 - Chapters 4, 5.1-5.6, 6.1   |
-|8| [Current and future trends in power system operation - the path to the smart grid](lecture_part8_presentation.pdf) |  | 
+|1| [Revision of power engineering fundamentals]() | Book 1 - Chapter 2 |
+|2| [Transmission line operation]()| Book 1 - Chapter 2.3.4, Book 2 - Chapter 5  |
+|3| [Power flow analysis]() | Book 1 - Chapter 3, Book 2 - Chapter 6|
+|4| [Unbalanced operation]() |  Book 1 - Chapter 7.2, Book 2 - Chapter 8, Book 3 - Chapter 2.2 |
+|5| [Fault analysis]() |  Book 1 - Chapters 8.1-8.4, Book 2 - Chapter 7  | 
+|6| [Protection fundamentals]() |  Book 1 - Chapter 8.6-8.12, Book 2 - Chapter 10 |
 
 
 ## Reference books
 
-1. D. Glover, M. S. Sarma and T. Overbye, "Power System Analysis \& Design", 6th edition, Cengage Learning, 2017
-2. Chapman, S.J., "Electric machinery fundamentals", 4th edition McGraw-Hill, 2005
+1. A. Gómez-Expósito, A. J. Conejo, and C. A. Canizares, Electric Energy Systems Analysis and Operation, 2nd edition, CRC Press, 2018.
+2. D. Glover, M. S. Sarma and T. Overbye, Power System Analysis & Design, 6th edition, Cengage Learning, 2017.
+3. Nasser Tleis, Power Systems Modelling and Fault Analysis : Theory and Practice, 2nd edition, Academic Press, 2019.
 
 Alternative books in Greek:
 
-1. Κ. Βουρνάς, Γ. Κονταξής, "Εισαγωγή στα συστήματα ηλεκτρικής ενέργειας",  εκδόσεις ΣΥΜΜΕΤΡΙΑ, 2010
-2. Γ. Γιαννακόπουλος, Ν. Βοβός, "Εισαγωγή στα συστήματα ηλεκτρικής ενέργειας",  εκδόσεις ΖΗΤΗ, 2017
+1. Ν. Βοβός, Γ. Γιαννακόπουλος, "Ανάλυση Συστημάτων Ηλεκτρικής Ενέργειας", Β' έκδοση, εκδόσεις ΖΗΤΗ, 2019
 
 ## Screencasts
 
-In this Youtube channel you will find the screencasts of the course during the university shutdown.
+In this Youtube playlist you will find the online sessions.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLpmwr4EPmhRosddwOVsHYFkHE6XBoY79q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/playlist?list=PLpmwr4EPmhRpp1MvGh3sFC8l1W9B6JJ9X" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -65,12 +65,12 @@ differential, digital relays)
 
 Due to special circumstances, this year the course is following a blended learning schedule with 2 hours in person + 1 hours online. This might be modified according to the requirements and the regulations.
 
-1. Theory delivered through lectures (in class ≈ 32 hours)
-2. Practical examples (in class ≈ 12 hours)
-3. Hardware laboratory work (in class ≈ 8 hours)
-   a. Three-Phase AC Power Circuits: Connection, system familiarization, Wye-Delta connections, power measurements.
-   b. Power Factor Correction: Power factor and power factor correction.
-   c. AC / DC Motors and Generators: Connection and familiarization, losses and efficiency.
+- Theory delivered through lectures (in class ≈ 26 hours)
+- Practical examples (online ≈ 12 hours)
+- Hardware laboratory work (in lab ≈ 8 hours)
+    1. Three-Phase AC Power Circuits: Connection, system familiarization, Wye-Delta connections, power measurements.
+    2. Power Factor Correction: Power factor and power factor correction.
+    3. AC / DC Motors and Generators: Connection and familiarization, losses and efficiency.
 
 ## Assessment
 
