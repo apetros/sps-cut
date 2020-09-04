@@ -24,13 +24,6 @@ menu:
 
 This course extends into the field of electric power systems based on the course EEN320. It focuses on the use of computational methods for the analysis of electric power systems in steady-state as well as during symmetrical and asymmetrical faults. It proceeds to provide the fundamental understanding of protection devices operation and selection.
 
-You should register to Microsoft Teams for the Blended Learning part of the course. At the [course repository](https://github.com/SPS-L/EEN442) you can find the material for the PandaPower part.
-
-## Time and place
-
-- Tuesdays 17:00-21:00 (Amohostos room)
-- Thursdays 11:00-12:00 (MS Teams)
-
 ## Learning outcome
 
 On completion of this course, students should be able to:
@@ -71,6 +64,28 @@ Due to special circumstances, this year the course is following a blended learni
     1. Three-Phase AC Power Circuits: Connection, system familiarization, Wye-Delta connections, power measurements.
     2. Power Factor Correction: Power factor and power factor correction.
     3. AC / DC Motors and Generators: Connection and familiarization, losses and efficiency.
+
+| Group A | Group B |
+|-----------------|------------|
+|0000012068|0000014669|
+|0000012013|0000011979|
+|0000015809|0000014456|
+|0000006817|0000006778|
+|0000012279|0000006816|
+|0000012522|0000006756|
+|0000015107|0000013695|
+|0000012153|0000006898|
+|0000006788|0000012396|
+|0000012168|0000012415|
+|0000012165|0000006775|
+
+
+## Time and place
+
+- (Group A) Tuesdays 17:00-19:00 (Amohostos room)
+- (Group B) Tuesdays 19:00-21:00 (Amohostos room)
+- (ALL) Thursdays 11:00-12:00 (MS Teams)
+
 
 ## Assessment
 
