@@ -65,6 +65,15 @@ Due to special circumstances, this year the course is following a blended learni
     2. Power Factor Correction: Power factor and power factor correction.
     3. AC / DC Motors and Generators: Connection and familiarization, losses and efficiency.
 
+
+
+
+## Time and place
+
+- (Group A) Tuesdays 17:00-19:00 (Amohostos room)
+- (Group B) Tuesdays 19:00-21:00 (Amohostos room)
+- (ALL) Thursdays 11:00-12:00 ([MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTMwZWJjODMtZDIzYy00MTZmLWIwYzItMjE2N2VmNWM3OTVh%40thread.v2/0?context=%7b%22Tid%22%3a%228f7698bc-b1b4-439f-b259-0213401d1cfb%22%2c%22Oid%22%3a%22acee87ef-d88f-4dc1-a312-1e9893f75d96%22%7d))
+
 | Group A | Group B |
 |-----------------|------------|
 |0000012068|0000014669|
@@ -79,19 +88,10 @@ Due to special circumstances, this year the course is following a blended learni
 |0000012168|0000012415|
 |0000012165|0000006775|
 
-
-## Time and place
-
-- (Group A) Tuesdays 17:00-19:00 (Amohostos room)
-- (Group B) Tuesdays 19:00-21:00 (Amohostos room)
-- (ALL) Thursdays 11:00-12:00 (MS Teams)
-
-
 ## Assessment
 
 | Assessment type | % of grade |
 |-----------------|------------|
-| Lab report on hardware laboratory work | 20          |
-| Short oral exam on the hardware laboratory work upon delivery | 10          |
-| Small project based on PandaPower  | 30         |
+| Hardware laboratory report with short oral exam on the report | 30          |
+| Mini project | 30         |
 | Final exam      | 40         |
