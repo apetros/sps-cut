@@ -273,3 +273,16 @@ plugins_js  = []
 [marketing]
   google_analytics = "UA-28054540-2"
   google_tag_manager = ""
+
+############################
+## Content Management System
+############################
+[cms]
+  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
+  netlify_cms = false
+
+############################
+## Icon Pack Extensions
+############################
+[icon.pack]
+  ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
