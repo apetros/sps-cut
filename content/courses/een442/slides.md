@@ -16,7 +16,7 @@ weight: 2
 
 | No | Title | Notes |
 |-----------------|------------|------------|
-|1| [Revision of power engineering fundamentals](https://www.dropbox.com/s/em47fq5qpxcwxsp/lecture_part1_presentation.pdf?dl=1) | Book 1 - Chapter 2 |
+|1| [Revision of power engineering fundamentals](https://www.dropbox.com/s/em47fq5qpxcwxsp/lecture_part1_presentation.pdf?dl=1) | Book 1 - Chapter 2, [EEN320 material](https://sps.cut.ac.cy/courses/een320/) |
 |2| [Transmission line operation]()| Book 1 - Chapter 2.3.4, Book 2 - Chapter 5  |
 |3| [Power flow analysis]() | Book 1 - Chapter 3, Book 2 - Chapter 6|
 |4| [Unbalanced operation]() |  Book 1 - Chapter 7.2, Book 2 - Chapter 8, Book 3 - Chapter 2.2 |
