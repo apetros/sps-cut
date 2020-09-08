@@ -53,6 +53,7 @@ differential, digital relays)
 - A. Gómez-Expósito, A. J. Conejo, and C. A. Canizares, Electric Energy Systems Analysis and Operation, 2nd edition, CRC Press, 2018.
 - D. Glover, M. S. Sarma and T. Overbye, Power System Analysis & Design, 6th edition, Cengage Learning, 2017.
 - Nasser Tleis, Power Systems Modelling and Fault Analysis : Theory and Practice, 2nd edition, Academic Press, 2019.
+- Ν. Βοβός, Γ. Γιαννακόπουλος, “Ανάλυση Συστημάτων Ηλεκτρικής Ενέργειας”, Β’ έκδοση, εκδόσεις ΖΗΤΗ, 2019
 
 ## Delivery
 
@@ -72,7 +73,7 @@ Due to special circumstances, this year the course is following a blended learni
 
 - (Group A) Tuesdays 17:00-19:00 (Amohostos room)
 - (Group B) Tuesdays 19:00-21:00 (Amohostos room)
-- (ALL) Thursdays 11:00-12:00 ([MS Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MTMwZWJjODMtZDIzYy00MTZmLWIwYzItMjE2N2VmNWM3OTVh%40thread.v2/0?context=%7b%22Tid%22%3a%228f7698bc-b1b4-439f-b259-0213401d1cfb%22%2c%22Oid%22%3a%22acee87ef-d88f-4dc1-a312-1e9893f75d96%22%7d))
+- (ALL) Thursdays 11:00-12:00 ([Zoom Room](https://us02web.zoom.us/j/83097913675))
 
 | Group A | Group B |
 |-----------------|------------|
