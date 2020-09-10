@@ -87,7 +87,8 @@ Due to special circumstances, this year the course is following a blended learni
 |12153|6898|
 |6788 |12396|
 |12168|12415|
-|12165|6775|
+|4770|6775|
+|12165||
 
 ## Assessment
 
