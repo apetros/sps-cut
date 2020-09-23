@@ -26,3 +26,11 @@ You have to upload the exercises in **PDF format** in the links provided. To sca
 - *Exercises*: Solve exercises 2.1.4, 4.1.2, and 5.1.4.
 - [Submission link](https://www.dropbox.com/request/L9r0cgSbdkuM0sUeL7GT)
 
+## Assignment 2
+
+- *Deadline*: Monday, 12/10/2020, 12:00 noon
+- *Exercises*: Solve exercises 6.1.1 and 6.1.2.
+- [Submission link](https://www.dropbox.com/request/R0wge8xKa2325D4YZBHd)
+
+
+
