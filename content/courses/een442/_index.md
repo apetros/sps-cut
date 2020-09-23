@@ -37,7 +37,7 @@ under-fault operation of electric power systems;
 
 1. Revision of power engineering fundamentals (per-unit,
 line/transformer/generator/load models) 
-2. Transmission line operation (Surge impedance loading, lossless line,
+2. Fundamentals of power system operation (Surge impedance loading, lossless line,
 efficiency, loadability, maximum power over line, P-δ and P-V
 characteristics, Ferranti effect)
 3. Power flow analysis (nodal admittance matrix, NR-method, fast
