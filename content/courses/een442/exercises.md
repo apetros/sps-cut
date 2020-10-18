@@ -32,5 +32,9 @@ You have to upload the exercises in **PDF format** in the links provided. To sca
 - *Exercises*: Solve exercises 6.1.1 and 6.1.2.
 - [Submission link](https://www.dropbox.com/request/R0wge8xKa2325D4YZBHd)
 
+## Assignment 3
 
+- *Deadline*: Monday, 26/10/2020, 12:00 noon
+- *Exercises*: Solve exercises 8.1.4-8.1.5.
+- [Submission link]()
 

@@ -39,5 +39,5 @@ A mask is mandatory for the lab. No food or drinks are allowed. This is a 400V t
 |------------|------------|------------|
 |29/09/2020|A1+A2|Three-Phase AC Power Circuits (Ex. 1) and Power Factor Correction (Ex. 1)|
 |29/09/2020|A3+A4|ACDC Motors and Generators (Ex. 1.2-1.3, 4.1)|
-|06/10/2020|B1+B2|Three-Phase AC Power Circuits (Ex. 1) and Power Factor Correction (Ex. 1)|
-|06/10/2020|B3+B4|ACDC Motors and Generators (Ex. 1.2-1.3, 4.1)|
+|TBA|B1+B2|Three-Phase AC Power Circuits (Ex. 1) and Power Factor Correction (Ex. 1)|
+|TBA|B3+B4|ACDC Motors and Generators (Ex. 1.2-1.3, 4.1)|
