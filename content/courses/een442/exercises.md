@@ -34,7 +34,7 @@ You have to upload the exercises in **PDF format** in the links provided. To sca
 
 ## Assignment 3
 
-- *Deadline*: Monday, 26/10/2020, 12:00 noon
-- *Exercises*: Solve exercises 8.1.4-8.1.5.
-- [Submission link]()
+- *Deadline*: Tuesday, 27/10/2020, 12:00 noon
+- *Exercises*: Solve exercises 8.1.2,8.1.3,8.1.5.
+- [Submission link](https://www.dropbox.com/request/A5U7Alw4aaHQ2mz48uyl)
 
