@@ -20,7 +20,9 @@ The labs take place in Ttofis building 2nd floor Energy Systems Lab, 5-9 pm on T
 A mask is mandatory for the lab. No food or drinks are allowed. This is a 400V three-phase lab with rotating machines, any behaviour deemed to endanger your colleagues will lead to expulsion from the lab and a 0% mark for the lab component.
 {{% /alert %}}
 
-## Lab groups
+## Part 1 (pre-restrictions)
+
+### Lab groups
 
 |No | Student 1 | Student 2 | Student 3 |
 |-----------------|------------|------------|------------|
@@ -33,7 +35,7 @@ A mask is mandatory for the lab. No food or drinks are allowed. This is a 400V t
 |B3|13695 |6778 | 12415|
 |B4| 14669|14456 | 4770 |
 
-## Timetable
+### Timetable
 
 |Date | Groups| Lab exercise|
 |------------|------------|------------|
@@ -41,7 +43,20 @@ A mask is mandatory for the lab. No food or drinks are allowed. This is a 400V t
 |29/09/2020|A3+A4|ACDC Motors and Generators (Ex. 1.2-1.3, 4.1)|
 |06/10/2020|B1+B2|Three-Phase AC Power Circuits (Ex. 1) and Power Factor Correction (Ex. 1)|
 |06/10/2020|B3+B4|ACDC Motors and Generators (Ex. 1.2-1.3, 4.1)|
-|TBA|A1+A2|ACDC Motors and Generators (Ex. 1.2-1.3, 4.1)|
-|TBA|A3+A4|Three-Phase AC Power Circuits (Ex. 1) and Power Factor Correction (Ex. 1)|
-|TBA|B1+B2|ACDC Motors and Generators (Ex. 1.2-1.3, 4.1)|
-|TBA|B3+B4|Three-Phase AC Power Circuits (Ex. 1) and Power Factor Correction (Ex. 1)|
+
+## Part 2 (post-restrictions)
+
+### Lab groups
+
+|No | Student 1 | Student 2 | Student 3 | Student 4 | Student 5 |
+|-----------------|------------|------------|------------|------------|------------|
+|G1| 12522 | 12068|12279 |12013| 6817|
+|G2| 15809| 12396 |6788 |15107 |12153 |
+|G3| 6898|11979 | 12165 |13695 |------------|
+|G4| 12168 | 6816 |6778 | 12415|------------|
+|G5| 6775 |6756 |14669|14456 | 4770 |
+
+
+### Timetable
+
+To be arranged with the lecturer between each group.
