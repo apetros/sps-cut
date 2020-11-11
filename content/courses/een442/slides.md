@@ -20,7 +20,7 @@ weight: 2
 |2| [Fundamentals of power system operation](https://www.dropbox.com/s/c5efwuj376gfsla/lecture_part2_presentation.pdf?dl=0)| Book 1 - Chapter 2.3.4, Book 2 - Chapter 5  |
 |3| [Power flow analysis](https://www.dropbox.com/s/4lqqa0fovdqoqyf/lecture_part3_presentation.pdf?dl=0) | Book 1 - Chapter 3, Book 2 - Chapter 6|
 |4| [Unbalanced operation](https://www.dropbox.com/s/gahrst9heqykjzl/lecture_part4_presentation.pdf?dl=0) |  Book 1 - Chapter 7.2, Book 2 - Chapter 8, Book 3 - Chapter 2.2 |
-|5| [Fault analysis]() |  Book 1 - Chapters 8.1-8.4, Book 2 - Chapter 7  | 
+|5| [Fault analysis](https://www.dropbox.com/s/0sz1jxo0hbhw4n4/lecture_part5_presentation.pdf?dl=0) |  Book 1 - Chapters 8.1-8.4, Book 2 - Chapter 7  | 
 |6| [Protection fundamentals]() |  Book 1 - Chapter 8.6-8.12, Book 2 - Chapter 10 |
 
 ## Reference books
