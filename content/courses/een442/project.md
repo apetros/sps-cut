@@ -74,23 +74,47 @@ In a real system there would be multiple feeders connected to each MV-LV transfo
 ### Tasks
 
 1. Model the test system in Pandapower[^2].
-  - What is the type of the 20 kV lines used? What information can you find from manufacturers? Is this typical for MV systems?
-  - What is the type of the 400 V lines used? What information can you find from manufacturers? Is this typical for LV systems?
-  - Is this a radial or meshed system? Is this typical for distribution networks? Why?
+   - What is the type of the 20 kV lines used? What information can you find from manufacturers? Is this typical for MV systems?
+   - What is the type of the 400 V lines used? What information can you find from manufacturers? Is this typical for LV systems?
+   - Is this a radial or meshed system? Is this typical for distribution networks? Why?
 2. Run a power flow and display all the bus voltages, line currents, and transformer loadings.
-  - Are there any violations of voltage[^3], line, or transformers?
-  - Create and display a [colormap](https://pandapower.readthedocs.io/en/v2.0.0/plotting/matplotlib/create_colormaps.html) of the buses showing blue for all voltages below 0.95, green for voltages between 0.95 and 1.05, and red for all voltages above 1.05 pu.
+   - Are there any violations of voltage[^3], line, or transformers?
+   - Create and display a [colormap](https://pandapower.readthedocs.io/en/v2.0.0/plotting/matplotlib/create_colormaps.html) of the buses showing blue for all voltages below 0.95, green for voltages between 0.95 and 1.05, and red for all voltages above 1.05 pu.
 3. Consider that the power consumption of every household is increased to 4 kW at 0.95 power factor and solve the power flow.
-  - Are there any violations of voltage, line, or transformers?
-  - Create and display a [colormap](https://pandapower.readthedocs.io/en/v2.0.0/plotting/matplotlib/create_colormaps.html) of the buses showing blue for all voltages below 0.95, green for voltages between 0.95 and 1.05, and red for all voltages above 1.05 pu.
+   - Are there any violations of voltage, line, or transformers?
+   - Create and display a [colormap](https://pandapower.readthedocs.io/en/v2.0.0/plotting/matplotlib/create_colormaps.html) of the buses showing blue for all voltages below 0.95, green for voltages between 0.95 and 1.05, and red for all voltages above 1.05 pu.
 4. If we consider that each house will purchase an electric vehicle with a 7 kW charger (in addition to their normal 2 kW with PF=0.95 load) and they want to charge at the same time.
-  - Is the system able to withstand this load?
-  - If no, propose some solutions to alleviate the problem.
+   - Is the system able to withstand this load?
+   - If no, propose some solutions to alleviate the problem.
 
 
 [^2]: Follow the [example shown in class](https://github.com/panda-power/pandapower/blob/master/tutorials/minimal_example.ipynb) and the [simple network tutorial](https://github.com/e2nIEE/pandapower/blob/master/tutorials/create_simple.ipynb)
 [^3]: Assume a 5% deviation to be acceptable.
 
 ## Part 2: Short circuit analysis
+
+The utility company needs to design the protections for the MV-LV system of the previous part. Before starting this part, read the [documentation](https://pandapower.readthedocs.io/en/v2.4.0/shortcircuit.html) and [tutorial](https://github.com/e2nIEE/pandapower/blob/master/tutorials/shortcircuit.ipynb).
+
+### Tasks
+
+1. Compute the maximum three-phase short-circuit currents for a solid fault ($Z_F = 0\ \Omega$).
+   - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each bus.
+   - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each line.
+   - What is the difference between the three values of current computed at each node or line?
+   - Which standard is used to compute the short-circuit currents? Briefly explain the methodology based on the documentation, the slides of the course, and material you find online.
+2. Deactivate the contribution of the large motor[^4] and recompute the maximum three-phase short-circuit currents for a solid fault ($Z_F = 0\ \Omega$).
+   - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each bus.
+   - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each line.
+   - Compare to the values of Task 1 and explain the difference.
+2. Compute the maximum three-phase short-circuit currents with fault impedance $Z_F = 1+j2\ \Omega$.
+   - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each bus.
+   - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each line.
+   - Compare to the values of Task 1 and explain the difference.
+3. Compute the maximum two-phase short-circuit currents for a solid fault ($Z_F = 0\ \Omega$).
+   - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each bus.
+   - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each line.
+   - Compare to the values of Task 1 and explain the difference.
+   
+[^4]: This can be done by executing the command `net.sgen.in_service = False` before computing the short-circuit currents. Don't forget to reset back to `net.sgen.in_service = True` before moving to the next task.
 
 ## Part 3: Protection design
