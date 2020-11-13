@@ -38,3 +38,20 @@ You have to upload the exercises in **PDF format** in the links provided. To sca
 - *Exercises*: Solve exercises 8.1.2,8.1.3,8.1.5.
 - [Submission link](https://www.dropbox.com/request/A5U7Alw4aaHQ2mz48uyl)
 
+## Assignment 4
+
+- *Deadline*: Tuesday, 17/11/2020, 12:00 noon
+- *Exercises*: Solve exercises 9.1.4-9.1.5.
+- [Submission link](https://www.dropbox.com/request/KZEZos4sW5qyssAqxcJe)
+
+## Assignment 5
+
+- *Deadline*: Tuesday, 24/11/2020, 12:00 noon
+- *Exercises*: Solve exercises 10.1.4.
+- [Submission link](https://www.dropbox.com/request/SPPIKAbG3iAbBUnZngBd)
+
+## Assignment 6
+
+- *Deadline*: Tuesday, 01/12/2020, 12:00 noon
+- *Exercises*: TBA
+- [Submission link](https://www.dropbox.com/request/GNLWZnF9XwCMJd4OuDZE)
