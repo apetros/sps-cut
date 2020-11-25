@@ -114,12 +114,12 @@ The utility company needs to design the protections for the MV-LV system of the 
    - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each bus.
    - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each line.
    - Compare to the values of Task 1 and explain the difference.
-   
+
 [^4]: This can be done by executing the command `net.sgen.in_service = False` before computing the short-circuit currents. Don't forget to reset back to `net.sgen.in_service = True` before moving to the next task.
 
 ## Part 3: Protection design
 
-Consider the three breakers shown in this figure:
+Consider the two breakers shown in this figure:
 
 {{< figure src="diagram2.png" title="Test-system one-line diagram" numbered="true" >}}
 
