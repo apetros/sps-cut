@@ -106,11 +106,11 @@ The utility company needs to design the protections for the MV-LV system of the 
    - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each bus.
    - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each line.
    - Compare to the values of Task 1 and explain the difference.
-2. Compute the maximum three-phase short-circuit currents with fault impedance $Z_F = 1+j2\ \Omega$.
+3. Compute the maximum three-phase short-circuit currents with fault impedance $Z_F = 1+j2\ \Omega$.
    - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each bus.
    - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each line.
    - Compare to the values of Task 1 and explain the difference.
-3. Compute the maximum two-phase short-circuit currents for a solid fault ($Z_F = 0\ \Omega$).
+4. Compute the maximum two-phase short-circuit currents for a solid fault ($Z_F = 0\ \Omega$).
    - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each bus.
    - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each line.
    - Compare to the values of Task 1 and explain the difference.
@@ -118,3 +118,24 @@ The utility company needs to design the protections for the MV-LV system of the 
 [^4]: This can be done by executing the command `net.sgen.in_service = False` before computing the short-circuit currents. Don't forget to reset back to `net.sgen.in_service = True` before moving to the next task.
 
 ## Part 3: Protection design
+
+Consider the three breakers shown in this figure:
+
+{{< figure src="diagram2.png" title="Test-system one-line diagram" numbered="true" >}}
+
+- Assume the maximum load over the operating life of the radial system is the one analyzed in Part 1-Task 4.
+- Assume the maximum fault current at each bus is the one computed in Part 2-Task 1.
+- Assume the minimum fault current at each bus is the one computed in Part 2-Task 4.
+- Assume a  0.3 second coordination time interval.
+
+| Breaker | breaker activation time | CT Ratio|Type|
+|---------|-------------------------|---------|---|
+|BrA|5 cycles |5:1|IEC 60255, SI|
+|BrB|5 cycles |40:1|IEC 60255, SI|
+
+### Tasks
+
+1. Select current settings (CSs) and Time Multiplier Setting (TMS) to protect the system from faults.
+   - Which fault current value did you use for the calculations? (initial symmetrical short-circuit current, short-circuit current peak, or equivalent thermal short-circuit current)
+   - Give the total activation time for each breaker.
+2. For the values computed in the previous task, verify coordination for minimum fault currents. That means, verify that with the minimum fault currents, the coordination time interval and sequence of activation is still obeyed.
