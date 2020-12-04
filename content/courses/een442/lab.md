@@ -16,7 +16,7 @@ weight: 5
 
 The labs take place in Ttofis building 2nd floor Energy Systems Lab, 5-9 pm on Tuesday based on the groups. The manuals are downloadable at [this link](https://alucutac-my.sharepoint.com/:f:/g/personal/petros_aristidou_cut_ac_cy/EoGJTfSR1TpDvUadxtX0MNgBbyViOggfV2Co3X4oGReTyg?e=CDN5v4) (the password was sent by email).
 
-- *Deadline*: TBA
+- *Deadline*: 27/12/2020
 - *Report*: Both the PDF files should be submitted with all the data completed and filled. The graphs should be submitted on separate pages.
 - [Submission link](https://www.dropbox.com/request/mC4pkAMPmn5qmbNOuC6p)
 

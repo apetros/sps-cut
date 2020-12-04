@@ -31,7 +31,7 @@ The report is individual for each student.
 ### Delivery
 
 - [Submission Link](https://www.dropbox.com/request/9IDHefXwMCdSUCJ8jNx1)
-- Deadline: TBA (after the final exams)
+- Deadline: 27/12/2020
 
 ### Preliminaries
 
