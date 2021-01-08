@@ -1,0 +1,65 @@
+---
+title: Laboratory
+linktitle: Laboratory
+toc: true
+type: docs
+date: "2021-01-01T00:00:00Z"
+draft: false
+menu:
+  een452:
+    parent: Learning resources
+    weight: 25
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 5
+---
+
+The labs take place in Ttofis building 2nd floor Energy Systems Lab, 5-9 pm on Tuesday based on the groups. The manuals are downloadable at [this link](https://alucutac-my.sharepoint.com/:f:/g/personal/petros_aristidou_cut_ac_cy/EoGJTfSR1TpDvUadxtX0MNgBbyViOggfV2Co3X4oGReTyg?e=CDN5v4) (the password was sent by email).
+
+- *Deadline*: 27/12/2020
+- *Report*: Both the PDF files should be submitted with all the data completed and filled. The graphs should be submitted on separate pages.
+- [Submission link](https://www.dropbox.com/request/mC4pkAMPmn5qmbNOuC6p)
+
+{{% alert warning %}}
+A mask is mandatory for the lab. No food or drinks are allowed. This is a 400V three-phase lab with rotating machines, any behaviour deemed to endanger your colleagues will lead to expulsion from the lab and a 0% mark for the lab component.
+{{% /alert %}}
+
+<!-- ## Part 1 (pre-restrictions)
+
+### Lab groups
+
+|No | Student 1 | Student 2 | Student 3 |
+|-----------------|------------|------------|------------|
+|A1|12522 | 12068|12279 |
+|A2| 15809| 12396 | |
+|A3| 12013| 6817|6788 |
+|A4|15107 |12153 |12165 |
+|B1| 6898|11979 |12168 |
+|B2|6816 |6775 |6756 |
+|B3|13695 |6778 | 12415|
+|B4| 14669|14456 | 4770 |
+
+### Timetable
+
+|Date | Groups| Lab exercise|
+|------------|------------|------------|
+|29/09/2020|A1+A2|Three-Phase AC Power Circuits (Ex. 1) and Power Factor Correction (Ex. 1)|
+|29/09/2020|A3+A4|ACDC Motors and Generators (Ex. 1.2-1.3, 4.1)|
+|06/10/2020|B1+B2|Three-Phase AC Power Circuits (Ex. 1) and Power Factor Correction (Ex. 1)|
+|06/10/2020|B3+B4|ACDC Motors and Generators (Ex. 1.2-1.3, 4.1)|
+
+## Part 2 (post-restrictions)
+
+### Lab groups
+
+|No | Student 1 | Student 2 | Student 3 | Student 4 | Student 5 |
+|-----------------|------------|------------|------------|------------|------------|
+|G1| ΕΛΕΥΘΕΡΙΟΥ, Σ. | ΑΒΡΑΑΜ, Ν.| ΔΙΟΝΥΣΙΟΥ, Μ. | ΑΝΔΡΕΟΥ, Δ.| ΑΝΤΩΝΙΟΥ, Π.|
+|G2| ΑΝΤΩΝΙΑΔΗΣ, Α.| ΣΤΑΣΗ, Ε. |ΚΑΨΑΛΗΣ, Α. |ΖΑΧΑΡΙΑΣ, Σ. |ΙΑΚΩΒΟΥ, Ι. |
+|G3| ΣΟΦΟΚΛΕΟΥΣ, Μ.|ΜΙΧΑΗΛ, Α. | ΛΟΥΚΑ, Σ. |ΣΚΑΛΙΩΝΤΑΣ, Α. |------------|
+|G4| ΚΟΥΛΛΑΣ, Π. | ΠΑΝΤΕΛΗ, Σ. |ΠΑΝΑΡΕΤΟΥ, Γ. | ΦΕΙΔΙΟΥ, Β.|------------|
+|G5| ΧΡΙΣΤΟΥ, Π. |ΠΙΣΣΑΡΙΔΗΣ, Χ. |ΜΗΝΑ, Ι.|ΝΕΟΦΥΤΟΥ, Μ. | ΚΩΝΣΤΑΝΤΙΝΟΥ, ΤZ. Γ. |
+
+### Timetable
+
+To be arranged with the lecturer between each group. -->
