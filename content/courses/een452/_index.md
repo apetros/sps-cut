@@ -63,12 +63,12 @@ The following course knowledge are prerequisites for this course:
 
 Due to special circumstances, this year the lectures are taking place online. This might be modified according to the requirements and the regulations.
 
-- Theory delivered through lectures (in class ≈ 26 hours)
+- Theory delivered through lectures (in class ≈ 32 hours)
 - Practical examples (online ≈ 12 hours)
 - Hardware laboratory work (in lab ≈ 8 hours)
     1. AC Transmission Lines
     2. Synchronous Motors/Generators
-- Time and place: Wednesday 17:00-21:00 (Zoom Room)
+- Wednesday 17:00-21:00 (Zoom platform)
 
 
 ## Assessment
