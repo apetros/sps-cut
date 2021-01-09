@@ -3,7 +3,7 @@ title: Slides
 linktitle: Slides
 toc: true
 type: docs
-date: "2019-11-17T00:00:00Z"
+date: "2021-01-17T00:00:00Z"
 draft: false
 menu:
   een320:
@@ -16,14 +16,14 @@ weight: 2
 
 | No | Title | Notes |
 |-----------------|------------|------------|
-|1| [Introduction](lecture_part1_handout.pdf) | Book 1 - Chapter 1 |
-|2| [Single-phase and three-phase AC systems](lecture_part2_handout.pdf)| Book 1 - Chapter 2  |
-|3| [The power transformer](lecture_part3_handout.pdf) | Book 1 - Chapter 3, [Wiring configurations](https://www.dropbox.com/s/k7youdu8vji594j/Transformer-wiring-configurations.pdf?dl=0)|
-|4| [The per-unit system](lecture_part4_handout.pdf) |  Book 1 - Chapter 3.5 |
-|5| [The transmission line](lecture_part5_handout.pdf) |  Book 1 - Chapters 4+5  | 
-|6| [Fundamentals of power system operation](lecture_part6_handout.pdf) |  Book 1 - Chapter 12 |
-|7| [Introduction to rotating machines](lecture_part7_presentation.pdf) |  Book 2 - Chapters 4, 5.1-5.6, 6.1   |
-|8| [Current and future trends in power system operation - the path to the smart grid](lecture_part8_presentation.pdf) |  | 
+|1| [Introduction to electric power system]() | Book 1 - Ch 1 |
+|2| [Single-phase and three-phase AC circuits]()| Book 1 - Ch 2  |
+|3| [The per-phase and per-unit system representation]() | Book 1 - Ch 3.3, 3.5 |
+|4| [The power transformer]() |  Book 1 - Ch 3, Book 2 - Ch 1.4-1.5, [Wiring configurations](https://www.dropbox.com/s/k7youdu8vji594j/Transformer-wiring-configurations.pdf?dl=0) |
+|5| [Introduction to rotating machines]() |  Book 2 - Ch 3  | 
+|6| [Synchronous machine]() |  Book 2 - Ch 4.1-4.9, 4.11, 5 |
+|7| [Induction machine]() |  Book 2 - Ch 6   |
+|8| [The transmission line characteristics]() |  Book 1 - Ch 4   |
 
 
 ## Reference books
@@ -40,4 +40,6 @@ Alternative books in Greek:
 
 In this Youtube channel you will find the screencasts of the course during the university shutdown.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLpmwr4EPmhRosddwOVsHYFkHE6XBoY79q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLpmwr4EPmhRrBBCDQbVe5Xo-O2BXmTkkd" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+

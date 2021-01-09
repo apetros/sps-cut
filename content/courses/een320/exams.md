@@ -4,7 +4,7 @@ linktitle: Exams
 toc: true
 type: docs
 date: "2019-11-17T00:00:00Z"
-draft: false
+draft: true
 menu:
   een320:
     parent: Assessment

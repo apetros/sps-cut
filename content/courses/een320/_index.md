@@ -7,7 +7,7 @@ weight: 1
 # Page metadata.
 title: Power systems I
 date: "2020-1-1T00:00:00Z"
-lastmod: "2020-1-5T00:00:00Z"
+lastmod: "2021-1-5T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -22,39 +22,61 @@ menu:
 ---
 
 
-This course intends to provide you with a fundamental understanding of the key equipment and their functionality in electric power systems.
-
-You should register to the [Microsoft Teams](https://teams.microsoft.com/l/team/19%3ae6aee6ea4e34493892e6169e3ec8b28e%40thread.tacv2/conversations?groupId=9b19c04b-4397-490d-8a7b-6376e3c1d0a7&tenantId=8f7698bc-b1b4-439f-b259-0213401d1cfb) of the course since a lot of the teaching happens there.
-
-## Time and place
-
-**Anymore courses are run online**
+This course covers the fundamentals of power system modeling, structure, and basic characteristics. It helps the students to understand the functional characteristics and to develop models for component-level as well as system-level analysis. The basic power system components, such as synchronous machines, transmission lines, transformers, and loads, are analyzed and their impact to the system is considered through real-life scenarios. The course focuses on steady-state, symmetrical, and normal (no faults) operation.
 
 ## Learning outcome
 
-On completion of this module, students should be able to:
+On completion of this course, students should be able to:
+- Explain the basic operation of electric power systems for generation, transmission and distribution, and consumption;
+- Explain the basic principles and the functionality of the basic components in a power system (buses, transmission lines, transformers, AC electric machines);
+-  Be able to analyze numerically the power flow in small systems using common power system models and methodologies;
+- Appreciate, through basic case studies, the technical challenges in both the design and the operation of power systems.
 
-- explain the functioning and modelling of the main components in a power system
-- understand the principles of planning and operation of power systems
-- be able to solve basic load flow calculations
-- have an overview of future trends in power systems and smart grids
-- appreciate, through basic case studies, the technical challenges in both the design and the operation of power systems
+## Prerequisites
+
+The following course knowledge are prerequisites for this course:
+1. Engineering mathematics (advanced mathematics I-III, linear algebra)
+2. Physics I-III
+3. Electric circuit analysis I&II
+4. Control systems
 
 ## Syllabus
 
-1. Introduction
-2. Single-phase and three-phase AC systems
-3. The power transformer
-4. The per-unit system
-5. The transmission line
-6. Fundamentals of power system operation
-7. Introduction to rotating machines
-8. Current and future trends in power system operation - the path to the smart grid 
+The course consists of these parts:
+
+1. Introduction to electric power systems (basic functionality, generation-transmission-distribution structure, load consumption)
+2. Single-phase and three-phase AC circuits (complex power, power factor, reactive power compensation, Y-$\Delta$ transformation)
+3. The per-phase and per-unit system representation (one-line diagram, benefits of pu, base value selection, single- and three-phase pu, base system conversion)
+4. The power transformer (Ampere and Faraday laws, basic principles, ideal and real transformer model, single- and three-phase transformer models, three-phase transformer configuration)
+5. Introduction to rotating machines (fundamentals of electromechanical conversion)
+6. Synchronous machine (fundamentals, EMF, power/torque, equivalent circuit, generator/motor operation)
+7. Induction machine (fundamentals, power/torque, slip, generator/motor operation)
+8. The transmission line characteristics (design and parameter derivation, $\Pi$-model, line approximations)
+
+
+## Course books
+
+- Chapman, S.J., "Electric machinery fundamentals", 4th edition McGraw-Hill, 2005
+- D. Glover, M. S. Sarma and T. Overbye, "Power System Analysis & Design", 6th edition, Cengage Learning, 2017
+- Κ. Βουρνάς, Γ. Κονταξής, "Εισαγωγή στα συστήματα ηλεκτρικής ενέργειας",  εκδόσεις ΣΥΜΜΕΤΡΙΑ, 2010
+
+## Delivery
+
+Due to special circumstances, this year the lectures are taking place online. This might be modified according to the requirements and the regulations.
+
+- Theory delivered through lectures (in class ≈ 30 hours)
+- Practical examples (online ≈ 12 hours)
+- Hardware laboratory work (in lab ≈ 12 hours)
+    1. Three-phase circuits and power-factor correction
+    2. Power transformers
+    3. AC/DC Motor fundamentals
+- Monday and Tuesday 08:30-10:30 (Zoom platform)
+
 
 ## Assessment
 
 | Assessment type | % of grade |
 |-----------------|------------|
-| In-semester test | 20          |
-| Lab report  | 30         |
-| Final exam      | 50         |
+| Mid-term exam | 20          |
+| Mini project  | 20         |
+| Final exam      | 60         |
