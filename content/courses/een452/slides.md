@@ -29,3 +29,10 @@ weight: 2
 2. D. Glover, M. S. Sarma and T. Overbye, Power System Analysis & Design, 6th edition, Cengage Learning, 2017.
 3. A. J. Wood, B. F. Wollenberg and G. B. Sheble, Power generation, operation, and control, 3rd edition, Wiley-IEEE Press, 2014.
 4. Ν. Βοβός, Γ. Γιαννακόπουλος, “Έλεγχος και ευστάθεια συστημάτων ηλεκτρικής ενέργειας”,  εκδόσεις ΖΗΤΗ, 2008
+
+## Screencasts
+
+In this Youtube channel you will find the screencasts of the course during the university shutdown.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLpmwr4EPmhRrGeDKm7DNJLNyU-Pxeo4QR" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
