@@ -16,7 +16,7 @@ weight: 2
 
 | No | Title | Notes |
 |-----------------|------------|------------|
-|1| [Introduction to electric power system]() | Book 1 - Ch 1 |
+|1| [Introduction to electric power system](https://www.dropbox.com/s/kr2wvqndvo51cus/lecture_part1_presentation.pdf?dl=0) | Book 1 - Ch 1 |
 |2| [Single-phase and three-phase AC circuits]()| Book 1 - Ch 2  |
 |3| [The per-phase and per-unit system representation]() | Book 1 - Ch 3.3, 3.5 |
 |4| [The power transformer]() |  Book 1 - Ch 3, Book 2 - Ch 1.4-1.5, [Wiring configurations](https://www.dropbox.com/s/k7youdu8vji594j/Transformer-wiring-configurations.pdf?dl=0) |
