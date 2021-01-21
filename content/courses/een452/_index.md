@@ -75,6 +75,6 @@ Due to special circumstances, this year the lectures are taking place online. Th
 
 | Assessment type | % of grade |
 |-----------------|------------|
-| Mini project 1 (literature-based) | 20          |
-| Mini project 2 (software-based) | 20         |
-| Final exam      | 60         |
+| Mini project 1 (literature-based) | 25          |
+| Mini project 2 (software-based) | 25         |
+| Final exam      | 50         |
