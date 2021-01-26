@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Things to remember"
+title: "Useful scripts"
 subtitle: ""
 summary: "Just a collection of useful things for me to find again later."
 authors: ["P. Aristidou"]
 tags: []
-categories: ['Open positions']
+categories: ['blog']
 date: 2020-06-29T00:00:48+03:00
 lastmod: 2020-06-29T00:00:48+03:00
 featured: false
@@ -35,9 +35,9 @@ projects: []
 
 First, install poppler-utils:
 
-  sudo apt-get install poppler-utils
+    sudo apt-get install poppler-utils
 
 Then, move to the folder with the PDFs and execute:
 
-  for i in *.pdf; do pdftoppm -jpeg -r 300 "$i" "$i".jpg; done
+    for i in *.pdf; do pdftoppm -jpeg -r 300 "$i" "$i".jpg; done
 
