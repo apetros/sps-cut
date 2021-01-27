@@ -39,16 +39,11 @@ The following course knowledge are prerequisites for this course:
 
 ## Syllabus
 
-### A) Control and dynamics
-
-1. Synchronous machine dynamic model
+1. Revision of power engineering fundamentals
+1. Synchronous machine (simplified and detailed models)
 2. Frequency control (turbine-generation, primary/secondary frequency control, inertia)
 3. Voltage control (Volt-Var control, primary voltage control, AVR, shunt devices, tap-changing transformers, FACTS devices)
 4. Power system stability (angle/voltage/frequency, small-disturbance, transient stability)
-
-
-### B) Economic and secure operation
-
 1. Economics of electricity generation (economic dispatch, unit commitment, basic market operations)
 2. Optimal and secure operation (power system states, optimal power flow)
 

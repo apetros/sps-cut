@@ -20,31 +20,6 @@ You can find the exercises in the [Booklet with exercises](https://www.dropbox.c
 
 You have to upload the exercises in **PDF format** in the links provided. To scan your solutions to pdf, you can use the university copy machines (this is the proposed way) or your phone. There are many apps available that can scan a document to pdf with you phone camera ([android examples](https://fossbytes.com/best-android-scanner-apps/), [iphone example](https://apps.apple.com/cy/app/camscanner-pdf-scanner-app/id388627783)). 
 
-## Assignment 1
-
-- *Deadline*: TBA
-- *Exercises*: TBA
-## Assignment 2
-
-- *Deadline*: TBA
-- *Exercises*: TBA
-
-## Assignment 3
-
-- *Deadline*: TBA
-- *Exercises*: TBA
-
-## Assignment 4
-
-- *Deadline*: TBA
-- *Exercises*: TBA
-
-## Assignment 5
-
-- *Deadline*: TBA
-- *Exercises*: TBA
-
-## Assignment 6
-
-- *Deadline*: TBA
-- *Exercises*: TBA
+{{% alert warning %}}
+Exercises are announced and submitted on MS Teams.
+{{% /alert %}}
