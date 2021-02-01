@@ -54,3 +54,10 @@
   from = "/jhub"
   to = "https://vmi444960.contaboserver.net/"
   status = 302
+
+[[redirects]]
+  from = "/Nordic_JhubStart"
+  to = "https://vmi444960.contaboserver.net/hub?next=%2Fuser-redirect%2Fgit-pull?repo%3Dhttps%253A%252F%252Fgithub.com%252FSPS-L%252FNordic_JhubStart%26branch%3Dmain%26urlpath%3Dlab%252Ftree%252FNordic_JhubStart%252F%253Fautodecode"
+  status = 302
+
+  
