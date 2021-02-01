@@ -145,7 +145,7 @@ Add the following text (if you used the standard location for the Intel Librarie
 
 ```bash
 c.Spawner.environment = {
-'LD_LIBRARY_PATH': '/opt/intel/psxe_runtime/linux/compiler/lib/intel64:/opt/intel/psxe_runtime/linux/mkl/lib/intel64'
+'LD_LIBRARY_PATH': '/opt/intel/psxe_runtime/linux/compiler/lib/intel64_lin:/opt/intel/psxe_runtime/linux/mkl/lib/intel64_lin'
 }
 ```
 Save, close and reload the hub:
@@ -155,6 +155,6 @@ sudo tljh-config reload
 sudo tljh-config reload proxy
 ```
 
-This should fix the necessary dependencies for ramses.
+This should fix the necessary dependencies for ramses. You can click [here](https://sps.cut.ac.cy/Nordic_JhubStart) to clone the [repository with Nordic system](https://github.com/SPS-L/Nordic_JhubStart) to the lab's server and get you started.
 
 
