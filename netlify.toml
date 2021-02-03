@@ -67,5 +67,5 @@
   
 [[redirects]]
   from = "/jhub-sync-mach"
-  to = "https://vmi444960.contaboserver.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSPS-L%2FSync_mach_Octave&urlpath=lab%2Ftree%2FSync_mach_Octave%2F&branch=main
+  to = "https://vmi444960.contaboserver.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSPS-L%2FSync_mach_Octave&urlpath=lab%2Ftree%2FSync_mach_Octave%2F&branch=main"
   status = 302
