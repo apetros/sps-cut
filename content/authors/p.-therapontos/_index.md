@@ -19,7 +19,6 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
-He obtained his BSc degree in Electrical Engineering from the University of Cyprus in 2016 and his MSc degree in 2017 from the University of Southampton in Energy and Sustainability with Electrical Power Engineering. He is currently pursuing his Ph.D at the Department of Electrical and Computer Engineering of the University of Cyprus. He currently works for the Distribution System Operator (DSO) of the Electricity Authority of Cyprus (EAC).
 
 # List each interest with a dash
 interests:
@@ -41,12 +40,17 @@ education:
 # Social/Academic Networking
 # Remove the ones not needed
 social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:fthera01@ucy.ac.cy'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "fthera01@ucy.ac.cy"
+email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - PhD Candidates
 ---
+
+He obtained his BSc degree in Electrical Engineering from the University of Cyprus in 2016 and his MSc degree in 2017 from the University of Southampton in Energy and Sustainability with Electrical Power Engineering. He is currently pursuing his Ph.D at the Department of Electrical and Computer Engineering of the University of Cyprus. He currently works for the Distribution System Operator (DSO) of the Electricity Authority of Cyprus (EAC).
