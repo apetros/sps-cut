@@ -7,8 +7,8 @@ summary: "Just a collection of useful things for me to find again later."
 authors: ["P. Aristidou"]
 tags: []
 categories: ['blog']
-date: 2020-06-29T00:00:48+03:00
-lastmod: 2020-06-29T00:00:48+03:00
+date: 2018-06-29T00:00:48+03:00
+lastmod: 2018-06-29T00:00:48+03:00
 featured: false
 draft: false
 

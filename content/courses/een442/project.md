@@ -24,9 +24,9 @@ This project is designed to train the students into using computational tools to
 
 At the end of the project, the students will need to submit a report and a Jupyter Notebook file with the implementation. The report can be embedded in the Jupyter notebook, if you want, or submitted as two separate files.
 
-{{% alert note  %}}
+{{% callout note  %}}
 The report is individual for each student.
-{{% /alert %}}
+{{% /callout %}}
 
 ### Delivery
 
@@ -40,9 +40,9 @@ The report is individual for each student.
 - Our lab's server is located at [this address](https://sps.cut.ac.cy/jhub) and each student has an individual account with all the necessary software pre-installed. 
 - Your username is your student number (without the leading zeros). The password is the one you use the first time you log in.
 
-{{% alert warning  %}}
+{{% callout warning  %}}
 The server is not backed up, so you should make sure you download your work on your computer after each session.
-{{% /alert %}}
+{{% /callout %}}
 
 
 ## Part 1: Power flow modeling and analysis
@@ -67,9 +67,9 @@ In this part, you need to model and analyze the following system in Pandapower.
 
 [^1]: Pandapower standard type components are available [here](https://pandapower.readthedocs.io/en/v2.4.0/std_types.html)
 
-{{% alert note  %}}
+{{% callout note  %}}
 In a real system there would be multiple feeders connected to each MV-LV transformer.
-{{% /alert %}}
+{{% /callout %}}
 
 ### Tasks
 
