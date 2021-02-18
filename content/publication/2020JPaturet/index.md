@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["low-inertia"]
 slides = ""
-url_pdf = "/publication/2020JPaturet/manuscript.pdf"
 doi = "10.1109/TPWRS.2020.2987076"
 url_code = ""
 url_dataset = ""

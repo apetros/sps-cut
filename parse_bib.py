@@ -138,6 +138,7 @@ if __name__ == "__main__":
         'techreport': '"4"',
         'book': '"5"',
         'incollection': '"6"',
+        'patent': '"8"',
     }
     
     bib_database = bibtexparser.loads(bibtex_str)
@@ -252,7 +253,7 @@ if __name__ == "__main__":
             the_file.write('slides = ""\n')
 
             # I add urls to the pdf and the DOI
-            the_file.write('url_pdf = "/publication/'+entry['ID']+'/manuscript.pdf"\n')
+            # the_file.write('url_pdf = "/publication/'+entry['ID']+'/manuscript.pdf"\n')
             if 'doi' in entry:
                 the_file.write('doi = "'+supetrim(entry['doi'])+'"\n')
             the_file.write('url_code = ""\nurl_dataset = ""\nurl_poster = ""\nurl_slides = ""\nurl_source = ""\nurl_video = ""\n')

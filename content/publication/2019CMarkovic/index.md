@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["low-inertia"]
 slides = ""
-url_pdf = "/publication/2019CMarkovic/manuscript.pdf"
 doi = "10.1109/PTC.2019.8810640"
 url_code = ""
 url_dataset = ""

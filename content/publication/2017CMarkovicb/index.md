@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-url_pdf = "/publication/2017CMarkovicb/manuscript.pdf"
 url_code = ""
 url_dataset = ""
 url_poster = ""

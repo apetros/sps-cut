@@ -11,7 +11,6 @@ summary = ""
 featured = true
 projects = ["mod-sim","pyramses"]
 slides = ""
-url_pdf = "/publication/2016JAristidou/manuscript.pdf"
 doi = "10.1109/TPWRS.2015.2509023"
 url_code = ""
 url_dataset = ""

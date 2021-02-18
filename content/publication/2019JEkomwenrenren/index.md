@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["vpp-ems"]
 slides = ""
-url_pdf = "/publication/2019JEkomwenrenren/manuscript.pdf"
 doi = "10.1049/iet-cps.2018.5020"
 url_code = ""
 url_dataset = ""

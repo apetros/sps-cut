@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["mod-sim","pyramses"]
 slides = ""
-url_pdf = "/publication/2015ThAristidou/manuscript.pdf"
 doi = "10.13140/RG.2.1.1119.1527"
 url_code = ""
 url_dataset = ""

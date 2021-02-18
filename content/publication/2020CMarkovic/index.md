@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["low-inertia"]
 slides = ""
-url_pdf = "/publication/2020CMarkovic/manuscript.pdf"
 url_code = ""
 url_dataset = ""
 url_poster = ""
