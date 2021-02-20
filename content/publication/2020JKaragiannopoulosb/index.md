@@ -1,6 +1,6 @@
 +++
 title = "Active Distribution Grids Providing Voltage Support: The Swiss Case"
-date = "2020-09-01"
+date = "2021-01-01"
 authors = ["S. Karagiannopoulos","C. Mylonas","P. Aristidou","G. Hug"]
 tags = ["voltage control","reactive power","energy exchange","voltage measurement","electric potential","inverters","smart meters","active distribution systems","centralized control","distributed energy resources","transmission network","tso-dso interactions","optimal power flow","voltage support"]
 publication_types = ["2"]
@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-url_pdf = "/publication/2020JKaragiannopoulosb/manuscript.pdf"
 doi = "10.1109/TSG.2020.3010884"
 url_code = ""
 url_dataset = ""

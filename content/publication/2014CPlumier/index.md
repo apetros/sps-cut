@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["mod-sim"]
 slides = ""
-url_pdf = "/publication/2014CPlumier/manuscript.pdf"
 url_code = ""
 url_dataset = ""
 url_poster = ""

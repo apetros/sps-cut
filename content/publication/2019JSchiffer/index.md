@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["low-inertia"]
 slides = ""
-url_pdf = "/publication/2019JSchiffer/manuscript.pdf"
 doi = "10.1109/TPWRS.2019.2915249"
 url_code = ""
 url_dataset = ""

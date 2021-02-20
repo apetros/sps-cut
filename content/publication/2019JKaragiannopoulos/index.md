@@ -11,7 +11,6 @@ summary = ""
 featured = true
 projects = ["cresum-hyres"]
 slides = ""
-url_pdf = "/publication/2019JKaragiannopoulos/manuscript.pdf"
 doi = "10.1109/TSG.2019.2905348"
 url_code = ""
 url_dataset = ""

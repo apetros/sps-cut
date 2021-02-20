@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["tdnetgen"]
 slides = ""
-url_pdf = "/publication/2019JPilatte/manuscript.pdf"
 doi = "10.1109/JSYST.2017.2772914"
 url_code = ""
 url_dataset = ""

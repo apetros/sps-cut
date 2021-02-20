@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-url_pdf = "/publication/2017JKaragiannopoulos/manuscript.pdf"
 doi = "10.1049/iet-gtd.2016.0642"
 url_code = ""
 url_dataset = ""

@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["cresum-hyres"]
 slides = ""
-url_pdf = "/publication/2019CAlghamdi/manuscript.pdf"
 doi = "10.1109/PTC.2019.8810821"
 url_code = ""
 url_dataset = ""

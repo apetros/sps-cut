@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["mod-sim"]
 slides = ""
-url_pdf = "/publication/2016CAristidou/manuscript.pdf"
 doi = "10.1109/PSCC.2016.7540976"
 url_code = ""
 url_dataset = ""

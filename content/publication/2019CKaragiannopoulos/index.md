@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["machine-learning"]
 slides = ""
-url_pdf = "/publication/2019CKaragiannopoulos/manuscript.pdf"
 doi = "10.1109/PTC.2019.8810586"
 url_code = ""
 url_dataset = ""

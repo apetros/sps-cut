@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-url_pdf = "/publication/2011BCAsimakopoulou/manuscript.pdf"
 doi = "10.1007/978-3-642-19322-4_8"
 url_code = ""
 url_dataset = ""

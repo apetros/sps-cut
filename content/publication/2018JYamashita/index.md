@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["low-inertia"]
 slides = ""
-url_pdf = "/publication/2018JYamashita/manuscript.pdf"
 doi = "10.1109/JPETS.2018.2806744"
 url_code = ""
 url_dataset = ""

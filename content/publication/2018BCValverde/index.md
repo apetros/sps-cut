@@ -10,7 +10,6 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-url_pdf = "/publication/2018BCValverde/manuscript.pdf"
 url_code = ""
 url_dataset = ""
 url_poster = ""

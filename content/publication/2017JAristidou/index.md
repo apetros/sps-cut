@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["low-inertia"]
 slides = ""
-url_pdf = "/publication/2017JAristidou/manuscript.pdf"
 doi = "10.1109/TSG.2015.2474815"
 url_code = ""
 url_dataset = ""

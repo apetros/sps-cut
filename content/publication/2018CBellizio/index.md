@@ -11,7 +11,6 @@ summary = ""
 featured = false
 projects = ["machine-learning"]
 slides = ""
-url_pdf = "/publication/2018CBellizio/manuscript.pdf"
 url_code = ""
 url_dataset = ""
 url_poster = ""
