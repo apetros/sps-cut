@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate (CUT)
+role: Network Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Cyprus University of Technology
-  url: "https://cut.ac.cy"
+- name: Electricity Authority Cyprus
+  url: "https://eac.com.cy"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Electrical Engineering
     institution: Cyprus University of Technology
-    year: expected in 2020
+    year: 2020
   - course: Diploma in Electrical & Computer Engineering (5-year curriculum)
     institution: National Technical University of Athens, Greece
     year: 2010
@@ -41,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ca.spanias@edu.cut.ac.cy'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:cspanias@eac.com.cy' 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=90eR20QAAAAJ&hl=el
@@ -58,5 +58,5 @@ user_groups:
 - Research Associates
 ---
 
-Chrysovalantis Spanias received the diploma in Electrical and Computer Engineering from the National Technical University of Athens (NTUA) in 2010. During 2010-13 was employed as a Senior Electrical Engineer in the Construction Industry in Cyprus. Since 2013 he is a PhD student at the Department of Electrical Engineering, Computer Engineering and Informatics, Cyprus University of Technology. He currently works for the Distribution System Operator (DSO) of the Electricity Authority of Cyprus (EAC). His main area of research is stability analysis and control of power systems.
+Chrysovalantis Spanias received the diploma in Electrical and Computer Engineering from the National Technical University of Athens (NTUA) in 2010. During 2010-13 was employed as a Senior Electrical Engineer in the Construction Industry in Cyprus. He received his PhD from the Department of Electrical Engineering, Computer Engineering and Informatics, Cyprus University of Technology in 2020. He currently works for the Distribution System Operator (DSO) of the Electricity Authority of Cyprus (EAC). His main area of research is stability analysis and control of power systems.
 
