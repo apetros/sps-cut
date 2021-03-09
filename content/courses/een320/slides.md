@@ -19,8 +19,8 @@ weight: 2
 |1| [Introduction to electric power system](https://www.dropbox.com/s/kr2wvqndvo51cus/lecture_part1_presentation.pdf?dl=0) | Book 1 - Ch 1 |
 |2| [Single-phase and three-phase AC circuits](https://www.dropbox.com/s/qm11mwrcbegpg4d/lecture_part2_handout.pdf?dl=0)| Book 1 - Ch 2  |
 |3| [The per-phase and per-unit system representation](https://www.dropbox.com/s/qf3wz7gs4ksnfqv/lecture_part3_handout.pdf?dl=0) | Book 1 - Ch 3.3, 3.5 |
-|4| [The power transformer]() |  Book 1 - Ch 3, Book 2 - Ch 1.4-1.5, [Wiring configurations](https://www.dropbox.com/s/k7youdu8vji594j/Transformer-wiring-configurations.pdf?dl=0) |
-|5| [Introduction to rotating machines]() |  Book 2 - Ch 3  | 
+|4| [The power transformer](https://www.dropbox.com/s/oigq2qdunepqu8g/lecture_part4_handout.pdf?dl=0) |  Book 1 - Ch 3, Book 2 - Ch 1.4-1.5, [Wiring configurations](https://www.dropbox.com/s/k7youdu8vji594j/Transformer-wiring-configurations.pdf?dl=0) |
+|5| [Introduction to rotating machines](https://www.dropbox.com/s/myuwjkt3np3twhw/lecture_part5_handout.pdf?dl=0) |  Book 2 - Ch 3  |
 |6| [Synchronous machine]() |  Book 2 - Ch 4.1-4.9, 4.11, 5 |
 |7| [Induction machine]() |  Book 2 - Ch 6   |
 |8| [The transmission line characteristics]() |  Book 1 - Ch 4   |
