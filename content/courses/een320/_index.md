@@ -66,10 +66,11 @@ Due to special circumstances, this year the lectures are taking place online. Th
 
 - Theory delivered through lectures (in class ≈ 30 hours)
 - Practical examples (online ≈ 12 hours)
-- Hardware laboratory work (in lab ≈ 12 hours)
-    1. Three-phase circuits and power-factor correction
-    2. Power transformers
-    3. AC/DC Motor fundamentals
+- Hardware laboratory work (in lab ≈ 8 hours)
+    1. Three-phase circuits and 
+    2. Single-phase power transformer
+    3. Three-phase power transformer
+    4. Power-factor correction
 - Monday and Tuesday 08:30-10:30 (Zoom platform)
 
 
