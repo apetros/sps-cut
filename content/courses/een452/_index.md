@@ -45,7 +45,6 @@ The following course knowledge are prerequisites for this course:
 3. Voltage control (Volt-Var control, primary voltage control, AVR, shunt devices, tap-changing transformers, FACTS devices)
 4. Power system stability (angle/voltage/frequency, small-disturbance, transient stability)
 1. Economics of electricity generation (economic dispatch, unit commitment, basic market operations)
-2. Optimal and secure operation (power system states, optimal power flow)
 
 ## Course books
 
@@ -64,7 +63,6 @@ Due to special circumstances, this year the lectures are taking place online. Th
     1. AC Transmission Lines
     2. Synchronous Motors/Generators
 - Wednesday 17:00-21:00 (Zoom platform)
-
 
 ## Assessment
 
