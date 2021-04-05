@@ -21,9 +21,9 @@ weight: 2
 |3| [The per-phase and per-unit system representation](https://www.dropbox.com/s/qf3wz7gs4ksnfqv/lecture_part3_handout.pdf?dl=0) | Book 1 - Ch 3.3, 3.5 |
 |4| [The power transformer](https://www.dropbox.com/s/gova0wban6qmcvb/lecture_part4_handout.pdf?dl=0) |  Book 1 - Ch 3, Book 2 - Ch 1.4-1.5, [Wiring configurations](https://www.dropbox.com/s/k7youdu8vji594j/Transformer-wiring-configurations.pdf?dl=0) |
 |5| [Introduction to rotating machines](https://www.dropbox.com/s/myuwjkt3np3twhw/lecture_part5_handout.pdf?dl=0) |  Book 2 - Ch 3  |
-|6| [Synchronous machine]() |  Book 2 - Ch 4.1-4.9, 4.11, 5 |
-|7| [Induction machine]() |  Book 2 - Ch 6   |
-|8| [The transmission line characteristics]() |  Book 1 - Ch 4   |
+|6| [Synchronous machine](https://www.dropbox.com/s/jwwf97z0btsgonj/lecture_part6_handout.pdf?dl=0) |  Book 2 - Ch 4.1-4.9, 4.11, 5 |
+|7| [Induction machine](https://www.dropbox.com/s/ktnte7yf6696yhu/lecture_part7_handout.pdf?dl=0) |  Book 2 - Ch 6   |
+|8| [The transmission line characteristics](https://www.dropbox.com/s/ca6y1rzu5l32f7h/lecture_part8_handout.pdf?dl=0) |  Book 1 - Ch 4   |
 
 
 ## Reference books
