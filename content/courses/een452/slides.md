@@ -21,7 +21,7 @@ weight: 2
 |3| [Frequency control](https://www.dropbox.com/s/16boruyztno0afu/lecture_part3_presentation.pdf?dl=0)| Book 1 - Ch. 9.3, Book 2 - Ch. 12.2-12.3, Book 3 - Ch. 10 |
 |4| [Voltage control](https://www.dropbox.com/s/xhiaw0xvehnd477/lecture_part4_presentation.pdf?dl=0) | Book 1 - Ch. 9.4 |
 |5| [Power system stability fundamentals](https://www.dropbox.com/s/gy097kcqnauz9c1/lecture_part5_presentation.pdf?dl=0) | Book 1 - Ch. 10, Book 2 - Ch. 11.1-11.3  |
-|6| [Economics of electricity generation](https://www.dropbox.com/s/afl3svrmgj3arxk/lecture_part6_presentation.pdf?dl=0) | Book 1 - Ch. 5.1-5.4, Book 2 - Ch. 12.4, Book 3 - Ch.  3.1-3.2, 4.1-4.2  |
+|6| [Economics of electricity generation](https://www.dropbox.com/s/q66m3wnelljps7w/lecture_part6_presentation.pdf?dl=0) | Book 1 - Ch. 5.1-5.4, Book 2 - Ch. 12.4, Book 3 - Ch.  3.1-3.2, 4.1-4.2  |
 
 ## Reference books
 
