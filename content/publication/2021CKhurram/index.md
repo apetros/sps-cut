@@ -1,6 +1,6 @@
 +++
 title = "Detection of Oscillatory Modes in Power Systems using Empirical Wavelet Transform"
-date = "2021-06-01"
+date = "2021-04-01"
 authors = ["A. Khurram","A. Gusnanto","P. Aristidou"]
 tags = ["oscillatory instability","inter-area oscillations","empirical wavelet transform","hilbert transform","pmu"]
 publication_types = ["1"]
