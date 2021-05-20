@@ -190,7 +190,7 @@ if __name__ == "__main__":
             
             # Treating the keywords
             if 'keywords' in entry:
-                the_keywords = entry['keywords'].split(';')
+                the_keywords = entry['keywords'].replace(',', ';').split(';')
                 the_file.write('tags = [')
                 keyword_str = ''
                 for keyword in the_keywords:

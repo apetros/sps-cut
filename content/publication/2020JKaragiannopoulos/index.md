@@ -2,7 +2,7 @@
 title = "Clustering Data-driven Local Control Schemes in Active Distribution Grids"
 date = "2020-05-01"
 authors = ["S. Karagiannopoulos","G. Valverde","P. Aristidou","G. Hug"]
-tags = ["time-series clustering","optimal control","data-driven control design","active distribution networks","opf","machine learning"]
+tags = ["time-series clustering","optimal control","data-driven control design","active distribution networks","opf","machine learning","ieeesj"]
 publication_types = ["2"]
 publication = "_IEEE Systems Journal_"
 publication_short = ""

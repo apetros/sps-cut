@@ -2,7 +2,7 @@
 title = "A Combined High-, Medium-, and Low-Voltage Test System for Stability Studies with DERs"
 date = "2020-01-01"
 authors = ["F. Escobar","J. García","J. M. Víquez","G. Valverde","P. Aristidou"]
-tags = ["distributed energy resources, modelling, power system dynamics, simulation, synthetic network, test system"]
+tags = ["distributed energy resources","modelling","power system dynamics","simulation","synthetic network","test system","epsr"]
 publication_types = ["2"]
 publication = "_Electric Power Systems Research_"
 publication_short = ""

@@ -2,7 +2,7 @@
 title = "A Passivity-Based Framework for Stability Analysis and Control Including Power Network Dynamics"
 date = "2020-09-01"
 authors = ["C. Spanias","P. Aristidou","M. Michaelides"]
-tags = ["power system dynamics","power system stability","stability analysis","capacitance","asymptotic stability","voltage control","analytical models","multivariable dynamical systems","network dynamics","passivity","power systems","stability analysis and control"]
+tags = ["power system dynamics","power system stability","stability analysis","capacitance","asymptotic stability","voltage control","analytical models","multivariable dynamical systems","network dynamics","passivity","power systems","stability analysis and control","ieeesj"]
 publication_types = ["2"]
 publication = "_IEEE Systems Journal_"
 publication_short = ""

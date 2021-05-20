@@ -2,7 +2,7 @@
 title = "Stochastic Unit Commitment in Low-Inertia Grids"
 date = "2020-09-01"
 authors = ["M. Paturet","U. Markovic","S. Delikaraoglou","E. Vrettos","P. Aristidou","G. Hug"]
-tags = ["generators","frequency control","damping","stochastic processes","power system dynamics","turbines","wind power generation","unit commitment","low-inertia grid","frequency constraints","wind uncertainty","voltage source converter","tprws"]
+tags = ["generators","frequency control","damping","stochastic processes","power system dynamics","turbines","wind power generation","unit commitment","low-inertia grid","frequency constraints","wind uncertainty","voltage source converter","ieeetpwrs"]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Power Systems_"
 publication_short = ""
