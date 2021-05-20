@@ -1,7 +1,7 @@
 +++
 title = "Primary Frequency Control Provision by Distributed Energy Resources in Active Distribution Networks"
 date = "2021-04-01"
-authors = ["O. Stanojev","J. R"ussli-Kueh","U. Markovic","P. Aristidou","G. Hug"]
+authors = ["O. Stanojev","J. Russli-Kueh","U. Markovic","P. Aristidou","G. Hug"]
 tags = ["active distribution networks","distributed energy resources","primary frequency control","low-inertia systems"]
 publication_types = ["1"]
 publication = "_Proc. of the 2021 PowerTech conf._"
