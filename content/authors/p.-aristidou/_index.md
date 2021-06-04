@@ -79,7 +79,7 @@ Petros Aristidou is a Lecturer in the Department of Electrical Engineering and C
 
 He got his Diploma from the Department of Electrical & Computer Engineering at the National Technical University of Athens (Greece) in 2010 and his PhD at the University of Liege (Belgium) in 2015. During his PhD, he worked on domain decomposition methods for real-time dynamic security assessment of transmission systems. Then, he took a position as a Postdoctoral Researcher at the Power Systems Laboratory at ETH Zurich (Switzerland) working on the H2020 project MIGRATE trying to develop new control algorithms for future, low-inertia, power systems. Between 2016-2019 he was a Lecturer at the University of Leeds (UK), where he was leading the Smart Grids Lab.
 
-His expertise is on power system modeling, dynamics and control, with emphasis on computational methods. He has participated in several working groups looking into the challenges of low-inertia systems and has published in some of the top journals in the are, such as IEEE Transactions on Power Systems, IEEE Transactions on Smart Grids, IEEE Transactions on Power Delivery, and IEEE Transactions on Sustainable Energy.
+His expertise is on power system modeling, dynamics and control, with emphasis on computational methods. He has participated in several working groups looking into the challenges of low-inertia systems and has published in some of the top journals in the area, such as IEEE Transactions on Power Systems, IEEE Transactions on Smart Grids, IEEE Transactions on Power Delivery, and IEEE Transactions on Sustainable Energy.
 
 ## Σύντομο βιογραφικό
 
