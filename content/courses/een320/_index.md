@@ -79,5 +79,5 @@ Due to special circumstances, this year the lectures are taking place online. Th
 | Assessment type | % of grade |
 |-----------------|------------|
 | Mid-term exam | 20          |
-| Mini project  | 20         |
+| Lab exam | 20         |
 | Final exam      | 60         |

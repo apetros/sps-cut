@@ -4,7 +4,7 @@ linktitle: Mini projects
 toc: true
 type: docs
 date: "2021-01-01T00:00:00Z"
-draft: false
+draft: true
 menu:
   een320:
     parent: Learning resources
