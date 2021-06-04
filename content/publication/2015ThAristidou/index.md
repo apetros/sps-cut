@@ -25,3 +25,6 @@ image = ""
 caption = ""
 +++
 
+{{< rawhtml >}}
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.13140/RG.2.1.1119.1527" data-hide-no-mentions="true" class="altmetric-embed"></div>
+{{< /rawhtml >}}

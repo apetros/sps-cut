@@ -25,3 +25,6 @@ image = ""
 caption = ""
 +++
 
+{{< rawhtml >}}
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1109/ISGT-Europe47291.2020.9248821" data-hide-no-mentions="true" class="altmetric-embed"></div>
+{{< /rawhtml >}}

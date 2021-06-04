@@ -73,7 +73,6 @@ Due to special circumstances, this year the lectures are taking place online. Th
     4. Power-factor correction
 - Monday and Tuesday 08:30-10:30 (Zoom platform)
 
-
 ## Assessment
 
 | Assessment type | % of grade |
