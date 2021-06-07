@@ -32,4 +32,4 @@ Like all networked systems, electric power grids can be modelled with [graph the
 
 [^PyRAMSES]: [PyRAMSES: Python-based RApid Multithreaded Simulation of Electric power Systems](https://pyramses.paristidou.info/)
 
-Please, before asking any questions, please check the [FAQ]({{< ref "stu-faq.md" >}}).
+Before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).
