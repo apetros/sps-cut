@@ -31,7 +31,8 @@ caption = ""
 ## Background
 
 Modern power networks are under a great deal of modification due to the rise in renewable energy sources (RES) in recent years for a low-carbon future. These RES are interfaced with large scale power systems though power electronics and therefore do not contribute to the systems inertia which introduces new issues linked to the stability and security of future systems. These issues promote the use of large scale power system modelling tools to assess their dynamic behaviour and responses to disturbances for information to operators.
-However, since these changes are happening over a short amount of time, there is a need for a common GB test system model for stability studies to be used across various institutes to ensure all research on this matter is consistent with each other. Such models are however very complex and extensive testing and comparison with other existing work is required to see if this aim has the potential to be met. RAMSES[^RAMSES] will be used to carry out tests on a readily available GB system model that requires some changes to meet a new future scenario update and newly available data.
+
+However, since these changes are happening over a short amount of time, there is a need for a common GB test system model for stability studies to be used across various institutes to ensure all research on this matter is consistent with each other. Such models are however very complex and extensive testing and comparison with other existing work is required to see if this aim has the potential to be met. PyRAMSES[^RAMSES] will be used to carry out tests on a readily available GB system model that requires some changes to meet a new future scenario update and newly available data.
 
 ## Objectives
 

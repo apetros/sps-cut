@@ -29,7 +29,6 @@ In this project, you will have to develop an understanding of grid-forming and g
 - Literature review of different dynamic VSC models with basic control.
 - Implementation of at least two models in RAMSES.
 - Performance analysis using a converter dominated power system.
-- All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC].
 
 ## Student profile
 
@@ -40,6 +39,5 @@ In this project, you will have to develop an understanding of grid-forming and g
 
 [^kundur]: Kundur, P., Balu, N. J., & Lauby, M. G. (1994). Power system stability and control. New York: McGraw-Hill.
 [^RAMSES]: [RAMSES: RApid Multithreaded Simulation of Electric power Systems](http://www.montefiore.ulg.ac.be/~vct/software.html)
-[^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
 
 Before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).

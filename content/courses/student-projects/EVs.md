@@ -1,5 +1,5 @@
 ---
-title: Impact of Electric Vehicles on a Distribution Grid
+title: Impact of Electric Vehicles on an Unbalanced Distribution Grid with Renewables
 linktitle: Electric Vehicles
 toc: true
 type: docs
@@ -24,28 +24,27 @@ These cars will be hosted in the existing Distribution Networks (DNs) and might 
 
 ## Objectives
 
-In this project, you have to analyse the impact of EVs as passive resources on a Cypriot distribution network[^R1]. This will involve understanding the structure of DNs and their limitations, modeling of different power components, and analysing power quality issues. Moreover, you will need to extract the EV driving patterns and charging scenarios relevant to the cypriot DNs and analyse the impact of different combinations through a stochastic method to account for uncertainty. Some references are [^P1] and [^P2].
+In this project, you have to analyse the impact of EVs on an unbalanced distribution network with increased penetration of renewables[^R1]. This will involve understanding the structure of DNs and their limitations, modeling of different power components, and analysing power quality issues. Moreover, you will need analyse the impact of different combinations through a stochastic method to account for uncertainty. Some references are [^P1] and [^P2].
 
 This project requires excellent *programming* and *analytical* skills. It is in collaboration with [EAC](http:/www.eac.com.cy).
 
 ## Deliverables
 
-- A complete literature review for methodologies to assess the impact of passive EVs to DNs.
-- Model a representative Cypriot DN system in Matlab or Python.
+- A complete literature review for methodologies to assess the impact of passive EVs to unbalanced DNs with increased penetration of renewables.
+- Model a three-phase, low-voltage, representative Cypriot DN system in Pandapower.
 - Develop a feeder load modeling estimation algorithm.
+- Develop a feeder PV modeling estimation algorithm.
 - Develop a method to assess impact of EVs on the power quality of DNs.
-- All the code developed should be documented and published on [GitHub](https://github.com/) under an MIT License[^GitHubLIC].
 
 ## Student profile
 
 - Good analytical skills (eigenanalysis, linear algebra, system modelling, etc.).
-- Good programming skills (Python or Matlab or willingness to learn fast).
+- Good programming skills (Python or willingness to learn fast).
 - Background in electric power systems (minimum [Power Systems I]({{< ref "/courses/een320/_index.md">}})).
 
 [^EV]: [Global EV Outlook 2019](https://www.iea.org/reports/global-ev-outlook-2019)
 [^R1]: [A review of computer tools for modeling electric vehicle energy requirements and their impact on power distribution networks](https://www.sciencedirect.com/science/article/pii/S0306261916304275)
 [^P1]: [Stochastic Analyses of Electric Vehicle Charging Impacts on Distribution Network](https://ieeexplore.ieee.org/document/6678651)
 [^P2]: [Optimal Use of Existing Distribution Feeders to Accommodate Transportation Electrification](https://ieeexplore.ieee.org/document/7047852)
-[^GitHubLIC]: [GitHub: Licensing a repository](https://help.github.com/articles/licensing-a-repository/)
 
 Before asking any questions, please check the [FAQ]({{< relref "faq.md" >}}).
