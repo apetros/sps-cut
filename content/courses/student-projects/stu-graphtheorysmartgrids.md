@@ -8,10 +8,10 @@ draft: false
 menu:
   student-projects:
     parent: Overview
-    weight: 13
+    weight: 14
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 13
+weight: 14
 ---
 
 ## Background and Objectives
