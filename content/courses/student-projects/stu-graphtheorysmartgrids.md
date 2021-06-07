@@ -1,6 +1,6 @@
 ---
 title: Graph-theoretic analysis of Smart Grids
-linktitle: graph-theory
+linktitle: Graph-theoretic analysis
 toc: true
 type: docs
 date: "2020-02-05T00:00:00Z"
