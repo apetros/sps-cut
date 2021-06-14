@@ -1,7 +1,7 @@
 +++
 title = "Microgrid Operational Optimization with Dynamic Voltage Security Constraints"
 date = "2021-04-01"
-authors = ["A. M. Nakiganda","T. Van Cutsem","P. Aristidou"]
+authors = ["A. Nakiganda","T. Van Cutsem","P. Aristidou"]
 tags = ["dynamic grid support","dynamic optimization","emergency islanding","fault ride-through","microgrid","operational planning"]
 publication_types = ["1"]
 publication = "_Proc. of the 2021 PowerTech conf._"
