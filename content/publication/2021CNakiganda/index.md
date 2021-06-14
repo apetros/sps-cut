@@ -16,7 +16,7 @@ url_dataset = ""
 url_poster = ""
 url_slides = ""
 url_source = ""
-url_video = ""
+url_video = "2021CNakiganda.mp4"
 math = true
 highlight = true
 [image]
