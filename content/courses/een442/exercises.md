@@ -19,39 +19,3 @@ The exercises are *not* mandatory and do not normally contribute to your final s
 You can find the exercises in the [Booklet with exercises](https://www.dropbox.com/s/klx3m27g15sf37a/Exercise_booklet.pdf?dl=0). It gets updated frequently.
 
 You have to upload the exercises in **PDF format** in the links provided. To scan your solutions to pdf, you can use the university copy machines (this is the proposed way) or your phone. There are many apps available that can scan a document to pdf with you phone camera ([android examples](https://fossbytes.com/best-android-scanner-apps/), [iphone example](https://apps.apple.com/cy/app/camscanner-pdf-scanner-app/id388627783)). 
-
-## Assignment 1
-
-- *Deadline*: Monday, 21/09/2020, 12:00 noon
-- *Exercises*: Solve exercises 2.1.4, 4.1.2, and 5.1.4.
-- [Submission link](https://www.dropbox.com/request/L9r0cgSbdkuM0sUeL7GT)
-
-## Assignment 2
-
-- *Deadline*: Monday, 12/10/2020, 12:00 noon
-- *Exercises*: Solve exercises 6.1.1 and 6.1.2.
-- [Submission link](https://www.dropbox.com/request/R0wge8xKa2325D4YZBHd)
-
-## Assignment 3
-
-- *Deadline*: Tuesday, 27/10/2020, 12:00 noon
-- *Exercises*: Solve exercises 8.1.2,8.1.3,8.1.5.
-- [Submission link](https://www.dropbox.com/request/A5U7Alw4aaHQ2mz48uyl)
-
-## Assignment 4
-
-- *Deadline*: Tuesday, 17/11/2020, 12:00 noon
-- *Exercises*: Solve exercises 9.1.4-9.1.5.
-- [Submission link](https://www.dropbox.com/request/KZEZos4sW5qyssAqxcJe)
-
-## Assignment 5
-
-- *Deadline*: Tuesday, 24/11/2020, 12:00 noon
-- *Exercises*: Solve exercises 10.1.4.
-- [Submission link](https://www.dropbox.com/request/SPPIKAbG3iAbBUnZngBd)
-
-## Assignment 6
-
-- *Deadline*: Tuesday, 01/12/2020, 12:00 noon
-- *Exercises*: TBA
-- [Submission link](https://www.dropbox.com/request/GNLWZnF9XwCMJd4OuDZE)

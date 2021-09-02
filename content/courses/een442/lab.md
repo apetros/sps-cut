@@ -3,28 +3,24 @@ title: Laboratory
 linktitle: Laboratory
 toc: true
 type: docs
-date: "2019-11-17T00:00:00Z"
+date: "2021-01-05T00:00:00Z"
 draft: false
 menu:
   een442:
     parent: Learning resources
-    weight: 25
+    weight: 50
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 5
 ---
 
-The labs take place in Ttofis building 2nd floor Energy Systems Lab, 5-9 pm on Tuesday based on the groups. The manuals are downloadable at [this link](https://alucutac-my.sharepoint.com/:f:/g/personal/petros_aristidou_cut_ac_cy/EoGJTfSR1TpDvUadxtX0MNgBbyViOggfV2Co3X4oGReTyg?e=CDN5v4) (the password was sent by email).
-
-- *Deadline*: 27/12/2020
-- *Report*: Both the PDF files should be submitted with all the data completed and filled. The graphs should be submitted on separate pages.
-- [Submission link](https://www.dropbox.com/request/mC4pkAMPmn5qmbNOuC6p)
+The labs take place in Ttofis building 2nd floor Energy Systems Lab.
 
 {{% callout warning %}}
 A mask is mandatory for the lab. No food or drinks are allowed. This is a 400V three-phase lab with rotating machines, any behaviour deemed to endanger your colleagues will lead to expulsion from the lab and a 0% mark for the lab component.
 {{% /callout %}}
 
-## Part 1 (pre-restrictions)
+<!-- ## Part 1 (pre-restrictions)
 
 ### Lab groups
 
@@ -62,4 +58,4 @@ A mask is mandatory for the lab. No food or drinks are allowed. This is a 400V t
 
 ### Timetable
 
-To be arranged with the lecturer between each group.
+To be arranged with the lecturer between each group. -->
