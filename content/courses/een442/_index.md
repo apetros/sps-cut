@@ -67,9 +67,6 @@ Due to special circumstances, this year the course is following a blended learni
     3. AC Motors
     4. AC Transmission Lines
 
-
-
-
 ## Time and place
 
 Monday 17:00-19:00 (ECEI Building, B24_R01, ground floor)
