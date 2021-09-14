@@ -57,8 +57,6 @@ differential, digital relays)
 
 ## Delivery
 
-Due to special circumstances, this year the course is following a blended learning schedule with 2 hours in person + 1 hours online. This might be modified according to the requirements and the regulations.
-
 - Theory delivered through lectures (in class ≈ 28 hours)
 - Practical examples (online ≈ 12 hours)
 - Hardware laboratory work (in lab ≈ 12 hours)
@@ -66,10 +64,8 @@ Due to special circumstances, this year the course is following a blended learni
     2. DC Motors
     3. AC Motors
     4. AC Transmission Lines
-
-## Time and place
-
-Monday 17:00-19:00 (ECEI Building, B24_R01, ground floor)
+- Time and place: Monday 17:00-19:00 (ECEI Building, B24_R01, ground floor)
+- [Moodle Link](https://elearning.cut.ac.cy/course/view.php?id=775)
 
 ## Assessment
 

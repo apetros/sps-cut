@@ -4,7 +4,7 @@ linktitle: Mini project
 toc: true
 type: docs
 date: "2019-11-17T00:00:00Z"
-draft: true
+draft: false
 menu:
   een442:
     parent: Learning resources
@@ -30,8 +30,8 @@ The report is individual for each student.
 
 ### Delivery
 
-- [Submission Link](https://www.dropbox.com/request/9IDHefXwMCdSUCJ8jNx1)
-- Deadline: 27/12/2020
+- Moodle
+- Deadline: TBD
 
 ### Preliminaries
 
@@ -130,8 +130,8 @@ Consider the two breakers shown in this figure:
 
 | Breaker | breaker activation time | CT Ratio|Type|
 |---------|-------------------------|---------|---|
-|BrA|5 cycles |5:1|IEC 60255, SI|
-|BrB|5 cycles |40:1|IEC 60255, SI|
+|BrA|5 cycles |4:1|IEC 60255, SI|
+|BrB|5 cycles |35:1|IEC 60255, SI|
 
 ### Tasks
 
