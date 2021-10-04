@@ -56,13 +56,13 @@ In this part, you need to model and analyze the following system in Pandapower.
 - **External Grid**: Maximum short-circuit power 100 MVA, minimum short-circuit capacity 80 MVA, maximum R/X ratio 0.35, and minimum short-circuit ratio is 0.20
 - **T1**: Pandapower standard type[^1] transformer *25 MVA 110/20 kV*
 - **T2, T3, T4**: Pandapower standard type transformer *0.4 MVA 20/0.4 kV*
-- **Line B2-B3**: Pandapower standard type line *NA2XS2Y 1x95 RM/25 12/20 kV*, 6 km length
-- **Line B2-B4**: Pandapower standard type line *NA2XS2Y 1x95 RM/25 12/20 kV*, 7 km length
-- **Line B2-B5**: Pandapower standard type line *NA2XS2Y 1x95 RM/25 12/20 kV*, 6 km length
-- **Line B2-B6**: Pandapower standard type line *NA2XS2Y 1x95 RM/25 12/20 kV*, 5 km length
+- **Line B2-B3**: Pandapower standard type line *NA2XS2Y 1x95 RM/25 12/20 kV*, 5 km length
+- **Line B2-B4**: Pandapower standard type line *NA2XS2Y 1x95 RM/25 12/20 kV*, 6 km length
+- **Line B2-B5**: Pandapower standard type line *NA2XS2Y 1x95 RM/25 12/20 kV*, 7 km length
+- **Line B2-B6**: Pandapower standard type line *NA2XS2Y 1x95 RM/25 12/20 kV*, 6 km length
 - **Motor M3**: 10 MVA rated motor, operated at 3 MW active and 1 MVAr reactive power consumption. Ratio of nominal current to short circuit current is 1.2 and R/X ratio is 7. You can use the [sgen model](https://pandapower.readthedocs.io/en/v2.0.0/elements/sgen.html) with type "motor".
 - **LV lines**: All low-voltage lines are Pandapower standard type line *48-AL1/8-ST1A 0.4* with 100m length.
-- **LV loads**: All low-voltage loads (households) have a consumption of 2 kW at a power factor 0.95 inductive.
+- **LV loads**: All low-voltage loads (households) have a consumption of 2.2 kW at a power factor 0.95 inductive.
 
 
 [^1]: Pandapower standard type components are available [here](https://pandapower.readthedocs.io/en/v2.4.0/std_types.html)
@@ -106,7 +106,7 @@ The utility company needs to design the protections for the MV-LV system of the 
    - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each bus.
    - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each line.
    - Compare to the values of Task 1 and explain the difference.
-3. Compute the maximum three-phase short-circuit currents with fault impedance $Z_F = 1+j2\ \Omega$.
+3. Compute the maximum three-phase short-circuit currents with fault impedance $Z_F = 1+j1.5\ \Omega$.
    - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each bus.
    - Present the initial symmetrical short-circuit current, the short-circuit current peak, and the equivalent thermal short-circuit current at each line.
    - Compare to the values of Task 1 and explain the difference.
@@ -131,7 +131,7 @@ Consider the two breakers shown in this figure:
 | Breaker | breaker activation time | CT Ratio|Type|
 |---------|-------------------------|---------|---|
 |BrA|5 cycles |4:1|IEC 60255, SI|
-|BrB|5 cycles |35:1|IEC 60255, SI|
+|BrB|5 cycles |37:1|IEC 60255, SI|
 
 ### Tasks
 
