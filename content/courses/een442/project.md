@@ -38,7 +38,7 @@ The report is individual for each student.
 - The project should be completed with the Python-based tool [Pandapower](https://pandapower.org). The full documentation is found [here](https://pandapower.readthedocs.io/en/v2.4.0/).
 - You can find [a short introduction](http://www.pandapower.org/start/#a-short-introduction-), several [interactive tutorials](http://www.pandapower.org/start/#interactive-tutorials-), and some [YouTube tutorial videos](https://www.youtube.com/c/pandapowerorg/videos?view_as=subscriber).
 - Our lab's server is located at [this address](https://sps.cut.ac.cy/jhub) and each student has an individual account with all the necessary software pre-installed. 
-- Your username is your student number (without the leading zeros). The password is the one you use the first time you log in.
+- Your username is your email (without the @edu.cut.ac.cy). The password is the one you use the *first time you log in*.
 
 {{% callout warning  %}}
 The server is not backed up, so you should make sure you download your work on your computer after each session.
