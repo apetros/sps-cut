@@ -2,7 +2,7 @@
 title = "Power System Dynamic Simulations Using a Parallel Two-Level Schur-Complement Decomposition"
 date = "2016-09-01"
 authors = ["P. Aristidou","S. Lebeau","T. Van Cutsem"]
-tags = ["distribution networks","parallel algorithms","parallel programming","power system simulation","shared memory systems","transmission networks","distribution networks","global convergence rate","multicore machines","parallel algorithm","parallel computing","parallel two-level schur-complement decomposition","power system dynamic simulations","shared-memory parallel programming model","sub-domain interface variables","transmission networks","two-level partitioning","acceleration","computational modeling","heuristic algorithms","mathematical model","power system dynamics","satellites","domain decomposition methods","openmp","schur-complement","power system dynamic simulation","shared-memory"]
+tags = ["distribution networks","parallel algorithms","parallel programming","power system simulation","shared memory systems","transmission networks","distribution networks","global convergence rate","multicore machines","parallel algorithm","parallel computing","parallel two-level schur-complement decomposition","power system dynamic simulations","shared-memory parallel programming model","sub-domain interface variables","transmission networks","two-level partitioning","acceleration","computational modeling","heuristic algorithms","mathematical model","power system dynamics","satellites","domain decomposition methods","openmp","schur-complement","power system dynamic simulation","shared-memory","ieeetpwrs"]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Power Systems_"
 publication_short = ""
@@ -25,3 +25,6 @@ image = ""
 caption = ""
 +++
 
+{{< rawhtml >}}
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1109/TPWRS.2015.2509023" data-hide-no-mentions="true" class="altmetric-embed"></div>
+{{< /rawhtml >}}

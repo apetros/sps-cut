@@ -7,7 +7,7 @@ weight: 1
 # Page metadata.
 title: Power systems II
 date: "2020-8-1T00:00:00Z"
-lastmod: "2020-8-5T00:00:00Z"
+lastmod: "2021-8-5T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -57,43 +57,20 @@ differential, digital relays)
 
 ## Delivery
 
-Due to special circumstances, this year the course is following a blended learning schedule with 2 hours in person + 1 hours online. This might be modified according to the requirements and the regulations.
-
-- Theory delivered through lectures (in class ≈ 26 hours)
+- Theory delivered through lectures (in class ≈ 28 hours)
 - Practical examples (online ≈ 12 hours)
-- Hardware laboratory work (in lab ≈ 8 hours)
-    1. Three-Phase AC Power Circuits: Connection, system familiarization, Wye-Delta connections, power measurements.
-    2. Power Factor Correction: Power factor and power factor correction.
-    3. AC / DC Motors and Generators: Connection and familiarization, losses and efficiency.
-
-
-
-
-## Time and place
-
-- (Group A) Tuesdays 17:00-19:00 (Amohostos room)
-- (Group B) Tuesdays 19:00-21:00 (Amohostos room)
-- (ALL) Thursdays 11:00-12:00 ([Zoom Room](https://us02web.zoom.us/j/83097913675))
-
-| Group A | Group B |
-|-----------------|------------|
-|12068|14669|
-|12013|11979|
-|15809|14456|
-|6817 |6778|
-|12279|6816|
-|12522|6756|
-|15107|13695|
-|12153|6898|
-|6788 |12396|
-|12168|12415|
-|4770|6775|
-|12165||
+- Hardware laboratory work (in lab ≈ 12 hours)
+    1. Rotating machines: Connection and familiarization, losses and efficiency.
+    2. DC Motors
+    3. AC Motors
+    4. AC Transmission Lines
+- Time and place: Monday 17:00-19:00 (ECEI Building, B24_R01, ground floor)
+- [Moodle Link](https://elearning.cut.ac.cy/course/view.php?id=775)
 
 ## Assessment
 
 | Assessment type | % of grade |
 |-----------------|------------|
-| Hardware laboratory report with short oral exam on the report | 30          |
-| Mini project | 30         |
-| Final exam      | 40         |
+| Laboratory exam | 20          |
+| Mini project report with oral exam | 20         |
+| Final exam      | 60         |

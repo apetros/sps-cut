@@ -21,5 +21,5 @@ You can find the exercises in the [Booklet with exercises](https://www.dropbox.c
 You have to upload the exercises in **PDF format** in the links provided. To scan your solutions to pdf, you can use the university copy machines (this is the proposed way) or your phone. There are many apps available that can scan a document to pdf with you phone camera ([android examples](https://fossbytes.com/best-android-scanner-apps/), [iphone example](https://apps.apple.com/cy/app/camscanner-pdf-scanner-app/id388627783)). 
 
 {{% callout warning %}}
-Exercises are announced and submitted on MS Teams.
+Exercises are announced and submitted on the Moodle.
 {{% /callout %}}

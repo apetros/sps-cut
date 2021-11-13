@@ -2,7 +2,7 @@
 title = "Data-Driven Local Control Design for Active Distribution Grids Using Off-Line Optimal Power Flow and Machine Learning Techniques"
 date = "2019-11-01"
 authors = ["S. Karagiannopoulos","P. Aristidou","G. Hug"]
-tags = ["control design","machine learning","monitoring","security","reactive power","uncertainty","real-time systems","data-driven control design","decentralized control","active distribution networks","opf","backward forward sweep power flow","machine learning","distributed energy resources"]
+tags = ["control design","machine learning","monitoring","security","reactive power","uncertainty","real-time systems","data-driven control design","decentralized control","active distribution networks","opf","backward forward sweep power flow","machine learning","distributed energy resources","ieeetsg"]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Smart Grid_"
 publication_short = ""
@@ -25,3 +25,6 @@ image = ""
 caption = ""
 +++
 
+{{< rawhtml >}}
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1109/TSG.2019.2905348" data-hide-no-mentions="true" class="altmetric-embed"></div>
+{{< /rawhtml >}}

@@ -27,3 +27,6 @@ award = "true"
 +++
 
 colorbluetextbf(Best Paper Award)colorblack
+{{< rawhtml >}}
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1109/SEST48500.2020.9203035" data-hide-no-mentions="true" class="altmetric-embed"></div>
+{{< /rawhtml >}}

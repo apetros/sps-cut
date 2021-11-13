@@ -2,7 +2,7 @@
 title = "Contribution of Distribution Network Control to Voltage Stability: A Case Study"
 date = "2017-01-01"
 authors = ["P. Aristidou","G. Valverde","T. Van Cutsem"]
-tags = ["distributed power generation","power distribution control","power generation control","power grids","power system restoration","power system stability","predictive control","active distribution network control contribution","dn","dispersed generation","dg","load tap changer","long-term voltage instability","voltage stability","load voltage reduction","distribution network voltage restoration impact","model predictive control","transmission grid","3108-bus test system","voltage control","reactive power","voltage measurement","load modeling","power system stability","stability analysis","generators","active distribution networks (dn)","emergency control","load voltage reduction","voltage control","voltage stability"]
+tags = ["distributed power generation","power distribution control","power generation control","power grids","power system restoration","power system stability","predictive control","active distribution network control contribution","dn","dispersed generation","dg","load tap changer","long-term voltage instability","voltage stability","load voltage reduction","distribution network voltage restoration impact","model predictive control","transmission grid","3108-bus test system","voltage control","reactive power","voltage measurement","load modeling","power system stability","stability analysis","generators","active distribution networks (dn)","emergency control","load voltage reduction","voltage control","voltage stability","ieeetsg"]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Smart Grid_"
 publication_short = ""
@@ -25,3 +25,6 @@ image = ""
 caption = ""
 +++
 
+{{< rawhtml >}}
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1109/TSG.2015.2474815" data-hide-no-mentions="true" class="altmetric-embed"></div>
+{{< /rawhtml >}}

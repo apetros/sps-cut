@@ -14,6 +14,7 @@
 
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  
 [[redirects]]
   from = "/apetros"
   to = "/authors/p.-aristidou"
@@ -58,3 +59,8 @@
   from = "/jhub-sync-mach"
   to = "https://vmi444960.contaboserver.net/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSPS-L%2FSync_mach_Octave&urlpath=lab%2Ftree%2FSync_mach_Octave%2F&branch=main"
   status = 302
+
+[[redirects]]
+  from = "/jhub-econ-oper"
+  to = "https://vmi444960.contaboserver.net/hub?next=%2Fuser-redirect%2Fgit-pull?repo%3Dhttps%253A%252F%252Fgithub.com%252FSPS-L%252FEconomic-Operation-examples%26branch%3Dmain%26urlpath%3Dlab%252Ftree%252FEconomic-Operation-examples%252F%253Fautodecode"
+  status = 302 

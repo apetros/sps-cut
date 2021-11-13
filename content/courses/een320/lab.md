@@ -4,7 +4,7 @@ linktitle: Laboratory
 toc: true
 type: docs
 date: "2021-01-05T00:00:00Z"
-draft: false
+draft: true
 menu:
   een320:
     parent: Learning resources
@@ -14,7 +14,7 @@ menu:
 weight: 5
 ---
 
-he labs take place in Ttofis building 2nd floor Energy Systems Lab, 5-9 pm on Wednesday based on the groups. 
+The labs take place in Ttofis building 2nd floor Energy Systems Lab.
 
 {{% callout warning %}}
 A mask is mandatory for the lab. No food or drinks are allowed. This is a 400V three-phase lab with rotating machines, any behaviour deemed to endanger your colleagues will lead to expulsion from the lab and a 0% mark for the lab component.

@@ -190,7 +190,7 @@ if __name__ == "__main__":
             
             # Treating the keywords
             if 'keywords' in entry:
-                the_keywords = entry['keywords'].split(';')
+                the_keywords = entry['keywords'].replace(',', ';').split(';')
                 the_file.write('tags = [')
                 keyword_str = ''
                 for keyword in the_keywords:
@@ -283,3 +283,11 @@ if __name__ == "__main__":
             if 'note' in entry:
                 strTemp = supetrim(entry['note'])
                 the_file.write(strTemp + "\n")
+
+            if 'doi' in entry:
+                the_file.write('{{< rawhtml >}}\n')
+                the_file.write('<div data-badge-details="right" data-badge-type="medium-donut" data-doi="')
+                the_file.write(supetrim(entry['doi']))
+                the_file.write('" data-hide-no-mentions="true" class="altmetric-embed"></div>\n')
+                the_file.write('{{< /rawhtml >}}\n')
+            

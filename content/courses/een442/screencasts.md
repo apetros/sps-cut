@@ -4,7 +4,7 @@ linktitle: Screencasts
 toc: true
 type: docs
 date: "2020-01-17T00:00:00Z"
-draft: false
+draft: true
 menu:
   een442:
     parent: Learning resources
