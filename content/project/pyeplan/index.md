@@ -14,5 +14,5 @@ image:
   focal_point: Smart
 ---
 
-**Project external link**: https://pyeplan.readthedocs.io/
+**Project external link**: https://pyeplan.sps-lab.org/
 

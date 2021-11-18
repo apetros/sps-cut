@@ -1,5 +1,5 @@
 ---
-title: PyRAMSES
+title: RAMSES
 summary: RApid Multiprocessor Simulation of Electric power Systems
 tags:
 - Software tools
@@ -14,5 +14,5 @@ image:
   focal_point: Smart
 ---
 
-**Project external link**: https://pyramses.paristidou.info
+**Project external link**: https://ramses.sps-lab.org/
 
