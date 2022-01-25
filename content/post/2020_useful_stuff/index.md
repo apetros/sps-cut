@@ -41,3 +41,10 @@ Then, move to the folder with the PDFs and execute:
 
     for i in *.pdf; do pdftoppm -jpeg -r 300 "$i" "$i".jpg; done
 
+## Latex
+
+### Change the citation in ieeetran style to using dash for consecutive numbers
+
+    \usepackage[noadjust]{cite}
+    \renewcommand{\citepunct}{,\penalty\citepunctpenalty\,}
+    \renewcommand{\citedash}{--}% optionally
