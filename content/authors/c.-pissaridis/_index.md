@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Undergraduate student (CUT)
+role: Research Assistant (CUT)
 
 # Organizations/Affiliations
 organizations:
@@ -48,4 +48,4 @@ user_groups:
 - Research Assistants
 ---
 
-I am currently an undergraduate student at the Cyprus University of Technology. For my final-year project I'm working on assessing the impact of high EV penetration on the Cyprus electricity grid.
+I am currently a research assistant at the Cyprus University of Technology, working on a project for assessing the impact of high EV penetration on the Cyprus electricity grid.
