@@ -1,7 +1,7 @@
 +++
 title = "A Stochastic-Robust Approach for Resilient Microgrid Investment Planning Under Static and Transient Islanding Security Constraints"
 date = "2022-01-01"
-authors = ["A. Marjorie Nakiganda","S. Dehghan","U. Markovic","G. Hug","P. Aristidou"]
+authors = ["A. Nakiganda","S. Dehghan","U. Markovic","G. Hug","P. Aristidou"]
 tags = ["investment planning","microgrids","low-inertia","frequency constraints","unscheduled islanding","resilience","ieeetsg"]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Smart Grid_"
