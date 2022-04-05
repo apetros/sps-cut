@@ -64,3 +64,8 @@
   from = "/jhub-econ-oper"
   to = "https://vmi444960.contaboserver.net/hub?next=%2Fuser-redirect%2Fgit-pull?repo%3Dhttps%253A%252F%252Fgithub.com%252FSPS-L%252FEconomic-Operation-examples%26branch%3Dmain%26urlpath%3Dlab%252Ftree%252FEconomic-Operation-examples%252F%253Fautodecode"
   status = 302 
+
+[[redirects]]
+  from = "/jhub-5-bus"
+  to = "https://vmi444960.contaboserver.net/hub?next=%2Fuser-redirect%2Fgit-pull?repo%3Dhttps%253A%252F%252Fgithub.com%252FSPS-L%252FEconomic-Operation-examples%26branch%3Dmain%26urlpath%3Dlab%252Ftree%252FEconomic-Operation-examples%252F%253Fautodecode"
+  status = 302 
