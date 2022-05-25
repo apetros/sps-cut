@@ -6,3 +6,4 @@
 public/
 assets/jsconfig.json
 /hugo.exe
+/.hugo_build.lock
