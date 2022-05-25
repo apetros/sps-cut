@@ -91,7 +91,7 @@ disablePathToLower = true
 # Install Wowchemy
 [module]
   [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5"
+    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms"
   [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5"
+    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
 
