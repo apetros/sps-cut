@@ -26,7 +26,7 @@ As this procedure is extremely time consuming, cluster computing is frequently u
 
 In this project, you have to develop a security assessment platform that exploits parallel computing on the university cluster computer to check N-1 conditions in a realistic Smart Grid. You will use the dynamic simulator PyRAMSES[^PyRAMSES] to perform the actual simulations and get the results through a Python-based interface. The platform should be implemented in Python.
 
-{{< figure src="/img/projects/HPC_decorative_photos.png" title="The ARC HPC systems [Source: ARC]" >}}
+{{< figure src="/media/img/projects/HPC_decorative_photos.png" title="The ARC HPC systems [Source: ARC]" >}}
 
 ## Deliverables
 

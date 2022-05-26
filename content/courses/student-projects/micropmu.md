@@ -20,7 +20,7 @@ Future [Smart Grids](https://en.wikipedia.org/wiki/Smart_grid) will strongly rel
 
 One of the most advanced and accurate tools available today are synchrophasor technologies that use monitoring devices called Phasor Measurement Units (PMUs)[^PMU1]. These units can be installed in remote locations to measure the instantaneous voltage, current, and frequency, and provide valuable information to the system operator about the status of the system in that area (see Fig. 1 from ref [^PMU5]). Through a combination of advanced sensing, local processing, and ICT technologies, these units can deliver the required performance (accuracy and speed) to develop a truly Smart Grid.
 
-{{< figure src="/img/projects/Synchrophasor.png" title="Synchrophasor wide-area monitoring and detection framework" >}}
+{{< figure src="/media/img/projects/Synchrophasor.png" title="Synchrophasor wide-area monitoring and detection framework" >}}
 
 Unfortunately, the high cost of PMUs has limited their use only in the high-voltage (transmission) networks, leaving the low-voltage (distribution) networks lacking proper sensing tools. As low-voltage networks will be hosting the majority of new renewable energy sources and electric vehicles, there is a need to increase the sensing capabilities of these systems. Thus, low-cost alternatives to the PMU are currently being developed, the microPMUs (µPMUs)[^PMU2][^PMU3][^PMU4]. These are devices with lower capabilities but still very powerful sensing capabilities, at a significantly smaller price and size, targeting low-voltage grids.
 
@@ -28,11 +28,7 @@ Unfortunately, the high cost of PMUs has limited their use only in the high-volt
 
 In this project, you have to develop a low-cost µPMU. This will involve understanding the critical functionality of µPMUs in the future sustainable energy systems, designing a complete µPMU based on the methodology of [^Digikey], sourcing the appropriate material, and building a complete low-voltage prototype.
 
-{{< figure src="/img/projects/mPMU-schem.jpg" title="Simplified Phasor Measurement Unit block diagram" >}}
-
-Additionally, you should provide a plan to create miniaturised version of the µPMU that can be easily added to any household without being bulky or visually offending.
-
-{{< figure src="/img/projects/mPMU-mini2.jpg" title="Concept of miniaturised µPMU" >}}
+{{< figure src="/media/img/projects/mPMU-schem.jpg" title="Simplified Phasor Measurement Unit block diagram" >}}
 
 ## Deliverables
 
