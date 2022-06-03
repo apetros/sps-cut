@@ -1,17 +1,9 @@
 ---
 title: Notes
 linktitle: Notes
-toc: true
-type: docs
-date: "2021-01-05T00:00:00Z"
-draft: false
-menu:
-  een320:
-    parent: Learning resources
-    weight: 10
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+date: '2021-01-01'
+type: book
+weight: 20
 ---
 
 | No | Title | Notes |
@@ -34,9 +26,3 @@ Alternative books in Greek:
 
 1. Κ. Βουρνάς, Γ. Κονταξής, "Εισαγωγή στα συστήματα ηλεκτρικής ενέργειας",  εκδόσεις ΣΥΜΜΕΤΡΙΑ, 2010
 2. Γ. Γιαννακόπουλος, Ν. Βοβός, "Εισαγωγή στα συστήματα ηλεκτρικής ενέργειας",  εκδόσεις ΖΗΤΗ, 2017
-
-## Screencasts
-
-In this Youtube channel, you will find the screencasts of the course.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLpmwr4EPmhRplaRUMW1WEZujSNB1PGz1W" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

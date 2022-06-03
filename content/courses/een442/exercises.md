@@ -1,17 +1,9 @@
 ---
 title: Exercises
 linktitle: Exercises
-toc: true
-type: docs
-date: "2020-08-17T00:00:00Z"
-draft: false
-menu:
-  een442:
-    parent: Learning resources
-    weight: 20
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+date: '2021-01-01'
+type: book
+weight: 70
 ---
 
 The exercises are *not* mandatory and do not normally contribute to your final score. The exercises will only contribute *positively* to your final grade if you have a marginal score.
