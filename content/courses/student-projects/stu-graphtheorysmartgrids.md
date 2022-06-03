@@ -1,17 +1,9 @@
 ---
 title: Graph-theoretic analysis of Smart Grids
 linktitle: Graph-theoretic analysis
-toc: true
-type: docs
-date: "2020-02-05T00:00:00Z"
-draft: false
-menu:
-  student-projects:
-    parent: Overview
-    weight: 14
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 14
+date: '2021-01-01'
+type: book
+weight: 20
 ---
 
 ## Background and Objectives

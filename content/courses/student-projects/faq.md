@@ -1,17 +1,9 @@
 ---
 title: Frequently Asked Questions
 linktitle: FAQ
-toc: true
-type: docs
-date: "2019-11-17T00:00:00Z"
-draft: false
-menu:
-  student-projects:
-    parent: Overview
-    weight: 15
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 15
+date: '2021-01-01'
+type: book
+weight: 100
 ---
 
 #### Q: Can I propose my own project?

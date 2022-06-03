@@ -1,19 +1,10 @@
 ---
 title: Dynamic security of the Cyprus low-inertia transmission system
 linktitle: CY Low Inertia
-toc: true
-type: docs
-date: "2022-02-05T00:00:00Z"
-draft: false
-menu:
-  student-projects:
-    parent: Overview
-    weight: 11
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 11
+date: '2021-01-01'
+type: book
+weight: 20
 ---
-
 
 ## Background
 

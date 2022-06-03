@@ -1,17 +1,9 @@
 ---
 title: Security assessment of Smart Grids using High-Performance Computing
 linktitle: DSA
-toc: true
-type: docs
-date: "2020-02-05T00:00:00Z"
-draft: false
-menu:
-  student-projects:
-    parent: Overview
-    weight: 13
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 13
+date: '2021-01-01'
+type: book
+weight: 20
 ---
 
 ## Background
@@ -26,7 +18,7 @@ As this procedure is extremely time consuming, cluster computing is frequently u
 
 In this project, you have to develop a security assessment platform that exploits parallel computing on the university cluster computer to check N-1 conditions in a realistic Smart Grid. You will use the dynamic simulator PyRAMSES[^PyRAMSES] to perform the actual simulations and get the results through a Python-based interface. The platform should be implemented in Python.
 
-{{< figure src="/media/img/projects/HPC_decorative_photos.png" title="The ARC HPC systems [Source: ARC]" >}}
+{{< figure src="../img/HPC_decorative_photos.png" title="The ARC HPC systems [Source: ARC]" >}}
 
 ## Deliverables
 
