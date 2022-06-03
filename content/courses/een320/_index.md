@@ -1,28 +1,17 @@
 ---
-# Course title, summary, and position.
-linktitle: Power systems I
-summary: This is a supporting website for the module EEN320 at the Cyprus University of Technology
-weight: 1
-
-# Page metadata.
 title: Power systems I
-date: "2020-1-1T00:00:00Z"
-lastmod: "2021-1-5T00:00:00Z"
-draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
-
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
-menu:
-  een320:
-    name: Overview
-    weight: 1
+linkTitle: Power systems I
+summary: This is a supporting website for the module EEN320 at the Cyprus University of Technology
+date: '2022-01-24'
+type: book
 ---
 
 
 This course covers the fundamentals of power system modeling, structure, and basic characteristics. It helps the students to understand the functional characteristics and to develop models for component-level as well as system-level analysis. The basic power system components, such as synchronous machines, transmission lines, transformers, and loads, are analyzed and their impact on the system is considered through real-life scenarios. The course focuses on steady-state, symmetrical, and normal (no-fault) operation.
+
+## Meet your instructor
+
+{{< mention "p.-aristidou" >}}
 
 ## Learning outcome
 
