@@ -17,7 +17,12 @@
   
 [[redirects]]
   from = "/apetros"
-  to = "/authors/p.-aristidou"
+  to = "/authors/petros-aristidou"
+  status = 302
+
+[[redirects]]
+  from = "/petros-aristidou"
+  to = "/authors/petros-aristidou"
   status = 302
 
 [[redirects]]
