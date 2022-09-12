@@ -2,7 +2,7 @@
 title: Power systems II
 linkTitle: Power systems II
 summary: This is a supporting website for the module EEN442 at the Cyprus University of Technology
-date: '2022-01-24'
+date: '2022-09-11'
 type: book
 ---
 

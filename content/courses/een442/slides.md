@@ -1,7 +1,7 @@
 ---
 title: Notes
 linktitle: Notes
-date: '2021-01-01'
+date: '2022-09-11'
 type: book
 weight: 20
 ---
@@ -24,3 +24,10 @@ weight: 20
 Alternative books in Greek:
 
 1. Ν. Βοβός, Γ. Γιαννακόπουλος, "Ανάλυση Συστημάτων Ηλεκτρικής Ενέργειας", Β' έκδοση, εκδόσεις ΖΗΤΗ, 2019
+
+## Teaching schedule 2022
+
+|Week| Date | Title | Notes |
+|-----|-----------------|------------|------------|
+|1|12/09/2022| Part 1 | + exercise 2.1.4 |
+|2|19/09/2022 | | |
