@@ -4,6 +4,7 @@ linktitle: Exercises
 date: '2021-01-01'
 type: book
 weight: 70
+draft: true
 ---
 
 The exercises are *not* mandatory and do not normally contribute to your final score. The exercises will only contribute *positively* to your final grade if you have a marginal score.

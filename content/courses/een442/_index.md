@@ -52,6 +52,7 @@ differential, digital relays)
     2. DC Motors
     3. AC Motors
     4. AC Transmission Lines
+    5. Protection design
 - Time and place: Monday 17:00-19:00 (ECEI Building, B24_R01, ground floor)
 - [Moodle Link](https://elearning.cut.ac.cy/course/view.php?id=775)
 
@@ -59,6 +60,7 @@ differential, digital relays)
 
 | Assessment type | % of grade |
 |-----------------|------------|
+| Mid-term exam | 20          |
 | Laboratory exam | 20          |
-| Mini project report with oral exam | 20         |
-| Final exam      | 60         |
+| Mini project report with exam | 20         |
+| Final exam      | 40         |
