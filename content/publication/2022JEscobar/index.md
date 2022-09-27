@@ -6,6 +6,7 @@ tags = ["ancillary services","demand response","distributed energy resources","f
 publication_types = ["2"]
 publication = "_IEEE Transactions on Sustainable Energy_"
 publication_short = ""
+abstract = "The large-scale integration of renewable generation and the gradual decommissioning of conventional power plants has led to decreased availability of resources for providing services and support to the bulk transmission grid. This paper presents a novel methodology for providing support to the bulk transmission system through the control of thousands of small distributed energy resources (DERs), located in distribution systems. This control scheme is expected to serve jointly with other classical countermeasures against instability conditions. The proposed method is model-free, scalable, and does not rely on extensive communication infrastructure. It integrates an online method (New LIVES) to monitor the voltage stability status of the transmission system, a rule-based decentralized decision algorithm, and the local DER mechanisms implementing the control actions. The proposed approach is implemented on a combined transmission and distribution test system with over 4200 low-voltage buses and the dynamic simulation results illustrate its flexibility, practicality, and tractability."
 summary = ""
 featured = false
 projects = ["low-inertia"]
