@@ -1,28 +1,28 @@
-**[01/10/22]** New journal paper [A feature-subspace-based ensemble method for estimating long-term voltage stability margins](/publication/2022jkhurram/) published in Electric Power Systems Research.
-**[01/10/22]** New journal paper [Quantifying the uncertainty imposed by inaccurate modeling of active distribution grids](/publication/2022jvorwerk/) published in Electric Power Systems Research.
-**[19/09/22]** New journal paper on [Resilient Microgrid Scheduling With Secure Frequency and Voltage Transient Response](/publication/2022jnagikandab) published in IEEE Transactions on Power Systems.
+**[01/10/22]** New journal paper [A feature-subspace-based ensemble method for estimating long-term voltage stability margins](/publication/2022jkhurram/) published in [Electric Power Systems Research](/tag/epsr/).
+**[01/10/22]** New journal paper [Quantifying the uncertainty imposed by inaccurate modeling of active distribution grids](/publication/2022jvorwerk/) published in [Electric Power Systems Research](/tag/epsr/).
+**[19/09/22]** New journal paper on [Resilient Microgrid Scheduling With Secure Frequency and Voltage Transient Response](/publication/2022jnagikandab) published in [IEEE Transactions on Power Systems](/tag/ieeetpwrs/).
 **[01/07/22]** New journal paper on [Improving Stability of Low-Inertia Systems using Virtual Induction Machine Synchronization for Grid-Following Converters](/publication/2022jstanojev/) published in IEEE Transactions on Power Systems.
 **[20/05/22]** New journal paper [Robust structural control of a real high-rise tower equipped with a hybrid mass damper](/publication/2022jkoutsoloukas/) published in The Structural Design of Tall and Special Buildings.
 **[12/05/22]** Our paper [Improving dynamic performance of low-inertia systems through eigensensitivity optimization](/publication/2021jvenkatraman/) received the [2021 TPWRS Best Paper Award](https://cmte.ieee.org/tpwrs/tpwrs-best-papers/).
-**[28/02/22]** New journal paper [Coordination of DERs and Flexible Loads to Support Transmission Voltages in Emergency Conditions](/publication/2022jescobar/) published in IEEE Transactions on Sustainable Energy.
-**[25/01/22]** New journal paper [A Stochastic-Robust Approach for Resilient Microgrid Investment Planning Under Static and Transient Islanding Security Constraints](/publication/2022jnakiganda/) published in IEEE Transactions on Smart Grids.
+**[28/02/22]** New journal paper [Coordination of DERs and Flexible Loads to Support Transmission Voltages in Emergency Conditions](/publication/2022jescobar/) published in [IEEE Transactions on Sustainable Energy](/tag/ieeetse/).
+**[25/01/22]** New journal paper [A Stochastic-Robust Approach for Resilient Microgrid Investment Planning Under Static and Transient Islanding Security Constraints](/publication/2022jnakiganda/) published in [IEEE Transactions on Smart Grids](/tag/ieeetsg/).
 **[12/11/21]** Our paper [Comparison of AC Optimal Power Flow Methods in Low-Voltage Distribution Networks](/publication/2021cnakigandab/) received a best paper award at IEEE PES ISGT-Europe 2021 conference.
-**[08/11/21]** New journal paper on [A Distributionally Robust AC Network-Constrained Unit Commitment](/publication/2021jdehghan/) published in IEEE Transactions on Power Systems.
+**[08/11/21]** New journal paper on [A Distributionally Robust AC Network-Constrained Unit Commitment](/publication/2021jdehghan/) published in [IEEE Transactions on Power Systems](/tag/ieeetpwrs/).
 **[02/07/21]** Our paper [Microgrid Operational Optimisation with Dynamic Voltage Security Constraints](/publication/2021cnakiganda/) received a best student paper award at the 2021 IEEE Madrid PowerTech conference.
 **[16/03/21]** Our paper [Wide-Area Oscillation Damping in Low-Inertia Grids under Time-Varying Communication Delays](/publication/2020calghamdi/) was selected in the top 3% of the PSCC2020. The presentation is located at the [PSCC 2020 Highlights playlist](https://www.youtube.com/playlist?list=PLDuQAy5izD05mS8ZxNJ02537EBdZco-ON).
-**[08/03/21]** New journal paper on [Understanding Small-Signal Stability of Low-Inertia Systems](/publication/2021JMarkovicb/) published in IEEE Transactions on Power Systems.
-**[01/03/21]** New journal paper on [Improving Dynamic Performance of Low-Inertia Systems through Eigensensitivity Optimization](/publication/2021Venkatraman/) published in IEEE Transactions on Power Systems.
-**[01/02/21]** [Mehran Jafari](/author/Mehran-Jafari/) has joined the lab as a PhD Candidate. Welcome Mehran!
+**[08/03/21]** New journal paper on [Understanding Small-Signal Stability of Low-Inertia Systems](/publication/2021JMarkovicb/) published in [IEEE Transactions on Power Systems](/tag/ieeetpwrs/).
+**[01/03/21]** New journal paper on [Improving Dynamic Performance of Low-Inertia Systems through Eigensensitivity Optimization](/publication/2021Venkatraman/) published in [IEEE Transactions on Power Systems](/tag/ieeetpwrs/).
+**[01/02/21]** [Mehran Jafari](/author/Mehran-Jafari/) has joined the lab as a PhD Candidate. Welcome [Mehran](/author/mehran-jafari/)!
 **[28/01/21]** Beta version of [PyEPLAN](/project/pyeplan/) has been released!
 **[09/09/20]** Our paper *Enhanced MPC for Fast Frequency Control in Inverter-Dominated Power Systems* received Best Paper Award at [SEST 2020](https://www.sest2020.org).
 **[08/07/20]** Our lab signed a research framework agreement with RTE France (the French TSO) covering exchange of information, exchange of staff and students, and funding of doctoral scholarships.
 **[29/06/20]** New PhD position on Numerical methods for power system simulations -- Deadline passed.
 **[20/06/20]** Our paper *Enhanced MPC for Fast Frequency Control in Inverter-Dominated Power Systems* was accepted at [SEST 2020](https://www.sest2020.org) and also *ranked among the top 10% of accepted papers*.
-**[04/06/20]** New journal paper on [MPC-Based Fast Frequency Control of Voltage Source Converters in Low-Inertia Power Systems](/publication/2020JStanojev/) published in IEEE Transactions on Power Systems.
-**[20/05/20]** New journal paper on [Clustering Data-driven Local Control Schemes in Active Distribution Grids](/publication/2020JKaragiannopoulos/) published in IEEE Systems Journal.
+**[04/06/20]** New journal paper on [MPC-Based Fast Frequency Control of Voltage Source Converters in Low-Inertia Power Systems](/publication/2020JStanojev/) published in [IEEE Transactions on Power Systems](/tag/ieeetpwrs/).
+**[20/05/20]** New journal paper on [Clustering Data-driven Local Control Schemes in Active Distribution Grids](/publication/2020JKaragiannopoulos/) published in [IEEE Systems Journal](/tag/ieeesj/).
 **[12/05/20]** [Three conference papers](/tag/pscc2020/) accepted for PSCC 2020!
 **[04/05/20]** A [new media article](https://www.sigmalive.com/news/oikonomia/626432/i-epidrasi-tou-koronoiou-stin-energeiaki-symperifora-ton-kyprion) on the impact of COVID19 to the electricity consumption in Cyprus (in Greek).
 **[01/05/20]** [Two conference papers](/tag/ieeegm2020/) accepted for IEEE GM 2020!
-**[13/04/20]** New journal paper on [Stochastic Unit Commitment in Low-Inertia Grids](/publication/2020JPaturet/) published in IEEE Transactions on Power Systems.
+**[13/04/20]** New journal paper on [Stochastic Unit Commitment in Low-Inertia Grids](/publication/2020JPaturet/) published in [IEEE Transactions on Power Systems](/tag/ieeetpwrs/).
 **[12/02/20]** Seminar presentation on Data-driven decentralised control design in Active Distribution Networks at [UCY](http://ucy.ac.cy).
-**[31/12/19]** New journal paper on [A Robust Coordinated Expansion Planning Model For Wind Farm-Integrated Power Systems With Flexibility Sources Using Affine Policies](/publication/2020JDehghan/) published in IEEE Systems Journal.
+**[31/12/19]** New journal paper on [A Robust Coordinated Expansion Planning Model For Wind Farm-Integrated Power Systems With Flexibility Sources Using Affine Policies](/publication/2020JDehghan/) published in [IEEE Systems Journal](/tag/ieeesj/).
