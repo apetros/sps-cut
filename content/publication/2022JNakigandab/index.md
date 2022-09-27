@@ -1,6 +1,6 @@
 +++
 title = "Resilient Microgrid Scheduling with Secure Frequency and Voltage Transient Response"
-date = "2022-10-01"
+date = "2022-09-25"
 authors = ["A. Nakiganda","P. Aristidou"]
 tags = ["ieeetpwrs"]
 publication_types = ["2"]
