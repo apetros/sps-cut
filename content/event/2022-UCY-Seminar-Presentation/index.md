@@ -5,6 +5,12 @@ event: Seminar Series of the Department of Electrical and Computer Engineering, 
 event_url: ''
 
 location: 'UCY Campus'
+address:
+  street: ''
+  city: ''
+  region: ''
+  postcode: ''
+  country: Cyprus
 
 summary: 'Planning tools for Rural Electrification'
 abstract: 'It is not an exaggeration to say that electricity is one of the pillars supporting modern societies. Access to electricity -- often taken as granted in western counties -- promotes economic growth, healthcare, education, and overall enhances the quality of life. However, even today there are still more than 800 million people worldwide without any access to electricity. The majority of these people live in rural areas in Africa and Asia. How can we plan for the electrification of these rural areas to ensure access to affordable, reliable, sustainable and modern energy for all? In this seminar we will see how we can formulate the problem of designing a new Microgrid to electrify a rural area as a mathematical optimization problem. We'll investigate the challenges posed by such complex optimal optimization problems and we'll introduce PyEPLAN -- an open-source tool developed to support rural electrification projects.'
