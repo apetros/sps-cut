@@ -1,17 +1,10 @@
 ---
 title: Screencasts
 linktitle: Screencasts
-toc: true
-type: docs
-date: "2021-01-01T00:00:00Z"
+date: '2021-01-01'
+type: book
+weight: 70
 draft: true
-menu:
-  een452:
-    parent: Learning resources
-    weight: 15
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
 ---
 
 

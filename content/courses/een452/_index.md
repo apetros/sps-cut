@@ -1,28 +1,16 @@
 ---
-# Course title, summary, and position.
-linktitle: Control and Operation of Electric Power Systems
-summary: This is a supporting website for the module EEN452 at the Cyprus University of Technology
-weight: 1
-
-# Page metadata.
 title: Control and Operation of Electric Power Systems
-date: "2021-01-01T00:00:00Z"
-lastmod: "2022-1-5T00:00:00Z"
-draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
-type: docs  # Do not modify.
-
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
-menu:
-  een452:
-    name: Overview
-    weight: 1
+linkTitle: Control and Operation of Electric Power Systems
+summary: This is a supporting website for the module EEN452 at the Cyprus University of Technology
+date: '2023-01-11'
+type: book
 ---
 
-
 This course extends into the area of electric power systems based on the courses EEN320 and EEN442. In the first part, it analyzes the dynamic behavior and various control structures. In the second part,  it focuses on advanced concepts and operational principles concerning the economic and secure operation of electric power systems.
+
+## Meet your instructor
+
+{{< mention "p.-aristidou" >}}
 
 ## Learning outcome
 
@@ -63,13 +51,12 @@ Due to special circumstances, this year the lectures are taking place online. Th
 - Practical examples (online ≈ 12 hours)
 - Hardware laboratory work (in lab ≈ 8 hours)
     1. Synchronous Motors/Generators
-- Wednesday 15:00-17:00 (Ground floor Ttofis and Zoom platform)
-- Thursday 15:30-17:30 (Lab 3rd floor Ttofis and Zoom platform)
+- As the schedule
 
 ## Assessment
 
 | Assessment type | % of grade |
 |-----------------|------------|
-| Mini project 1 (literature-based) | 25          |
-| Mini project 2 (software-based) | 25         |
+| Assignments (software-based) | 25         |
+| Mini project (literature-based) | 25          |
 | Final exam      | 50         |
