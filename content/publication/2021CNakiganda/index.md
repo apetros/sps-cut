@@ -22,5 +22,7 @@ highlight = true
 [image]
 image = ""
 caption = ""
+award = "true"
 +++
 
+colorbluetextbf(High Quality Paper Award)colorblack

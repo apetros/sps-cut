@@ -1,8 +1,8 @@
 +++
 title = "Wide-Area backup protection against asymmetrical faults in the presence of renewable energy sources"
-date = "2022-09-25"
+date = "2023-01-01"
 authors = ["M. Rezaei Jegarluei","P. Aristidou","S. Azizi"]
-tags = ["wide area backup protection","phasor measurement unit (pmu)","renewable energy sources","superimposed circuits", "ijepes"]
+tags = ["wide area backup protection","phasor measurement unit (pmu)","renewable energy sources","superimposed circuits"]
 publication_types = ["2"]
 publication = "_International Journal of Electrical Power & Energy Systems_"
 publication_short = ""

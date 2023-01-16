@@ -10,7 +10,7 @@ abstract = "Embedded with producers, consumers, and prosumers, active Low-Voltag
 summary = ""
 featured = false
 projects = ["low-inertia"]
-slides = "2021CNakigandab_slides.pdf"
+slides = ""
 url_code = ""
 url_dataset = ""
 url_poster = ""
@@ -22,5 +22,7 @@ highlight = true
 [image]
 image = ""
 caption = ""
+award = "true"
 +++
 
+colorbluetextbf(Best Paper Award)colorblack
