@@ -59,7 +59,7 @@ Due to special circumstances, this year the lectures are taking place online. Th
     2. Single-phase power transformer
     3. Three-phase power transformer
     4. Power-factor correction
-- Friday 13:00-17:00 (Ground Floor Lecture room Ttofis)
+- [Moodle Link](https://elearning.cut.ac.cy/course/view.php?id=1880)
 
 ## Assessment
 

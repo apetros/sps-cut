@@ -61,6 +61,6 @@ differential, digital relays)
 | Assessment type | % of grade |
 |-----------------|------------|
 | Mid-term exam | 20          |
-| Laboratory exam | 20          |
-| Mini project report with exam | 20         |
-| Final exam      | 40         |
+| Laboratory software exam | 15          |
+| Laboratory hardware exam | 15         |
+| Final exam      | 50         |

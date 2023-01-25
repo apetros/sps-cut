@@ -51,7 +51,7 @@ Due to special circumstances, this year the lectures are taking place online. Th
 - Practical examples (online ≈ 12 hours)
 - Hardware laboratory work (in lab ≈ 8 hours)
     1. Synchronous Motors/Generators
-- As the schedule
+- [Moodle Link](https://elearning.cut.ac.cy/course/view.php?id=1874)
 
 ## Assessment
 
