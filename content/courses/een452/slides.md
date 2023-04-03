@@ -14,6 +14,7 @@ weight: 20
 |4| [Voltage control](https://www.dropbox.com/s/xhiaw0xvehnd477/lecture_part4_presentation.pdf?dl=0) | Book 1 - Ch. 9.4 |
 |5| [Economics of electricity generation](https://www.dropbox.com/s/gy097kcqnauz9c1/lecture_part5_presentation.pdf?dl=0) | Book 1 - Ch. 5.1-5.4, Book 2 - Ch. 12.4, Book 3 - Ch.  3.1-3.2, 4.1-4.2  |
 |6| [Power system stability fundamentals](https://www.dropbox.com/s/q66m3wnelljps7w/lecture_part6_presentation.pdf?dl=0) | Book 1 - Ch. 10, Book 2 - Ch. 11.1-11.3  |
+|7| [Current and future trends in power system operation - the path to the smart grid](https://www.dropbox.com/s/4575ghpo3sq3mzf/lecture_part_smart_grid.pdf?dl=0) |   |
 
 ## Reference books
 
