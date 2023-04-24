@@ -45,7 +45,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Research Assistants
+- Alumni
 ---
 
 I am currently a research assistant at the Cyprus University of Technology, working on a project for assessing the impact of high EV penetration on the Cyprus electricity grid.
