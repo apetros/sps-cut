@@ -35,7 +35,7 @@ education:
 # Remove the ones not needed
 social:
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: 'https://linkedin.com/in/charalampospissarides'
 
 

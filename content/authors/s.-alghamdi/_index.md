@@ -49,7 +49,7 @@ social:
   icon_pack : ai
   link : https://orcid.org/0000-0003-3702-5132
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: 'https://linkedin.com/in/sultan-alghamdi-2874b696'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
