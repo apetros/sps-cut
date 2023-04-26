@@ -42,15 +42,15 @@ education:
 # Social/Academic Networking
 # Remove the ones not needed
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:smalgamdi1@kau.edu.sa'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=vWKKoMcAAAAJ&hl=en
 - icon : orcid
   icon_pack : ai
   link : https://orcid.org/0000-0003-3702-5132
+- icon: linkedin
+  icon_pack: fas
+  link: 'https://linkedin.com/in/sultan-alghamdi-2874b696'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

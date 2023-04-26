@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Electronic and Electrical Engineering
     institution: University of Leeds, UK
-    year: Ongoing
+    year: 2022
   - course: Master's in Electrical Engineering and Renewable Energy Systems
     institution: University of Leeds, UK
     year: 2015
@@ -39,9 +39,9 @@ education:
 # Social/Academic Networking
 # Remove the ones not needed
 social:
-- icon: envelope
+- icon: linkedin
   icon_pack: fas
-  link: 'mailto:el14amn@leeds.ac.uk'
+  link: 'https://www.linkedin.com/in/agnes-marjorie-nakiganda-74720523'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=gdkjBScAAAAJ&hl=en
@@ -53,8 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
-I am currently a PhD student at [University of Leeds](https://www.leeds.ac.uk/). My research simultaneously looks into the operational and investment planning and optimisation of microgrid networks and the dynamical nature of their inherent systems to ensure a secure, reliable and resilient performance in different modes operation.
-
+Agnes graduated at the University of Leeds in 2022.

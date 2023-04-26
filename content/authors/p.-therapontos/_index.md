@@ -43,6 +43,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:fthera01@ucy.ac.cy'
+- icon: linkedin
+  icon_pack: fas
+  link: 'https://linkedin.com/in/phivos-therapontos-92230a124'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""

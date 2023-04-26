@@ -28,15 +28,15 @@ education:
   courses:
   - course: Bachelors in Electrical Engineering (4-year curriculum)
     institution: Cyprus University of Technology
-    year: Ongoing
+    year: 2021
 
 
 # Social/Academic Networking
 # Remove the ones not needed
 social:
-- icon: envelope
+- icon: linkedin
   icon_pack: fas
-  link: 'mailto:cn.pissaridis@edu.cut.ac.cy'  # For a direct email link, use "mailto:test@example.org".
+  link: 'https://linkedin.com/in/charalampospissarides'
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
