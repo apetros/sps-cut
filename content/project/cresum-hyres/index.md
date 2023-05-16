@@ -2,7 +2,7 @@
 title: CRESUM-HYRES
 summary: Creating Resilient Sustainable Micro-Grids through Hybrid Renewable Energy Systems
 tags:
-- Current projects
+- Past projects
 - Microgrids
 date: "2018-04-27T00:00:00Z"
 
