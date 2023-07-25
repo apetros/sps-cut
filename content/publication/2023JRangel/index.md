@@ -11,7 +11,7 @@ summary = ""
 featured = false
 projects = []
 slides = ""
-doi = "https://doi.org/10.1016/j.apenergy.2023.120748"
+doi = "10.1016/j.apenergy.2023.120748"
 url_code = ""
 url_dataset = ""
 url_poster = ""
@@ -26,5 +26,5 @@ caption = ""
 +++
 
 {{< rawhtml >}}
-<div data-badge-details="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1016/j.apenergy.2023.120748" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1016/j.apenergy.2023.120748" data-hide-no-mentions="true" class="altmetric-embed"></div>
 {{< /rawhtml >}}
