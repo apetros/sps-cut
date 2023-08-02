@@ -23,11 +23,33 @@ Afterwards, I took a position as postdoctoral researcher at the group of <a href
 
 Between 2016 and 2019, I was an Assistant Professor at the <a href="https://engineering.leeds.ac.uk/electronic" target="_blank">School of Electronic and Electrical Engineering</a> of the <a href="https://www.leeds.ac.uk" target="_blank">University of Leeds</a> in the UK.
 
-Since January 2020, I am a Lecturer at the [Cyprus University of Technology](https://cut.ac.cy). I mainly work on the modelling, simulation and control of electric power systems. With the advent of Smart Grids and the extended reliance on ICTs for their operation, my research has spanned a broad spectrum of topics evolving around cyber-physical systems. Check out my [research interests](/#projects) and [my publications](/publication/) for more details.
+Since January 2020, I am an Assistant at the [Cyprus University of Technology](https://cut.ac.cy). I mainly work on the modelling, simulation and control of electric power systems. With the advent of Smart Grids and the extended reliance on ICTs for their operation, my research has spanned a broad spectrum of topics evolving around cyber-physical systems. Check out my [research interests](/#projects) and [my publications](/publication/) for more details.
 
 I've put together a timeline below with some milestones of my life. You can also read my [Full CV](/files/Petros_Aristidou_CV.pdf).
 
 <ul class="timeline">
+<!-- Item 1 -->
+  <li>
+    <div class="direction-l">
+      <div class="flag-wrapper">
+        <span class="hexa"></span>
+        <span class="flag">Promotion</span>
+        <span class="time-wrapper"><span class="time">Jun 2023</span></span>
+      </div>
+      <div class="desc">I got promoted to Assistant Professor position at the <a href="https://cut.ac.cy" target="_blank">Cyprus University of Technology</a></div>
+    </div>
+  </li>
+<!-- Item 2 -->
+  <li>
+    <div class="direction-l">
+      <div class="flag-wrapper">
+        <span class="hexa"></span>
+        <span class="flag">New family member</span>
+        <span class="time-wrapper"><span class="time">Nov 2021</span></span>
+      </div>
+      <div class="desc">My son is here :heart_eyes:</div>
+    </div>
+  </li>
 <!-- Item 1 -->
   <li>
     <div class="direction-l">

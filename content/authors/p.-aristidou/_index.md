@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
@@ -75,11 +75,11 @@ For short bio check below. For more information, check my [longer bio]({{< ref "
 
 ## Short bio
 
-Petros Aristidou got his Diploma from the Department of Electrical & Computer Engineering at the National Technical University of Athens (Greece) in 2010 and his PhD at the University of Liege (Belgium) in 2015. During his PhD, he worked on domain decomposition methods for real-time dynamic security assessment of transmission systems. He took a position as a Postdoctoral Researcher at the Power Systems Laboratory at ETH Zurich (Switzerland) for one year, working on developing new control algorithms for future low-inertia power systems. Between 2016-2019 he was a Lecturer at the University of Leeds (UK), where he led the Smart Grids Lab. Since January 2020, he has been a Lecturer in Sustainable Power Systems at the Cyprus University of Technology. His expertise is in power system dynamics, planning, and control, and he has participated in several working groups looking into the challenges of low-inertia systems. Recent projects and publications can be found at https://sps.cut.ac.cy
+Petros Aristidou got his Diploma from the Department of Electrical & Computer Engineering at the National Technical University of Athens (Greece) in 2010 and his PhD at the University of Liege (Belgium) in 2015. During his PhD, he worked on domain decomposition methods for real-time dynamic security assessment of transmission systems. He took a position as a Postdoctoral Researcher at the Power Systems Laboratory at ETH Zurich (Switzerland) for one year, working on developing new control algorithms for future low-inertia power systems. Between 2016-2019 he was a Lecturer at the University of Leeds (UK), where he led the Smart Grids Lab. Since January 2020, he has been an Assistant Professor in Sustainable Power Systems at the Cyprus University of Technology. His expertise is in power system dynamics, planning, and control, and he has participated in several working groups looking into the challenges of low-inertia systems. Recent projects and publications can be found at https://sps.cut.ac.cy
 
 ## Σύντομο βιογραφικό
 
-Ο Πέτρος Αριστείδου είναι Λέκτορας στο τμήμα Ηλεκτρολόγων Μηχανικών και Μηχανικών Ηλεκτρονικών Υπολογιστών και Πληροφορικής από τον Ιανουάριου του 2020.
+Ο Πέτρος Αριστείδου είναι Επίκουρος Καθηγητής στο τμήμα Ηλεκτρολόγων Μηχανικών και Μηχανικών Ηλεκτρονικών Υπολογιστών και Πληροφορικής από τον Ιανουάριου του 2020.
 
 Είναι κάτοχος Διπλώματος Ηλεκτρολόγου Μηχανικού και Μηχανικού Υπολογιστών από το Εθνικό Μετσόβιο Πολυτεχνείο από το 2010 και Διδακτορικού στη Επιστήμη Μηχανικού από το University of Liege (Βέλγιο) το 2015. Μετά το διδακτορικό του, εργάστηκε σαν μεταδιδακτορικός ερευνητής στο πολυτεχνείο της Ζυρίχης (ETH Zurich) εργοδοτούμενος στο Ευρωπαϊκό πρόγραμμα MIGRATE που στόχο είχε τη δημιουργία νέων μεθόδων λειτουργίας και ελέγχου μελλοντικών συστημάτων ισχύος. Από το 2016 μέχρι το 2019 ήταν Λέκτορας στο University of Leeds όπου και ήταν επικεφαλής του εργαστηρίου Ευφυών Δικτύων.
 
