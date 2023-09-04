@@ -2,7 +2,7 @@
 title: Power systems II
 linkTitle: Power systems II
 summary: This is a supporting website for the module EEN442 at the Cyprus University of Technology
-date: '2022-09-11'
+date: '2023-09-01'
 type: book
 ---
 
@@ -46,14 +46,9 @@ differential, digital relays)
 ## Delivery
 
 - Theory delivered through lectures (in class ≈ 28 hours)
-- Practical examples (online ≈ 12 hours)
-- Hardware laboratory work (in lab ≈ 12 hours)
-    1. Rotating machines: Connection and familiarization, losses and efficiency.
-    2. DC Motors
-    3. AC Motors
-    4. AC Transmission Lines
-    5. Protection design
-- Time and place: Monday 17:00-19:00 (ECEI Building, B24_R01, ground floor)
+- Practical examples (online ≈ 8 hours)
+- Hardware laboratory work (in lab ≈ 10 hours)
+- Software laboratory work (in lab ≈ 10 hours)
 - [Moodle Link](https://elearning.cut.ac.cy/course/view.php?id=775)
 
 ## Assessment
@@ -61,6 +56,6 @@ differential, digital relays)
 | Assessment type | % of grade |
 |-----------------|------------|
 | Mid-term exam | 20          |
-| Laboratory software exam | 15          |
-| Laboratory hardware exam | 15         |
-| Final exam      | 50         |
+| Software lab exam | 20          |
+| Hardware lab exam | 20         |
+| Final exam      | 40         |
