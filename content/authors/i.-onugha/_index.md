@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate (UoL)
+role: PhD Candidate (Alumni)
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Electronic and Electrical Engineering
     institution: University of Leeds, UK
-    year: Ongoing
+    year: 2023
   - course: Bachelor of Engineering in Electrical & Electronic Engineering(Power systems Engineering Option)
     institution: Federal University of Technology Owerri.
     year: 2017
@@ -56,7 +56,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
 I received my B.Eng and M.Eng degrees from the Federal University of Technology Owerri, Nigeria in 2007 and 2017 respectively. I am working towards a Ph.D. degree at the University of Leeds, Engand UK.

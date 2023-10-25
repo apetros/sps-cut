@@ -1,8 +1,8 @@
 +++
 title = "Wide-Area Backup Protection Using Sparse Synchronized/Unsynchronized PMU Measurements"
-date = "2023-07-24"
+date = "2023-08-01"
 authors = ["M. Rezaei Jegarluei","P. Aristidou","W. Fernandes","S. Azizi"]
-tags = [""]
+tags = ["ieeetpwrd"]
 publication_types = ["2"]
 publication = "_IEEE Transactions on Power Delivery_"
 publication_short = ""

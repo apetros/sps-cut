@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate (UoL)
+role: PhD Candidate (Alumni)
 
 # Organizations/Affiliations
 organizations:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Big Data Security
     institution: University of Leeds, UK
-    year: Ongoing
+    year: 2023
   - course: MSc in Data Science
     institution: University of Leeds, UK
     year: 2015
@@ -39,9 +39,9 @@ education:
 # Social/Academic Networking
 # Remove the ones not needed
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:elakh@leeds.ac.uk'
+- icon: linkedin
+  icon-pack: fab
+  link: 'https://www.linkedin.com/in/ambreen-khurram-ak282910/'
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -50,7 +50,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Candidates
+- Alumni
 ---
 
-I am currently a PhD student at [University of Leeds](https://www.leeds.ac.uk/). My research work comprised of developing monitoring system based on machine learning techniques that detects anomalies in the power networks using high resolution data from phasor measurement units (PMU). The project utilizes big data analytic methods to gain insight into state of the power system using real time assessments.
+My research work comprised of developing monitoring system based on machine learning techniques that detects anomalies in the power networks using high resolution data from phasor measurement units (PMU). The project utilizes big data analytic methods to gain insight into state of the power system using real time assessments.

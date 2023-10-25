@@ -23,8 +23,10 @@ highlight = true
 [image]
 image = ""
 caption = ""
+award = "true"
 +++
 
+colorbluetextbf(Roy Billington best student paper award)colorblack
 {{< rawhtml >}}
 <div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1109/PMAPS53380.2022.9810598" data-hide-no-mentions="true" class="altmetric-embed"></div>
 {{< /rawhtml >}}
