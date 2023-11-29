@@ -4,6 +4,7 @@ summary: Review of operating margin policy - TSOC
 tags:
 - Low Inertia
 - Frequency Stability
+- Past projects
 date: "2023-01-29T00:00:00Z"
 
 profile: false  # Show author profile?
