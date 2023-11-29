@@ -13,7 +13,7 @@ profile: false  # Show author profile?
 external_link: 
 
 image:
-  caption: Frequency activated products after disturbances.
+  caption: Disturbance event
   focal_point: Reserves Products
 ---
 
