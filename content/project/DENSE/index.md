@@ -2,10 +2,10 @@
 title: DENSE
 summary: Dependable engineering of Smart Energy Systems
 tags:
+- Current projects
 - Energy systems
 - Control engineering
 - Artificial intelligence
-- Energy systems
 date: "2024-01-01T00:00:00Z"
 
 profile: false  # Show author profile?
