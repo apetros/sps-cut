@@ -2,7 +2,7 @@
 title: EV-Cyprus
 summary: Analysing the impact of Electric Vehicles on the Cyprus distribution network
 tags:
-- Current projects
+- Past projects
 - EV
 date: "2022-01-01T00:00:00Z"
 
