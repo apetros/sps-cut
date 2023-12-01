@@ -6,7 +6,7 @@ tags:
 - Energy systems
 - Control engineering
 - Artificial intelligence
-date: "2023-12-01T00:00:00Z"
+date: "2023-11-29T00:00:00Z"
 
 profile: false  # Show author profile?
 
@@ -19,7 +19,6 @@ image:
 ---
 
 ## Summary
-
 
 The DN DENSE is addressing individual research projects and training of early-stage researchers (ESRs) in the innovative dependable 
 engineering of Smart Energy Systems (SESs) with the main focus on robustness as well as preventive and corrective actions under 
