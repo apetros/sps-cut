@@ -16,13 +16,14 @@ external_link:
 
 # Only change the caption, not the focal_point!
 image:
-  caption: Frequency activated products after disturbances.
+  caption: DENSE logo
   focal_point: Smart
 
 ---
 
 ## General information
 
+- Name: Dependable engineering of Smart Energy Systems (DENSE)
 - Funding agency: Horizon Europe MSCA
 - Start date: 01.01.2024
 - End date: 31.06.2027
@@ -30,7 +31,7 @@ image:
 
 ## Summary
 
-The DN DENSE is addressing individual research projects and training of early-stage researchers (ESRs) in the innovative dependable engineering of Smart Energy Systems (SESs) with the main focus on robustness as well as preventive and corrective actions under uncertainty.
+DENSE is addressing individual research projects and training of early-stage researchers (ESRs) in the innovative dependable engineering of Smart Energy Systems (SESs) with the main focus on robustness as well as preventive and corrective actions under uncertainty.
 
 Within this concept, the term "Smart Energy Systems (SESs)" refers to a holistic cross-sectoral approach (e.g. electricity, heating, cooling, industry, buildings and transportation) aimed at excelling the transformation towards sustainable and achievable future energy systems. Hence, it both covers but also extends beyond the Smart Grid approach, which is mainly focused on the electricity sector. Consequently, SESs exhibit the following attributes:
 
