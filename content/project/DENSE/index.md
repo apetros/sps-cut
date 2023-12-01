@@ -30,9 +30,9 @@ cooling, industry, buildings and transportation) aimed at excelling the transfor
 systems. Hence, it both covers but also extends beyond the Smart Grid approach, which is mainly focused on the electricity sector. 
 Consequently, SESs exhibit the following attributes: 
 
-(i) Complex interactions on sub-system and cross-sectoral systems-of-systems levels; 
-(ii) Cyber-physical characteristics with digital and physical network connections; 
-(iii) Ability to operate in non-stationary, uncertain and severe environments. 
+- Complex interactions on sub-system and cross-sectoral systems-of-systems levels; 
+- Cyber-physical characteristics with digital and physical network connections; 
+- Ability to operate in non-stationary, uncertain and severe environments. 
 
 Dependability of complex networks, such as SESs, characterizes their ability to deliver service that can justifiably be trusted. Thus, 
 dependability comprises system attributes, such as availability, reliability, safety, integrity and maintainability. A key requirement of 
@@ -41,5 +41,3 @@ provable performance guarantees throughout the system’s life time is already r
 in DENSE with a focus on operational robustness as well as preventive and corrective actions in SESs. As a consequence, DENSE is 
 well-aligned with the EU Commission’s headline ambitions on the European Green Deal as well as the strive for grasping the 
 opportunities from the digital age, while increasing social fairness and prosperity.
-
- 
