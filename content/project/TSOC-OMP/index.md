@@ -7,7 +7,7 @@ tags:
 - Frequency Stability
 date: "2023-01-29T00:00:00Z"
 
-profile: s.-panagi  # Show author profile?
+profile: false  # Show author profile?
 
 # Optional external URL for project (replaces project detail page).
 external_link: 
