@@ -26,8 +26,8 @@ image:
 - Name: Dependable engineering of Smart Energy Systems (DENSE)
 - Funding agency: Horizon Europe MSCA
 - Start date: 01.01.2024
-- End date: 31.06.2027
 - Total budget: 2.6m euros
+- Website: https://dense-dn.eu/
 
 ## Summary
 
