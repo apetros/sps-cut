@@ -2,7 +2,7 @@
 title: TSOC-OMP
 summary: Review of operating margin policy - TSOC
 tags:
-- Current projects
+- Past projects
 - Low Inertia
 - Frequency Stability
 date: "2023-01-29T00:00:00Z"
@@ -23,4 +23,4 @@ The growing integration of renewable energy sources is compelling power system o
 
 ## Methodology
 
-The methodologies that are used in the current project focus on theoretical calculation of system limits, dynamic simulations, probabilistic techniques and machine learning.
+The methodologies that were used in the current project focus on theoretical calculation of system limits, dynamic simulations, probabilistic techniques, and machine learning.
