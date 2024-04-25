@@ -1,9 +1,9 @@
 ---
 title: Graph-theoretic analysis of Smart Grids
 linktitle: Graph-theoretic analysis
-date: '2021-01-01'
+date: '2024-04-24'
 type: book
-draft: true
+draft: false
 weight: 20
 ---
 
