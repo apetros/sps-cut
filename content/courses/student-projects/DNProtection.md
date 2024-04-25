@@ -1,17 +1,10 @@
 ---
 title: Protection analysis in low-inertia Distribution Grids with Renewables
 linktitle: DN Protection
-toc: true
-type: docs
 date: '2024-04-24'
+type: book
 draft: false
-menu:
-  student-projects:
-    parent: Overview
-    weight: 15
-
-# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 15
+weight: 60
 ---
 
 ## Background and Objectives

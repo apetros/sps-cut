@@ -1,9 +1,10 @@
 ---
 title: Security assessment of Smart Grids using High-Performance Computing
 linktitle: DSA
-type: docs
 date: '2024-04-24'
+type: book
 draft: false
+weight: 30
 ---
 
 ## Background

@@ -1,9 +1,10 @@
 ---
 title: Monitoring and control of PV systems
 linktitle: PVFlex
-type: docs
 date: '2024-04-24'
+type: book
 draft: false
+weight: 50
 ---
 
 ## Background

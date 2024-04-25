@@ -1,9 +1,10 @@
 ---
 title: Frequently Asked Questions
 linktitle: FAQ
-date: '2021-01-01'
+date: '2024-04-24'
 type: book
-weight: 01
+draft: false
+weight: 1000
 ---
 
 #### Q: Can I propose my own project?
