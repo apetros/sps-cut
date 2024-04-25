@@ -4,7 +4,7 @@ linktitle: DN Protection
 toc: true
 type: docs
 date: "2023-02-05T00:00:00Z"
-draft: false
+draft: true
 menu:
   student-projects:
     parent: Overview
