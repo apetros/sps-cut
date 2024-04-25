@@ -3,7 +3,7 @@ title: Frequently Asked Questions
 linktitle: FAQ
 date: '2021-01-01'
 type: book
-weight: 100
+weight: 200
 ---
 
 #### Q: Can I propose my own project?
