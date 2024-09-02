@@ -8,7 +8,7 @@ weight: 20
 
 |  | Title | Notes |
 |-----------------|------------|------------|
-|1| [Revision of power engineering fundamentals](https://alucutac-my.sharepoint.com/:b:/g/personal/petros_aristidou_cut_ac_cy/Eb6e41-8pJ5MjiQUM56Mp2sBhY7TGtwPneF5lRZ8la810Q?e=yYynoY) | Book 1 - Chapter 2, [EEN320 material](https://sps.cut.ac.cy/courses/een320/) |
+|1| [Revision of power engineering fundamentals](https://alucutac-my.sharepoint.com/:b:/g/personal/petros_aristidou_cut_ac_cy/Eb6e41-8pJ5MjiQUM56Mp2sBhY7TGtwPneF5lRZ8la810Q?e=J4FZpV) | Book 1 - Chapter 2, [EEN320 material](https://sps.cut.ac.cy/courses/een320/) |
 |2| [Fundamentals of power system operation](https://www.dropbox.com/s/0cd25aoo2fqun70/lecture_part2_presentation.pdf?dl=0)| Book 1 - Chapter 2.3.4, Book 2 - Chapter 5  |
 |3| [Power flow analysis](https://www.dropbox.com/s/4lqqa0fovdqoqyf/lecture_part3_presentation.pdf?dl=0) | Book 1 - Chapter 3, Book 2 - Chapter 6|
 |4| [Unbalanced operation](https://www.dropbox.com/s/at4v7kbbng69d9c/lecture_part4_presentation.pdf?dl=0) |  Book 1 - Chapter 7.2, Book 2 - Chapter 8, Book 3 - Chapter 2.2 |
