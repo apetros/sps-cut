@@ -1,8 +1,8 @@
 +++
 title = "Increasing Hosting Capacity of Uncontrollable Distributed Energy Resources in Isolated Power Systems"
 date = "2023-10-01"
-authors = ["P. Therapontos","A. Stavrou", "P. Aristidou"]
-tags = [""]
+authors = ["P. Therapontos","A. Stavrou","P. Aristidou"]
+tags = ["decentralized control","europe","power system stability","stability analysis","distributed power generation","smart grids","remote monitoring","uncontrollable distributed energy resources","hosting capacity","grid code requirements","frequency stability","islanded systems"]
 publication_types = ["1"]
 publication = "_2023 IEEE PES Innovative Smart Grid Technologies Europe (ISGT EUROPE)_"
 publication_short = ""
