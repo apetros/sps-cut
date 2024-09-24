@@ -4,7 +4,7 @@
 title: "Hybrid journals supported by CUT for free publications"
 subtitle: ""
 summary: ""
-authors: ["P. Aristidou"]
+authors: ["s.-panagi"]
 tags: ['CUT', "library"]
 categories: ['blog']
 date: 2024-08-29T00:00:48+03:00
