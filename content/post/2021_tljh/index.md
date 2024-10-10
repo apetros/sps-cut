@@ -117,6 +117,7 @@ sudo -E conda install -c apetros pyramses
 
 ```bash
 # download the key to system keyring
+
 wget -O- https://apt.repos.intel.com/intel-gpg-keys/GPG-PUB-KEY-INTEL-SW-PRODUCTS.PUB |
 gpg --dearmor | sudo tee /usr/share/keyrings/oneapi-archive-keyring.gpg > /dev/null
 

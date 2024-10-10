@@ -68,6 +68,7 @@ features:
       - python
       - bash
       - fortran
+      - powershell
   math:
     enable: true
   privacy_pack:
