@@ -67,7 +67,6 @@ features:
       - latex
       - python
       - bash
-      - fortran
   math:
     enable: true
   privacy_pack:
