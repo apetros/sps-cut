@@ -63,12 +63,14 @@ features:
   syntax_highlighter:
     enable: true
     extra_languages:
-      - r
       - latex
       - python
       - bash
       - fortran
       - powershell
+      - bibtex
+      - cpp
+    theme: "nord"
   math:
     enable: true
   privacy_pack:
