@@ -70,7 +70,7 @@ features:
       - powershell
       - bibtex
       - cpp
-    theme: "nord"
+    theme: "github"
   math:
     enable: true
   privacy_pack:
