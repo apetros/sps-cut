@@ -61,17 +61,19 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: false
+    enable: true
     extra_languages:
       - r
       - latex
       - python
+      - bash
+      - fortran
   math:
     enable: true
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/SPS-L/sps-cut/'
     content_dir: content
     branch: main
   avatar:
