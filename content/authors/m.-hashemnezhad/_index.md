@@ -30,7 +30,8 @@ interests:
 education:
   courses:
   - course: MSc in Electrical & Computer Engineering
-    institution: Tarbiat Modares University, Tehran, Iran, year: 2024
+    institution: Tarbiat Modares University, Tehran, Iran
+    year: 2024
 
 # Social/Academic Networking
 # Remove the ones not needed
