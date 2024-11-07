@@ -35,6 +35,9 @@ education:
 # Social/Academic Networking
 # Remove the ones not needed
 social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:ma.hashemnezhad@edu.cut.ac.cy' 
 - icon: linkedin 
   icon_pack: fab 
   link: 'https://www.linkedin.com/in/m-hashemnezhad/'
