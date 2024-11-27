@@ -8,3 +8,4 @@ coincbc
 pypsa
 networkx
 cartopy
+jupyterlab
