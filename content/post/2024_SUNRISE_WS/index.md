@@ -31,7 +31,7 @@ projects: ["DENSE"]
 ---
 
 
-# 1st SUNRISE Summer School: A Fantastic Experience!
+## 1st SUNRISE Summer School: A Fantastic Experience!
 
 I recently participated in the 1st SUNRISE Summer School at the University of Belgrade. This incredible event brought together energy enthusiasts from across the globe for hands-on learning and lively discussions on Real-Time Applications for Renewable Energy Sources. The program featured practical sessions on protection relay testing, control hardware-in-the-loop (HIL) simulations, and engaging lectures delivered by top experts.
 
