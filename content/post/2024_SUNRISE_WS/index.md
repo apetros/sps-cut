@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 # 
 
-projects: ["DENSE"] references content/project/DENSE/index.md
+projects: ["DENSE"]
 ---
 
 
