@@ -40,6 +40,3 @@ I recently attended the Grid-Forming Control Workshop, organized by the renowned
 3. **Converter Integration:** The focus then shifted to converter interactions within the grid, delving into the dynamics between synchronous machines and power converters. The highlight of the day was a practical demonstration of grid-forming control, offering participants a glimpse into its transformative potential.
 
 4. **AC/DC Grid Interaction:** The workshop concluded with an exploration of the interaction between AC and DC grids and a final discussion on the future of grid-forming control technologies. This session emphasized the growing need for integrated approaches in managing diverse energy resources effectively.
-
-## Personal Reflections
-Attending the SUNRISE Summer School was an eye-opening experience, offering a rare blend of academic rigor, practical learning, and collaborative opportunities. The focus on real-time applications, especially in the context of renewable energy, aligns perfectly with the increasing need for innovative solutions in energy systems.
