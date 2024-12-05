@@ -7,8 +7,8 @@ summary: ""
 authors: ["s.-panagi"]
 tags: []
 categories: ['blog']
-date: 2024-09-16T00:08:48+03:00
-lastmod: 2024-09-16T00:08:48+03:00
+date: 2024-07-14T00:08:48+03:00
+lastmod: 2024-07-14T00:08:48+03:00
 featured: false
 draft: false
 
