@@ -41,4 +41,4 @@ Modern electric power systems increasingly face frequency security challenges du
 
 The co-authors of this work are Savvas Panagi and Professor Dr. Petros Aristidou, whose guidance, collaboration, and support were instrumental in the success of this research. This project has received funding from the EU’s Horizon Europe Framework Programme (HORIZON) under the GA n. 101120278 - DENSE.
 
-![jpeg](image.jpeg)
+![jpg](image.jpg)
