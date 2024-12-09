@@ -26,5 +26,5 @@ caption = ""
 +++
 
 {{< rawhtml >}}
-<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1109/ISGTEUROPE56780.2023.10407388" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<div data-badge-details="right" data-badge-type="medium-donut" data-doi="10.1049/icp.2024.2088" data-hide-no-mentions="true" class="altmetric-embed"></div>
 {{< /rawhtml >}}
