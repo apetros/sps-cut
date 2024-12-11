@@ -1,7 +1,7 @@
 +++
 title = "Planning methods for secure islanding"
 date = "2024-12-01"
-authors = ["A.M. Nakiganda", "P. Aristidou"]
+authors = ["A. Nakiganda", "P. Aristidou"]
 tags = []
 publication_types = ["6"]
 publication = "_Intended and Unintended Islanding of Distribution Grids_"
