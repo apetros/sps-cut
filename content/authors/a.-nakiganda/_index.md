@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Candidate (UoL)
+role: Alumni (PhD graduate)
 
 # Organizations/Affiliations
 organizations:
-- name: University of Leeds
-  url: "https://www.leeds.ac.uk/"
+- name: 
+  url:
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -56,4 +56,4 @@ user_groups:
 - Alumni
 ---
 
-Agnes graduated at the University of Leeds in 2022.
+Agnes graduated from the University of Leeds in 2022.
