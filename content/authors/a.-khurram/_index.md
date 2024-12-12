@@ -40,7 +40,7 @@ education:
 # Remove the ones not needed
 social:
 - icon: linkedin
-  icon-pack: fab
+  icon_pack: fab
   link: 'https://www.linkedin.com/in/ambreen-khurram-ak282910/'
 
 
