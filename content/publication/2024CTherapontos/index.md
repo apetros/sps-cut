@@ -2,7 +2,7 @@
 title = "Increasing the RES hosting capacity of the Cyprus distribution system"
 date = "2024-07-01"
 authors = ["P. Therapontos", "R. Konstantinou", "C.A. Charalambous","P. Aristidou"]
-tags = ["congestion management", "power system security","renewable energy sources","islanded systems"]
+tags = ["congestion management", "power system security","renewable energy sources","islanded systems","CIRED24"]
 publication_types = ["1"]
 publication = "CIRED 2024 Vienna Workshop"
 publication_short = ""

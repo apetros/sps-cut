@@ -2,7 +2,7 @@
 title = "Impact of Fast Frequency Response on Renewable Energy Source Curtailment and Load Shedding"
 date = "2024-07-01"
 authors = ["S. Panagi","A. Lazari","V. Koutsoloukas","P. Aristidou"]
-tags = ["frequency response","load shedding","power distribution fault","power system security","renewable energy sources","islanded systems"]
+tags = ["frequency response","load shedding","power distribution fault","power system security","renewable energy sources","islanded systems","CIRED24"]
 publication_types = ["1"]
 publication = "CIRED 2024 Vienna Workshop"
 publication_short = ""
