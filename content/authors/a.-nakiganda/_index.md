@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: Alumni (PhD graduate)
+role: PhD Candidate (Alumni)
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url:
+- name: University of Leeds
+  url: "https://www.leeds.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
